@@ -1,0 +1,426 @@
+{
+  "person": {
+    "name_cn": "黄旭华",
+    "name_pinyin": "Huang Xuhua",
+    "birth": {
+      "year": 1924,
+      "month": 2,
+      "day": 24,
+      "location": "广东省海丰县田墘镇（现广东省汕尾市红湾区田墘镇）"
+    },
+    "death": null,
+    "aliases": [
+      "黄绍强"
+    ]
+  },
+  "family": {
+    "father": {
+      "name": "黄树榖",
+      "aka": "黄育黎"
+    },
+    "mother": {
+      "name": "曾慎其"
+    },
+    "spouse": {
+      "name": "李世英",
+      "married": 1956
+    },
+    "children": [
+      {
+        "name": "黄海燕",
+        "birth": "1957-09-06",
+        "relation": "大女儿"
+      },
+      {
+        "name": "黄燕妮",
+        "relation": "大女儿（注：文中大女儿先后出现黄海燕和黄燕妮，疑为同一人，但出生年份不同，按原文保留）"
+      },
+      {
+        "name": "李骊",
+        "birth": "1966-04-08",
+        "relation": "二女儿"
+      },
+      {
+        "name": "黄峻",
+        "birth": "1973-07-02",
+        "relation": "小女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "黄绍忠",
+        "relation": "大哥",
+        "aka": "黄誊"
+      },
+      {
+        "name": "黄绍振",
+        "relation": "二哥"
+      },
+      {
+        "name": "黄绍富",
+        "relation": "四弟"
+      },
+      {
+        "name": "黄绍荣",
+        "relation": "五弟",
+        "aka": "黄荣"
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1931-1933",
+      "institution": "海丰县田墘镇树基小学",
+      "dept": null,
+      "degree": null,
+      "location": "海丰县田墘镇",
+      "status": "attended"
+    },
+    {
+      "period": "1934-1934",
+      "institution": "海丰县田墘镇小学",
+      "dept": null,
+      "degree": null,
+      "location": "海丰县田墘镇",
+      "status": "attended"
+    },
+    {
+      "period": "1935-1937",
+      "institution": "海丰县汕尾镇作矶小学",
+      "dept": null,
+      "degree": null,
+      "location": "海丰县汕尾镇",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1939",
+      "institution": "聿怀中学",
+      "dept": null,
+      "degree": null,
+      "location": "揭阳县五经富镇",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1940",
+      "institution": "梅县广益中学",
+      "dept": null,
+      "degree": null,
+      "location": "梅县",
+      "status": "attended"
+    },
+    {
+      "period": "1941-1944",
+      "institution": "省立桂林中学",
+      "dept": null,
+      "degree": "高中毕业",
+      "location": "桂林",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1944",
+      "institution": "唐山交通大学",
+      "dept": null,
+      "degree": null,
+      "location": "贵阳",
+      "status": "declined"
+    },
+    {
+      "period": "1944-1945",
+      "institution": "国民党教育部先修班",
+      "dept": null,
+      "degree": null,
+      "location": "重庆江津白沙镇",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1949",
+      "institution": "国立交通大学",
+      "dept": "造船工程系",
+      "degree": "学士",
+      "location": "重庆九龙坡校区/上海徐家汇",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1945",
+      "institution": "中央大学",
+      "dept": "航空工程系",
+      "degree": null,
+      "location": null,
+      "status": "declined"
+    }
+  ],
+  "career": [
+    {
+      "period": "1949-1950",
+      "organization": "华东军管会船舶建造处",
+      "role": "工作人员",
+      "note": "指导监督各私人船厂造船质量及施工情况"
+    },
+    {
+      "period": "1950-1951",
+      "organization": "上海市招商局",
+      "role": "局长秘书",
+      "note": "局长于眉"
+    },
+    {
+      "period": "1951-1952",
+      "organization": "上海市港务局",
+      "role": "共青团团委书记",
+      "note": null
+    },
+    {
+      "period": "1952-1953",
+      "organization": "船舶工业局",
+      "role": "技术员兼秘书组组长",
+      "note": "船舶试验筹备处技术组"
+    },
+    {
+      "period": "1953-1954",
+      "organization": "船舶工业管理局设计处",
+      "role": "总体组副组长",
+      "note": "从事民用船舶总体设计"
+    },
+    {
+      "period": "1954-1957",
+      "organization": "船舶工业管理局设计二处",
+      "role": "科长",
+      "note": "从事苏联军用潜艇转让制造"
+    },
+    {
+      "period": "1957-1957",
+      "organization": "船舶工业管理局北京管理设计处",
+      "role": "工作人员",
+      "note": null
+    },
+    {
+      "period": "1957-1958",
+      "organization": "船舶工业管理局设计二处潜艇科",
+      "role": "科长",
+      "note": null
+    },
+    {
+      "period": "1958-1961",
+      "organization": "核潜艇总体设计组（造船技术研究室）",
+      "role": "船体组组员/副科长",
+      "note": null
+    },
+    {
+      "period": "1961-1963",
+      "organization": "国防部第七研究院09技术研究室",
+      "role": "副总工程师",
+      "note": null
+    },
+    {
+      "period": "1963-1965",
+      "organization": "潜艇原子能动力工程所（715所）",
+      "role": "副总工程师",
+      "note": null
+    },
+    {
+      "period": "1965-1982",
+      "organization": "七院核潜艇总体研究设计所（719所）",
+      "role": "副总工程师/所长",
+      "note": "1965年任副总工程师，1982年任所长"
+    },
+    {
+      "period": "1979-1983",
+      "organization": "核潜艇工程",
+      "role": "副总设计师",
+      "note": "总设计师彭士禄"
+    },
+    {
+      "period": "1983-1988",
+      "organization": "09工程",
+      "role": "总设计师",
+      "note": null
+    },
+    {
+      "period": "1985-1986",
+      "organization": "719所",
+      "role": "党委书记",
+      "note": "兼任"
+    },
+    {
+      "period": "1988-?",
+      "organization": "中国船舶工业总公司第七研究院",
+      "role": "研究员级高级工程师",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "于锡堃",
+      "relationship": "同学、进步思想影响者",
+      "period": "1945-1949",
+      "context": "交大航海工程系学生，介绍加入山茶社"
+    },
+    {
+      "name": "彭士禄",
+      "relationship": "同事",
+      "period": "1963-1983",
+      "context": "核潜艇工程总设计师，黄旭华任副总设计师"
+    },
+    {
+      "name": "黄纬禄",
+      "relationship": "同事",
+      "period": "1979-1988",
+      "context": "核潜艇工程副总设计师，潜地导弹试验合作"
+    },
+    {
+      "name": "赵仁恺",
+      "relationship": "同事",
+      "period": "1979-1988",
+      "context": "核潜艇工程副总设计师"
+    },
+    {
+      "name": "钱凌白",
+      "relationship": "同事",
+      "period": "1961-1965",
+      "context": "参与指导702所水池建造，商讨09工程上马"
+    },
+    {
+      "name": "尤子平",
+      "relationship": "同事",
+      "period": "1965-1966",
+      "context": "719所副总工程师，合作水滴型试验"
+    },
+    {
+      "name": "宋学斌",
+      "relationship": "同事",
+      "period": "1965-1985",
+      "context": "参加水声会议，汇报取消锚装置"
+    },
+    {
+      "name": "张金麟",
+      "relationship": "同事",
+      "period": "2008",
+      "context": "核潜艇工程第三任总设计师"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "辛一心",
+      "field": "造船",
+      "institution": "国立交通大学"
+    },
+    {
+      "name": "叶在馥",
+      "field": "造船",
+      "institution": "国立交通大学"
+    },
+    {
+      "name": "王公衡",
+      "field": "造船",
+      "institution": "国立交通大学"
+    },
+    {
+      "name": "苏剑鸣",
+      "field": "国语、算数、自然、体育",
+      "institution": "作矶小学"
+    }
+  ],
+  "students": [
+    {
+      "name": "崔继纲",
+      "field": "核潜艇",
+      "institution": null
+    },
+    {
+      "name": "单海扬",
+      "field": "核潜艇",
+      "institution": null
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1949,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1958,
+      "event": "秘密选调参加核潜艇研制工作",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1970,
+      "event": "我国第一艘攻击型核潜艇下水",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1988,
+      "event": "亲自参加核潜艇极限深潜试验，成为世界第一人",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1994,
+      "event": "当选中国工程院首批院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 2014,
+      "event": "当选感动中国2013年度人物",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国科学大会奖"
+    },
+    {
+      "year": 1982,
+      "name": "国防科学技术工业委员会二等奖"
+    },
+    {
+      "year": 1985,
+      "name": "国家科学技术进步特等奖"
+    },
+    {
+      "year": 1986,
+      "name": "中国船舶工业总公司劳动模范"
+    },
+    {
+      "year": 1988,
+      "name": "中国船舶工业总公司一等功"
+    },
+    {
+      "year": 1989,
+      "name": "全国先进工作者"
+    },
+    {
+      "year": 1994,
+      "name": "中国船舶工业总公司科技进步特等奖"
+    },
+    {
+      "year": 1995,
+      "name": "何梁何利基金科学与技术进步奖"
+    },
+    {
+      "year": 1996,
+      "name": "国家科技进步奖特等奖"
+    },
+    {
+      "year": 2009,
+      "name": "新中国成立60周年十大海洋人物"
+    },
+    {
+      "year": 2009,
+      "name": "荆楚楷模"
+    },
+    {
+      "year": 2010,
+      "name": "感动荆楚十大杰出老人"
+    },
+    {
+      "year": 2014,
+      "name": "感动中国2013年度人物"
+    }
+  ],
+  "_meta": {
+    "file": "黄旭华.txt",
+    "chars": 16803,
+    "tokens": 14384,
+    "time": "2026-06-10 21:11:04"
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "person": {
+    "name_cn": "蒋亦元",
+    "name_pinyin": "Jiang Yiyuan",
+    "birth": {
+      "year": 1928,
+      "month": 11,
+      "day": 17,
+      "location": "江苏省常州市新中巷3-1号"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "蒋清民",
+      "aka": null
+    },
+    "mother": {
+      "name": "吴静婉"
+    },
+    "spouse": {
+      "name": "罗佩珍",
+      "married": null
+    },
+    "children": [],
+    "siblings": [
+      {
+        "name": "蒋元元",
+        "relation": "兄/姐",
+        "aka": null
+      },
+      {
+        "name": "蒋亦元",
+        "relation": "本人",
+        "aka": null
+      },
+      {
+        "name": "蒋鼎元",
+        "relation": "弟/妹",
+        "aka": null
+      },
+      {
+        "name": "蒋科元",
+        "relation": "弟/妹",
+        "aka": null
+      },
+      {
+        "name": "蒋常元",
+        "relation": "弟/妹",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1934-1937",
+      "institution": "江苏省常州市织机坊小学",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1938",
+      "institution": "武进县嘉泽镇小学",
+      "dept": null,
+      "degree": null,
+      "location": "武进",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1938",
+      "institution": "常州武进县厚余镇小学",
+      "dept": null,
+      "degree": null,
+      "location": "武进",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1939",
+      "institution": "常州市觅渡桥小学",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1940",
+      "institution": "常州市织机坊小学",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1941",
+      "institution": "常州市正行中学（初中部）",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1941-1943",
+      "institution": "常州市群英中学",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1943-1946",
+      "institution": "正衡中学（高中部）",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1947",
+      "institution": "南京金陵大学理学院电机系",
+      "dept": "电机系",
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1947-1950",
+      "institution": "南京金陵大学农学院农业工程系",
+      "dept": "农业工程系",
+      "degree": "学士",
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1957-1959",
+      "institution": "苏联列宁格勒农学院",
+      "dept": null,
+      "degree": null,
+      "location": "列宁格勒",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1950-1950",
+      "organization": "沈阳农学院农机系",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1950-1954",
+      "organization": "东北农学院农机系",
+      "role": "助教",
+      "note": "参与《工程制图》、《农业机械学》教学"
+    },
+    {
+      "period": "1952-1954",
+      "organization": "东北农学院",
+      "role": "苏联专家助教",
+      "note": "协助培养研究生"
+    },
+    {
+      "period": "1954-1962",
+      "organization": "东北农学院",
+      "role": "讲师",
+      "note": "独立讲授《农业机械学》和《农业机械设计》"
+    },
+    {
+      "period": "1962-1979",
+      "organization": "东北农学院",
+      "role": "副教授",
+      "note": null
+    },
+    {
+      "period": "1979-1993",
+      "organization": "东北农学院/东北农业大学",
+      "role": "教授",
+      "note": null
+    },
+    {
+      "period": "1985-1993",
+      "organization": "东北农业大学",
+      "role": "博士生导师",
+      "note": "全国第二批"
+    },
+    {
+      "period": "1993-1997",
+      "organization": "东北农业大学",
+      "role": "教授、博士生导师",
+      "note": null
+    },
+    {
+      "period": "1997-2014",
+      "organization": "东北农业大学",
+      "role": "教授、博士生导师、中国工程院院士",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "赵煜澄",
+      "relationship": "同学",
+      "period": "1944",
+      "context": "共同组成晓风文艺研究社"
+    },
+    {
+      "name": "薛迪庚",
+      "relationship": "同学",
+      "period": "1944",
+      "context": "共同组成晓风文艺研究社"
+    },
+    {
+      "name": "许宗正",
+      "relationship": "同学",
+      "period": "1948",
+      "context": "介绍加入中国新民主主义青年团"
+    },
+    {
+      "name": "张宝诚",
+      "relationship": "同学",
+      "period": "1948",
+      "context": "介绍加入中国新民主主义青年团"
+    },
+    {
+      "name": "史伯鸿",
+      "relationship": "同学",
+      "period": "1949",
+      "context": "金陵农机五人小组成员"
+    },
+    {
+      "name": "沈美容",
+      "relationship": "同学",
+      "period": "1949",
+      "context": "金陵农机五人小组成员"
+    },
+    {
+      "name": "赵人鹤",
+      "relationship": "同学",
+      "period": "1949",
+      "context": "金陵农机五人小组成员"
+    },
+    {
+      "name": "吴春江",
+      "relationship": "同学",
+      "period": "1949",
+      "context": "金陵农机五人小组成员"
+    },
+    {
+      "name": "温锦涛",
+      "relationship": "同事",
+      "period": "1960-1961",
+      "context": "共同撰写论文，带领进行毕业设计"
+    },
+    {
+      "name": "许家美",
+      "relationship": "同事",
+      "period": "1977-1993",
+      "context": "共同参加学术会议，发表论文"
+    },
+    {
+      "name": "刘恒兴",
+      "relationship": "同事",
+      "period": "1977",
+      "context": "共同参加学术会议"
+    },
+    {
+      "name": "董成茂",
+      "relationship": "学生/合作者",
+      "period": "1988-1989",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "涂澄海",
+      "relationship": "同事",
+      "period": "1993",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "许国林",
+      "relationship": "工程师",
+      "period": "1993",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "马育才",
+      "relationship": "工程师",
+      "period": "1993",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "温殿洲",
+      "relationship": "工程师",
+      "period": "1993",
+      "context": "共同发表论文"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "克利沃谢夫",
+      "field": "农业机械",
+      "institution": "东北农学院"
+    },
+    {
+      "name": "M•H•列多希聂夫",
+      "field": "农业机械",
+      "institution": "苏联列宁格勒农学院"
+    }
+  ],
+  "students": [
+    {
+      "name": "蒋恩臣",
+      "field": "农业机械",
+      "institution": "东北农业大学"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1928,
+      "event": "出生于江苏省常州市",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1946,
+      "event": "考取南京金陵大学理学院电机系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1947,
+      "event": "转入金陵大学农学院农业工程系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1948,
+      "event": "加入中国新民主主义青年团",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1950,
+      "event": "金陵大学毕业，获学士学位",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "在沈阳农学院农机系参加工作",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1952,
+      "event": "被任为首位苏联农业机械专家克利沃谢夫的助教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1954,
+      "event": "晋级讲师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1956,
+      "event": "加入中国共产党（预备党员）",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1957,
+      "event": "赴苏联列宁格勒农学院进修",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1959,
+      "event": "结束访学，回到东北农学院",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1962,
+      "event": "晋升为副教授",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1966,
+      "event": "在文化大革命中接受批判",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1968,
+      "event": "下迁到汤原县香兰农场劳动改造",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1970,
+      "event": "研制聚四氟乙烯覆层水田筑埂机",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1975,
+      "event": "开始水稻割前脱粒收获机的研究",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1978,
+      "event": "获黑龙江省科学大会奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1979,
+      "event": "晋升为教授",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1980,
+      "event": "荣获黑龙江省特等劳动模范称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1982,
+      "event": "作为访问学者赴美国密执安州立大学",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1985,
+      "event": "被评为博士生导师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1990,
+      "event": "第三代割前脱粒收获机器系统通过鉴定",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1995,
+      "event": "获国家技术发明奖二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1996,
+      "event": "妻子罗佩珍逝世",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1997,
+      "event": "当选中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1999,
+      "event": "指导博士生蒋恩臣获全国百优博士论文",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2001,
+      "event": "确诊胃癌，接受手术",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2006,
+      "event": "成功设计牧草籽割前脱粒收获机",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2009,
+      "event": "获中国农业工程学会杰出贡献奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2011,
+      "event": "获黑龙江省农业科技功勋奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2013,
+      "event": "获中国农业机械发展终身荣誉奖",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1962,
+      "name": "哈尔滨市第八届劳动模范"
+    },
+    {
+      "year": 1963,
+      "name": "哈尔滨市第九届劳动模范"
+    },
+    {
+      "year": 1964,
+      "name": "哈尔滨市第十届劳动模范"
+    },
+    {
+      "year": 1965,
+      "name": "哈尔滨市第十一届劳动模范"
+    },
+    {
+      "year": 1966,
+      "name": "哈尔滨市第十二届劳动模范"
+    },
+    {
+      "year": 1975,
+      "name": "一机部主要科技成果奖"
+    },
+    {
+      "year": 1978,
+      "name": "黑龙江省科学大会奖"
+    },
+    {
+      "year": 1978,
+      "name": "黑龙江省先进科技工作者"
+    },
+    {
+      "year": 1979,
+      "name": "黑龙江省文教办奖励"
+    },
+    {
+      "year": 1980,
+      "name": "黑龙江省特等劳动模范"
+    },
+    {
+      "year": 1995,
+      "name": "黑龙江省科技进步奖一等奖"
+    },
+    {
+      "year": 1995,
+      "name": "国家技术发明奖二等奖"
+    },
+    {
+      "year": 2001,
+      "name": "黑龙江省欧美同学会报国奖"
+    },
+    {
+      "year": 2002,
+      "name": "振兴东农科技奖"
+    },
+    {
+      "year": 2009,
+      "name": "中国农业工程学会杰出贡献奖"
+    },
+    {
+      "year": 2011,
+      "name": "黑龙江省农业科技功勋奖"
+    },
+    {
+      "year": 2011,
+      "name": "十一五国家科技支撑计划重大项目特殊贡献奖"
+    },
+    {
+      "year": 2011,
+      "name": "黑龙江省优秀共产党员"
+    },
+    {
+      "year": 2012,
+      "name": "黑龙江省畜牧科技奖励一等奖"
+    },
+    {
+      "year": 2013,
+      "name": "中国农业机械发展终身荣誉奖"
+    }
+  ],
+  "_meta": {
+    "file": "蒋亦元.txt",
+    "chars": 14031,
+    "tokens": 12386,
+    "time": "2026-06-10 21:08:46"
+  }
+}

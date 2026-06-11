@@ -1,0 +1,499 @@
+{
+  "person": {
+    "name_cn": "王翰章",
+    "name_pinyin": "Wang Hanzhang",
+    "birth": {
+      "year": 1919,
+      "month": 5,
+      "day": 22,
+      "location": "北京通州胡各庄村（原河北顺义县）"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "王寿龄",
+      "aka": null
+    },
+    "mother": {
+      "name": "不详"
+    },
+    "spouse": {
+      "name": "盛尔荃",
+      "married": "1950-06-04"
+    },
+    "children": [
+      {
+        "name": "王蔚岷",
+        "birth": "1951-11-01",
+        "relation": "儿子"
+      },
+      {
+        "name": "王蔚薇",
+        "birth": "1956-03-24",
+        "relation": "女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "王炳章",
+        "relation": "二弟",
+        "aka": null
+      },
+      {
+        "name": "王金贵",
+        "relation": "妹妹",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1926-1927",
+      "institution": "村里小学",
+      "dept": null,
+      "degree": null,
+      "location": "北京通州胡各庄村",
+      "status": "attended"
+    },
+    {
+      "period": "1930-1931",
+      "institution": "私塾学馆",
+      "dept": null,
+      "degree": null,
+      "location": "通州",
+      "status": "attended"
+    },
+    {
+      "period": "1931-1934",
+      "institution": "私立河北通州潞河高等小学",
+      "dept": null,
+      "degree": "小学毕业",
+      "location": "通州",
+      "status": "attended"
+    },
+    {
+      "period": "1934-1937",
+      "institution": "潞河中学",
+      "dept": null,
+      "degree": "初中毕业",
+      "location": "通州",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1940",
+      "institution": "北京私立育英中学",
+      "dept": "高中部",
+      "degree": "高中毕业",
+      "location": "北京",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1941",
+      "institution": "齐鲁大学",
+      "dept": "医学预科",
+      "degree": null,
+      "location": "济南",
+      "status": "attended"
+    },
+    {
+      "period": "1942-1942",
+      "institution": "北京辅仁大学",
+      "dept": "生物学系",
+      "degree": null,
+      "location": "北京",
+      "status": "attended"
+    },
+    {
+      "period": "1942-1943",
+      "institution": "齐鲁大学医学院",
+      "dept": null,
+      "degree": null,
+      "location": "成都",
+      "status": "attended"
+    },
+    {
+      "period": "1943-1948",
+      "institution": "华西协合大学牙学院",
+      "dept": null,
+      "degree": "牙医学博士",
+      "location": "成都",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1949-1952",
+      "organization": "华西协合大学牙学院",
+      "role": "口腔外科助教、住院医师",
+      "note": null
+    },
+    {
+      "period": "1952-1955",
+      "organization": "华西大学口腔医学院",
+      "role": "颌面外科助教",
+      "note": null
+    },
+    {
+      "period": "1955-1963",
+      "organization": "四川医学院口腔系",
+      "role": "讲师、口腔颌面外科主任",
+      "note": null
+    },
+    {
+      "period": "1960-1966",
+      "organization": "四川医学院口腔系",
+      "role": "党总支书记",
+      "note": null
+    },
+    {
+      "period": "1963-1978",
+      "organization": "四川医学院口腔系",
+      "role": "副教授",
+      "note": null
+    },
+    {
+      "period": "1978-1984",
+      "organization": "四川医学院",
+      "role": "副院长",
+      "note": "分管教学、科研、图书馆等"
+    },
+    {
+      "period": "1984-1989",
+      "organization": "四川医学院",
+      "role": "顾问",
+      "note": null
+    },
+    {
+      "period": "1989-2017",
+      "organization": "华西医科大学/四川大学华西口腔医学院",
+      "role": "退休教授",
+      "note": "退休后继续从事编撰、教学等工作"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "宋儒耀",
+      "relationship": "同事",
+      "period": "1948-1951",
+      "context": "助手，参与整形外科手术"
+    },
+    {
+      "name": "王巧璋",
+      "relationship": "导师",
+      "period": "1948-1949",
+      "context": "毕业论文指导"
+    },
+    {
+      "name": "林则",
+      "relationship": "面试官/同事",
+      "period": "1943-1949",
+      "context": "转入牙学院面试，后同事"
+    },
+    {
+      "name": "夏良才",
+      "relationship": "同事",
+      "period": "1950-1960",
+      "context": "口腔颌面外科学主编"
+    },
+    {
+      "name": "柯绥赫",
+      "relationship": "苏联专家",
+      "period": "1955-1957",
+      "context": "高级师资班学习"
+    },
+    {
+      "name": "姚恒瑞",
+      "relationship": "同事",
+      "period": "1976-1984",
+      "context": "合作编写《口腔颌面外科手术学》"
+    },
+    {
+      "name": "闵维宪",
+      "relationship": "学生/合作者",
+      "period": "1985-1992",
+      "context": "博士研究生，合作研究"
+    },
+    {
+      "name": "魏世成",
+      "relationship": "学生/合作者",
+      "period": "1984-2002",
+      "context": "博士研究生，合作研究"
+    },
+    {
+      "name": "周学东",
+      "relationship": "同事",
+      "period": "2006-2009",
+      "context": "合作编撰《中华口腔科学》第二版"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "范让泉",
+      "field": "私塾",
+      "institution": "私塾学馆"
+    },
+    {
+      "name": "侯宝璋",
+      "field": "医学",
+      "institution": "齐鲁大学"
+    },
+    {
+      "name": "林则",
+      "field": "口腔医学",
+      "institution": "华西协合大学"
+    },
+    {
+      "name": "王巧璋",
+      "field": "口腔医学",
+      "institution": "华西协合大学"
+    },
+    {
+      "name": "吉士道",
+      "field": "口腔医学",
+      "institution": "华西协合大学"
+    },
+    {
+      "name": "柯绥赫",
+      "field": "口腔颌面外科",
+      "institution": "北京医学院"
+    }
+  ],
+  "students": [
+    {
+      "name": "魏奉才",
+      "field": "口腔颌面外科",
+      "institution": "四川医学院"
+    },
+    {
+      "name": "闵维宪",
+      "field": "口腔颌面外科",
+      "institution": "华西医科大学"
+    },
+    {
+      "name": "魏世成",
+      "field": "口腔颌面外科",
+      "institution": "华西医科大学"
+    },
+    {
+      "name": "刘磊",
+      "field": "口腔颌面外科",
+      "institution": "四川大学华西口腔医学院"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1919,
+      "event": "出生于北京通州胡各庄村",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1927,
+      "event": "母亲病逝",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1940,
+      "event": "考入齐鲁大学医学预科",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1943,
+      "event": "转入华西协合大学牙学院",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1949,
+      "event": "获得牙医学博士学位，留校任教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "与盛尔荃结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1951,
+      "event": "参加西南整形外科援朝手术队",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1952,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1959,
+      "event": "任口腔医学研究所副所长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1960,
+      "event": "赴保加利亚进行口腔医学考察",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1966,
+      "event": "文化大革命开始，被批斗",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1978,
+      "event": "晋升教授，任四川医学院副院长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1983,
+      "event": "创刊《华西口腔医学杂志》并任主编",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1984,
+      "event": "被批准为口腔科学博士生导师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1986,
+      "event": "被授予国际牙医师学院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1989,
+      "event": "获全国优秀教师称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "享受国务院政府特殊津贴",
+      "type": "HONOR"
+    },
+    {
+      "year": 2005,
+      "event": "获中华口腔医学会华陀奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2007,
+      "event": "获中国杰出口腔医师奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2011,
+      "event": "被授予国际牙医学院（中国区）杰出院士",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国卫生科学大会奖（《口腔颌面外科手术学》）"
+    },
+    {
+      "year": 1978,
+      "name": "卫生部全国科学大会奖（对500个人颅骨测量）"
+    },
+    {
+      "year": 1983,
+      "name": "四川省科协先进工作者"
+    },
+    {
+      "year": 1986,
+      "name": "国际牙医师学院院士"
+    },
+    {
+      "year": 1988,
+      "name": "四川省科学技术顾问团成员贡献荣誉表彰"
+    },
+    {
+      "year": 1989,
+      "name": "全国优秀教师"
+    },
+    {
+      "year": 1990,
+      "name": "国家教委高校科技工作四十年成绩显著荣誉证书"
+    },
+    {
+      "year": 1991,
+      "name": "国务院政府特殊津贴"
+    },
+    {
+      "year": 1992,
+      "name": "四川省科技进步三等奖（颞颌关节病专家系统）"
+    },
+    {
+      "year": 1996,
+      "name": "四川省科技进步二等奖（颌骨血供形式、变化规律的定量研究）"
+    },
+    {
+      "year": 1996,
+      "name": "四川省人民政府促进科技进步重大贡献奖"
+    },
+    {
+      "year": 1998,
+      "name": "登士柏“伯乐”奖"
+    },
+    {
+      "year": 1999,
+      "name": "卫生部促进医药卫生科技进步重大贡献奖"
+    },
+    {
+      "year": 1999,
+      "name": "四川省跨世纪杰出老人"
+    },
+    {
+      "year": 2000,
+      "name": "四川省跨世纪杰出老人"
+    },
+    {
+      "year": 2005,
+      "name": "教育部促进科技进步重大贡献奖励"
+    },
+    {
+      "year": 2005,
+      "name": "中华口腔医学会华陀奖"
+    },
+    {
+      "year": 2006,
+      "name": "中国口腔颌面外科建设与发展杰出贡献奖"
+    },
+    {
+      "year": 2007,
+      "name": "华西口腔杰出贡献奖"
+    },
+    {
+      "year": 2007,
+      "name": "中国杰出口腔医师奖"
+    },
+    {
+      "year": 2007,
+      "name": "第四届中国医师奖"
+    },
+    {
+      "year": 2009,
+      "name": "第七届全国健康老人"
+    },
+    {
+      "year": 2009,
+      "name": "四川大学华西口腔医学院学科建设突出贡献奖"
+    },
+    {
+      "year": 2011,
+      "name": "国际牙医学院（中国区）杰出院士"
+    },
+    {
+      "year": 2012,
+      "name": "四川大学华西口腔医学院林则医学教育奖"
+    },
+    {
+      "year": 2013,
+      "name": "第八届全国健康老人"
+    }
+  ],
+  "_meta": {
+    "file": "王翰章.txt",
+    "chars": 19569,
+    "tokens": 16065,
+    "time": "2026-06-10 21:07:33"
+  }
+}

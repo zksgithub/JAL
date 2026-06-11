@@ -1,0 +1,668 @@
+{
+  "person": {
+    "name_cn": "吴征镒",
+    "name_pinyin": "Wu Zhengyi",
+    "birth": {
+      "year": 1916,
+      "month": 7,
+      "day": 12,
+      "location": "江西九江"
+    },
+    "death": null,
+    "aliases": [
+      "白兼",
+      "白坚"
+    ]
+  },
+  "family": {
+    "father": {
+      "name": "吴启贤",
+      "aka": "佑人"
+    },
+    "mother": {
+      "name": "钟璇",
+      "aka": "沁仙"
+    },
+    "spouse": {
+      "name": "段金玉",
+      "married": 1951
+    },
+    "children": [
+      {
+        "name": "吴京",
+        "birth": 1952,
+        "relation": "儿子"
+      },
+      {
+        "name": "吴玉",
+        "birth": 1953,
+        "relation": "女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "吴征铠",
+        "relation": "五哥"
+      },
+      {
+        "name": "吴征鉴",
+        "relation": "二哥"
+      },
+      {
+        "name": "吴征钜",
+        "relation": "三哥"
+      },
+      {
+        "name": "吴白匋",
+        "relation": "大哥",
+        "aka": "征铸"
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1929-1931",
+      "institution": "江都县县立中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1931-1933",
+      "institution": "江苏省立扬州中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1933-1937",
+      "institution": "国立清华大学",
+      "dept": "理学院生物系",
+      "degree": "学士",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1940-1942",
+      "institution": "北京大学",
+      "dept": "生物系",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1937-1938",
+      "organization": "清华大学",
+      "role": "助教",
+      "note": "生物系"
+    },
+    {
+      "period": "1937",
+      "organization": "西北科学考察团",
+      "role": "自费参加",
+      "note": "段绳武组织"
+    },
+    {
+      "period": "1937",
+      "organization": "震旦中学",
+      "role": "生物学教师",
+      "note": "短暂任教"
+    },
+    {
+      "period": "1937",
+      "organization": "国立长沙临时大学",
+      "role": "研究助教",
+      "note": "10-12月"
+    },
+    {
+      "period": "1938-1942",
+      "organization": "西南联合大学",
+      "role": "助教",
+      "note": "生物系"
+    },
+    {
+      "period": "1942-1945",
+      "organization": "西南联合大学",
+      "role": "教员",
+      "note": "生物系"
+    },
+    {
+      "period": "1945-1946",
+      "organization": "云南大学",
+      "role": "教员",
+      "note": "生物系"
+    },
+    {
+      "period": "1945-1946",
+      "organization": "私立中法大学",
+      "role": "教员",
+      "note": "生物系"
+    },
+    {
+      "period": "1945-1946",
+      "organization": "教育部立中国医药研究所",
+      "role": "研究员",
+      "note": null
+    },
+    {
+      "period": "1946-1949",
+      "organization": "清华大学",
+      "role": "讲师",
+      "note": "生物系"
+    },
+    {
+      "period": "1949",
+      "organization": "北京市军管会文教委员会",
+      "role": "成员",
+      "note": "后任高教处副处长"
+    },
+    {
+      "period": "1949-1950",
+      "organization": "中国科学院",
+      "role": "院党组成员兼机关党支部正副书记",
+      "note": "与汪志华同任"
+    },
+    {
+      "period": "1950-1958",
+      "organization": "中国科学院植物分类研究所",
+      "role": "研究员兼副所长",
+      "note": "后更名为植物研究所"
+    },
+    {
+      "period": "1958-1984",
+      "organization": "中国科学院昆明植物研究所",
+      "role": "所长",
+      "note": "兼任北京植物研究所副所长至文革"
+    },
+    {
+      "period": "1975-1980",
+      "organization": "云南省科学技术委员会",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1980-1984",
+      "organization": "中国科学院昆明分院",
+      "role": "院长",
+      "note": "兼任"
+    },
+    {
+      "period": "1985",
+      "organization": "中国科学院昆明植物研究所",
+      "role": "名誉所长",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "周家炽",
+      "relationship": "同事、朋友",
+      "period": "1936-1941",
+      "context": "野外实习、同屋、照顾疾病"
+    },
+    {
+      "name": "顾昌栋",
+      "relationship": "校友",
+      "period": "1935",
+      "context": "介绍认识马毓泉"
+    },
+    {
+      "name": "马毓泉",
+      "relationship": "同乡",
+      "period": "1935",
+      "context": "经顾昌栋介绍"
+    },
+    {
+      "name": "王启无",
+      "relationship": "校友",
+      "period": "1935",
+      "context": "初识"
+    },
+    {
+      "name": "徐仁",
+      "relationship": "校友",
+      "period": "1935",
+      "context": "初识"
+    },
+    {
+      "name": "熊秉信",
+      "relationship": "同事",
+      "period": "1938",
+      "context": "昆明附近考察"
+    },
+    {
+      "name": "杨承元",
+      "relationship": "同事",
+      "period": "1936-1938",
+      "context": "野外实习、考察"
+    },
+    {
+      "name": "姚荷生",
+      "relationship": "同事",
+      "period": "1938",
+      "context": "首登苍山洗马塘"
+    },
+    {
+      "name": "宋达泉",
+      "relationship": "同事",
+      "period": "1938",
+      "context": "二登苍山洗马塘"
+    },
+    {
+      "name": "刘德仪",
+      "relationship": "同事",
+      "period": "1943",
+      "context": "大理修县志"
+    },
+    {
+      "name": "冯国楣",
+      "relationship": "同事",
+      "period": "1943",
+      "context": "丽江相识"
+    },
+    {
+      "name": "刘瑛",
+      "relationship": "同事",
+      "period": "1943",
+      "context": "丽江相识"
+    },
+    {
+      "name": "蒋英",
+      "relationship": "同行",
+      "period": "1943",
+      "context": "来访"
+    },
+    {
+      "name": "李惠林",
+      "relationship": "同行",
+      "period": "1943",
+      "context": "来访"
+    },
+    {
+      "name": "蔡希陶",
+      "relationship": "同事",
+      "period": "1955-1981",
+      "context": "云南生物资源考察副队长"
+    },
+    {
+      "name": "刘崇乐",
+      "relationship": "同事",
+      "period": "1955-1957",
+      "context": "云南生物资源考察队长"
+    },
+    {
+      "name": "侯学煜",
+      "relationship": "同事",
+      "period": "1950s-1980s",
+      "context": "多次合作"
+    },
+    {
+      "name": "Peter H. Raven",
+      "relationship": "国际同行",
+      "period": "1979-2008",
+      "context": "合作Flora of China"
+    },
+    {
+      "name": "李恒",
+      "relationship": "同事",
+      "period": "1960s-1990s",
+      "context": "多次考察"
+    },
+    {
+      "name": "武素功",
+      "relationship": "同事",
+      "period": "1960s-1990s",
+      "context": "多次考察"
+    },
+    {
+      "name": "汤彦承",
+      "relationship": "同事",
+      "period": "1964-2005",
+      "context": "越南考察、合作研究"
+    },
+    {
+      "name": "陈心启",
+      "relationship": "同事",
+      "period": "1980s-1990s",
+      "context": "Flora of China合作"
+    },
+    {
+      "name": "李德铢",
+      "relationship": "学生、同事",
+      "period": "1992-2008",
+      "context": "陪同考察、合作"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "吴韫珍",
+      "field": "植物分类学",
+      "institution": "清华大学"
+    },
+    {
+      "name": "李继侗",
+      "field": "植物学",
+      "institution": "清华大学"
+    },
+    {
+      "name": "陈桢",
+      "field": "生物学",
+      "institution": "清华大学"
+    },
+    {
+      "name": "张景钺",
+      "field": "植物学",
+      "institution": "北京大学"
+    },
+    {
+      "name": "闻一多",
+      "field": "文学",
+      "institution": "西南联合大学"
+    },
+    {
+      "name": "吴晗",
+      "field": "历史学",
+      "institution": "西南联合大学"
+    }
+  ],
+  "students": [
+    {
+      "name": "周铉",
+      "field": "植物学",
+      "institution": "昆明植物研究所"
+    },
+    {
+      "name": "陈书坤",
+      "field": "植物学",
+      "institution": "昆明植物研究所"
+    },
+    {
+      "name": "李锡文",
+      "field": "植物分类学",
+      "institution": "昆明植物研究所"
+    },
+    {
+      "name": "孙航",
+      "field": "植物学",
+      "institution": "昆明植物研究所"
+    },
+    {
+      "name": "彭华",
+      "field": "植物学",
+      "institution": "昆明植物研究所"
+    },
+    {
+      "name": "周浙昆",
+      "field": "植物学",
+      "institution": "昆明植物研究所"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1916,
+      "event": "出生于江西九江",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1931,
+      "event": "九一八事变，写下《救亡歌》",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1935,
+      "event": "参加一二·九、一二·一六学生运动",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1937,
+      "event": "清华大学毕业，留任助教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1938,
+      "event": "参加湘黔滇旅行团步行至昆明",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1940,
+      "event": "考取北京大学研究生",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1945,
+      "event": "加入中国民主同盟",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1945,
+      "event": "合作完成《滇南本草图谱》第一集",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1946,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1949,
+      "event": "参加全国青年联合会第一次代表大会",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1950,
+      "event": "任中国科学院植物分类研究所副所长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1954,
+      "event": "当选中国科学院生物学部学部委员",
+      "type": "HONOR"
+    },
+    {
+      "year": 1955,
+      "event": "正式批准为学部委员",
+      "type": "HONOR"
+    },
+    {
+      "year": 1956,
+      "event": "参加国家12年科学发展远景规划讨论",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1958,
+      "event": "调任昆明植物研究所所长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1959,
+      "event": "参加《中国植物志》第一次编委会",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1964,
+      "event": "发表《中国植物区系的热带亲缘》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1978,
+      "event": "获全国科学大会奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1980,
+      "event": "主编《中国植被》出版",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1982,
+      "event": "橡胶树北移技术获国家技术发明奖一等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1983,
+      "event": "当选美国植物学会终身外籍会员",
+      "type": "HONOR"
+    },
+    {
+      "year": 1987,
+      "event": "任《中国植物志》主编",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1988,
+      "event": "青藏高原研究获国家自然科学奖一等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1995,
+      "event": "获何梁何利基金科学与技术进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1999,
+      "event": "建议建立野生种质资源库获朱镕基批示",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2004,
+      "event": "《中国植物志》全部完成",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2007,
+      "event": "任《中华大典·生物学典》主编",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2008,
+      "event": "获国家最高科学技术奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2009,
+      "event": "《中国植物志》编研获国家自然科学一等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2011,
+      "event": "小行星命名“吴征镒星”",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1954,
+      "name": "中国科学院生物学部学部委员"
+    },
+    {
+      "year": 1978,
+      "name": "全国科学大会奖"
+    },
+    {
+      "year": 1982,
+      "name": "国家技术发明奖一等奖"
+    },
+    {
+      "year": 1982,
+      "name": "中国科学院科技成果奖一等奖"
+    },
+    {
+      "year": 1983,
+      "name": "美国植物学会终身外籍会员"
+    },
+    {
+      "year": 1985,
+      "name": "瑞典皇家植物地理学会名誉会员"
+    },
+    {
+      "year": 1987,
+      "name": "国家自然科学奖一等奖"
+    },
+    {
+      "year": 1987,
+      "name": "国家自然科学奖二等奖"
+    },
+    {
+      "year": 1989,
+      "name": "中国科学院荣誉奖章"
+    },
+    {
+      "year": 1989,
+      "name": "中国科学院自然科学奖二等奖"
+    },
+    {
+      "year": 1989,
+      "name": "云南省科学技术进步奖二等奖"
+    },
+    {
+      "year": 1989,
+      "name": "云南省科学技术进步奖三等奖"
+    },
+    {
+      "year": 1992,
+      "name": "中国科学院自然科学奖二等奖"
+    },
+    {
+      "year": 1993,
+      "name": "中国科学院自然科学奖二等奖"
+    },
+    {
+      "year": 1993,
+      "name": "云南省科学技术进步奖一等奖"
+    },
+    {
+      "year": 1994,
+      "name": "国家自然科学奖二等奖"
+    },
+    {
+      "year": 1995,
+      "name": "何梁何利基金科学与技术进步奖"
+    },
+    {
+      "year": 1995,
+      "name": "中国科学院自然科学奖一等奖"
+    },
+    {
+      "year": 1996,
+      "name": "香港求是基金会杰出科学成就奖"
+    },
+    {
+      "year": 1999,
+      "name": "日本COSMOS国际奖"
+    },
+    {
+      "year": 1999,
+      "name": "中国科学院自然科学奖二等奖"
+    },
+    {
+      "year": 2001,
+      "name": "云南省科学技术突出贡献奖"
+    },
+    {
+      "year": 2002,
+      "name": "云南省自然科学奖二等奖"
+    },
+    {
+      "year": 2003,
+      "name": "何梁何利基金科学与技术成就奖"
+    },
+    {
+      "year": 2008,
+      "name": "国家最高科学技术奖"
+    },
+    {
+      "year": 2009,
+      "name": "国家自然科学一等奖"
+    }
+  ],
+  "_meta": {
+    "file": "吴征镒.txt",
+    "chars": 26924,
+    "tokens": 22895,
+    "time": "2026-06-10 21:03:03"
+  }
+}

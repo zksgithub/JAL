@@ -1,0 +1,20 @@
+# Build artifacts
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Large data
+*.json.gz
+*.gz
+*.bz2
+wikidata_latest-all.*
+
+# Temporary
+__pycache__/
+*.pyc
+.DS_Store

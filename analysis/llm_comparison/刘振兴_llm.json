@@ -1,0 +1,429 @@
+{
+  "person": {
+    "name_cn": "刘振兴",
+    "name_pinyin": "Liu Zhenxing",
+    "birth": {
+      "year": 1929,
+      "month": 9,
+      "day": 14,
+      "location": "山东省昌乐县五图乡营子村"
+    },
+    "death": null,
+    "aliases": [
+      "刘振亨"
+    ]
+  },
+  "family": {
+    "father": null,
+    "mother": null,
+    "spouse": null,
+    "children": [],
+    "siblings": [
+      {
+        "name": "双胞胎哥哥",
+        "relation": "双胞胎哥哥",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1935-1938",
+      "institution": "营子村小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1938-1940",
+      "institution": "私塾",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1940-1941",
+      "institution": "学堂",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1941-1944",
+      "institution": "高小",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1944-1946",
+      "institution": "山东省昌乐中学山塘分校",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1947-1948",
+      "institution": "山东省立潍县师范学校后师部",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1948-1949",
+      "institution": "青岛市辖临时中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1949-1950",
+      "institution": "青岛市立第四中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1950-1951",
+      "institution": "山东大学",
+      "dept": "物理系",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1951-1952",
+      "institution": "山东大学",
+      "dept": "机电系",
+      "degree": null,
+      "location": null,
+      "status": "declined"
+    },
+    {
+      "period": "1952-1953",
+      "institution": "山东大学",
+      "dept": "物理系气象专业",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1953-1955",
+      "institution": "南京大学",
+      "dept": "气象系",
+      "degree": "大学毕业",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1957-1962",
+      "institution": "中国科学院地球物理研究所",
+      "dept": "高层大气物理专业",
+      "degree": "副博士研究生学位",
+      "location": null,
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1951-1952",
+      "organization": "郁文中学",
+      "role": "教师",
+      "note": "休学期间"
+    },
+    {
+      "period": "1955-1962",
+      "organization": "中国科学院地球物理所",
+      "role": "实习研究员",
+      "note": null
+    },
+    {
+      "period": "1958-1959",
+      "organization": "中国科学院西北固沙队",
+      "role": "气象组",
+      "note": null
+    },
+    {
+      "period": "1959-1962",
+      "organization": "中国科学院“581”组",
+      "role": "承担火箭探测数据处理",
+      "note": "专业改为高空大气物理"
+    },
+    {
+      "period": "1962-1965",
+      "organization": "中国科学院地球物理研究所",
+      "role": "磁暴研究组",
+      "note": "从事磁暴期间地球辐射带变化研究"
+    },
+    {
+      "period": "1969-?",
+      "organization": "中国科学院应用地球物理研究所",
+      "role": "随所到西安",
+      "note": null
+    },
+    {
+      "period": "1980-1981",
+      "organization": "美国马里兰大学物理和技术研究所",
+      "role": "访问学者",
+      "note": "1980年5月至次年9月"
+    },
+    {
+      "period": "1987",
+      "organization": "美国阿拉斯加大学、丹福大学、加州大学洛杉矶分校",
+      "role": "访问、讲学和合作研究",
+      "note": "2～8月"
+    },
+    {
+      "period": "1993-?",
+      "organization": "欧空局Cluster科学数据系统",
+      "role": "中方首席科学家、指导委员会委员",
+      "note": null
+    },
+    {
+      "period": "1997-?",
+      "organization": "地球空间双星探测计划",
+      "role": "提出者、首席科学家",
+      "note": null
+    },
+    {
+      "period": "2008-?",
+      "organization": "《空间科学学报》",
+      "role": "主编",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "濮祖荫",
+      "relationship": "合作者",
+      "period": "1964-?",
+      "context": "合作发表论文，长达半个世纪"
+    },
+    {
+      "name": "李罗权",
+      "relationship": "合作者",
+      "period": "1989",
+      "context": "在美国阿拉斯加大学访问期间合作研究磁层亚暴过程"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "赵九章",
+      "field": "空间物理",
+      "institution": "中国科学院地球物理研究所"
+    }
+  ],
+  "students": [],
+  "key_events": [
+    {
+      "year": 1929,
+      "event": "生于山东省昌乐县",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1940,
+      "event": "更名为刘振兴",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "考入山东大学物理系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1955,
+      "event": "大学毕业，分配到中国科学院地球物理所",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1957,
+      "event": "被录取为赵九章的研究生",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1962,
+      "event": "获副博士研究生学位",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1975,
+      "event": "提出太阳风、磁层、电离层和高层大气耦合概念",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1978,
+      "event": "参与编写《人造地球卫星环境手册》获全国科学大会奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1982,
+      "event": "建立木星磁层磁盘模型，被称为“刘氏模式”",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1984,
+      "event": "被批准为首批中青年有突出贡献专家",
+      "type": "HONOR"
+    },
+    {
+      "year": 1985,
+      "event": "提出涡旋诱发重联理论",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1993,
+      "event": "获中国科学院自然科学奖一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1995,
+      "event": "当选为中国科学院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1995,
+      "event": "获国家自然科学奖三等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "提出地球空间双星探测计划",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2000,
+      "event": "获国际空间研究委员会Vikram Sarabhai奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2001,
+      "event": "获何梁何利基金科学与进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2001,
+      "event": "获国家自然科学奖二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2003,
+      "event": "双星计划“探测一号”卫星发射",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2004,
+      "event": "双星计划“探测二号”卫星发射",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2004,
+      "event": "当选全国十大科技英才",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "获美国宇航局局长授予的“项目贡献奖”",
+      "type": "HONOR"
+    },
+    {
+      "year": 2006,
+      "event": "当选国际宇航科学院通讯院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 2006,
+      "event": "提出亚暴的“锋面触发”理论",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2010,
+      "event": "获国际宇航联双星—Cluster杰出团队奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2011,
+      "event": "双星计划获国家科技进步奖一等奖",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国科学大会奖"
+    },
+    {
+      "year": 1984,
+      "name": "首批中青年有突出贡献专家"
+    },
+    {
+      "year": 1986,
+      "name": "国家科学技术进步奖二等奖"
+    },
+    {
+      "year": 1987,
+      "name": "国家自然科学奖三等奖"
+    },
+    {
+      "year": 1993,
+      "name": "中国科学院自然科学奖一等奖"
+    },
+    {
+      "year": 1995,
+      "name": "国家自然科学奖三等奖"
+    },
+    {
+      "year": 1998,
+      "name": "深圳华为奖教金"
+    },
+    {
+      "year": 2000,
+      "name": "Vikram Sarabhai奖"
+    },
+    {
+      "year": 2001,
+      "name": "何梁何利基金科学与进步奖"
+    },
+    {
+      "year": 2001,
+      "name": "国家自然科学奖二等奖"
+    },
+    {
+      "year": 2001,
+      "name": "欧空局对ClusterⅡ作出突出贡献证书"
+    },
+    {
+      "year": 2004,
+      "name": "全国十大科技英才"
+    },
+    {
+      "year": 2004,
+      "name": "美国宇航局项目贡献奖"
+    },
+    {
+      "year": 2005,
+      "name": "欧洲空间局对Cluster地球空间做出突出贡献奖"
+    },
+    {
+      "year": 2010,
+      "name": "国际宇航联双星—Cluster杰出团队奖"
+    },
+    {
+      "year": 2011,
+      "name": "国家科技进步奖一等奖"
+    }
+  ],
+  "_meta": {
+    "file": "刘振兴.txt",
+    "chars": 8340,
+    "tokens": 7980,
+    "time": "2026-06-10 21:02:32"
+  }
+}

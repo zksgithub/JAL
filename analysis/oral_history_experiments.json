@@ -1,0 +1,371 @@
+{
+  "exp1_uncertainty": {
+    "total_markers": 1037,
+    "total_chars": 437914,
+    "overall_density": 2.3680448672570416,
+    "category_totals": {
+      "approximation": 234,
+      "hedging": 35,
+      "memory_uncertainty": 14,
+      "vagueness": 3,
+      "inference": 751,
+      "contradiction": 0
+    },
+    "per_scientist": {
+      "冯端": {
+        "markers": 37,
+        "density": 2.5517241379310347,
+        "categories": {
+          "approximation": 12,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 25,
+          "contradiction": 0
+        }
+      },
+      "冯纯伯": {
+        "markers": 53,
+        "density": 4.80856468880421,
+        "categories": {
+          "approximation": 4,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 49,
+          "contradiction": 0
+        }
+      },
+      "刘振兴": {
+        "markers": 25,
+        "density": 2.997601918465228,
+        "categories": {
+          "approximation": 0,
+          "hedging": 1,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 24,
+          "contradiction": 0
+        }
+      },
+      "吴征镒": {
+        "markers": 75,
+        "density": 2.7856187787847273,
+        "categories": {
+          "approximation": 23,
+          "hedging": 1,
+          "memory_uncertainty": 4,
+          "vagueness": 0,
+          "inference": 47,
+          "contradiction": 0
+        }
+      },
+      "唐明述": {
+        "markers": 70,
+        "density": 5.9625212947189095,
+        "categories": {
+          "approximation": 7,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 63,
+          "contradiction": 0
+        }
+      },
+      "张本仁": {
+        "markers": 18,
+        "density": 1.773399014778325,
+        "categories": {
+          "approximation": 6,
+          "hedging": 1,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 11,
+          "contradiction": 0
+        }
+      },
+      "张炳炎": {
+        "markers": 33,
+        "density": 1.335978300473665,
+        "categories": {
+          "approximation": 8,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 25,
+          "contradiction": 0
+        }
+      },
+      "戴元本": {
+        "markers": 28,
+        "density": 3.012372243141474,
+        "categories": {
+          "approximation": 9,
+          "hedging": 0,
+          "memory_uncertainty": 2,
+          "vagueness": 0,
+          "inference": 17,
+          "contradiction": 0
+        }
+      },
+      "梁思礼": {
+        "markers": 25,
+        "density": 1.442501875252438,
+        "categories": {
+          "approximation": 7,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 18,
+          "contradiction": 0
+        }
+      },
+      "沈克琦": {
+        "markers": 39,
+        "density": 3.9015606242497,
+        "categories": {
+          "approximation": 7,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 32,
+          "contradiction": 0
+        }
+      },
+      "沈志云": {
+        "markers": 29,
+        "density": 2.0372321742184756,
+        "categories": {
+          "approximation": 12,
+          "hedging": 1,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 16,
+          "contradiction": 0
+        }
+      },
+      "涂铭旌": {
+        "markers": 42,
+        "density": 2.852098329485264,
+        "categories": {
+          "approximation": 2,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 40,
+          "contradiction": 0
+        }
+      },
+      "潘家铮": {
+        "markers": 26,
+        "density": 1.1192905419949202,
+        "categories": {
+          "approximation": 2,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 24,
+          "contradiction": 0
+        }
+      },
+      "王德滋": {
+        "markers": 33,
+        "density": 2.8499870455134295,
+        "categories": {
+          "approximation": 5,
+          "hedging": 1,
+          "memory_uncertainty": 2,
+          "vagueness": 0,
+          "inference": 25,
+          "contradiction": 0
+        }
+      },
+      "王文兴": {
+        "markers": 37,
+        "density": 1.9439920138706457,
+        "categories": {
+          "approximation": 11,
+          "hedging": 1,
+          "memory_uncertainty": 2,
+          "vagueness": 0,
+          "inference": 23,
+          "contradiction": 0
+        }
+      },
+      "王翰章": {
+        "markers": 47,
+        "density": 2.401757882364965,
+        "categories": {
+          "approximation": 21,
+          "hedging": 0,
+          "memory_uncertainty": 1,
+          "vagueness": 0,
+          "inference": 25,
+          "contradiction": 0
+        }
+      },
+      "王金陵": {
+        "markers": 34,
+        "density": 2.04142900030021,
+        "categories": {
+          "approximation": 6,
+          "hedging": 1,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 27,
+          "contradiction": 0
+        }
+      },
+      "胡含": {
+        "markers": 37,
+        "density": 2.0338610378188213,
+        "categories": {
+          "approximation": 2,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 35,
+          "contradiction": 0
+        }
+      },
+      "蒋亦元": {
+        "markers": 34,
+        "density": 2.4232057586772147,
+        "categories": {
+          "approximation": 9,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 1,
+          "inference": 24,
+          "contradiction": 0
+        }
+      },
+      "谢家荣": {
+        "markers": 150,
+        "density": 2.683171150543789,
+        "categories": {
+          "approximation": 58,
+          "hedging": 20,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 72,
+          "contradiction": 0
+        }
+      },
+      "钟训正": {
+        "markers": 10,
+        "density": 1.5262515262515264,
+        "categories": {
+          "approximation": 2,
+          "hedging": 0,
+          "memory_uncertainty": 2,
+          "vagueness": 0,
+          "inference": 6,
+          "contradiction": 0
+        }
+      },
+      "钟香崇": {
+        "markers": 49,
+        "density": 1.96290509954733,
+        "categories": {
+          "approximation": 9,
+          "hedging": 5,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 35,
+          "contradiction": 0
+        }
+      },
+      "陆钟武": {
+        "markers": 31,
+        "density": 1.6360565758919148,
+        "categories": {
+          "approximation": 6,
+          "hedging": 0,
+          "memory_uncertainty": 0,
+          "vagueness": 0,
+          "inference": 25,
+          "contradiction": 0
+        }
+      },
+      "陈志恺": {
+        "markers": 14,
+        "density": 1.740211311373524,
+        "categories": {
+          "approximation": 0,
+          "hedging": 0,
+          "memory_uncertainty": 1,
+          "vagueness": 0,
+          "inference": 13,
+          "contradiction": 0
+        }
+      },
+      "高守一": {
+        "markers": 29,
+        "density": 2.5325299100515237,
+        "categories": {
+          "approximation": 1,
+          "hedging": 2,
+          "memory_uncertainty": 0,
+          "vagueness": 1,
+          "inference": 25,
+          "contradiction": 0
+        }
+      },
+      "黄旭华": {
+        "markers": 32,
+        "density": 1.9044218294352198,
+        "categories": {
+          "approximation": 5,
+          "hedging": 1,
+          "memory_uncertainty": 0,
+          "vagueness": 1,
+          "inference": 25,
+          "contradiction": 0
+        }
+      }
+    }
+  },
+  "exp2_memory_bias": {
+    "chi2": 842.2170212765958,
+    "p_value": 1.4549944410665132e-172,
+    "bump_pct": 48.08510638297872,
+    "decade_events": {
+      "1890": 1,
+      "1900": 2,
+      "1910": 13,
+      "1920": 38,
+      "1930": 142,
+      "1940": 247,
+      "1950": 157,
+      "1960": 48,
+      "1970": 49,
+      "1980": 83,
+      "1990": 79,
+      "2000": 53,
+      "2010": 28
+    },
+    "z_scores": {
+      "1890": -8.39,
+      "1900": -8.27,
+      "1910": -6.97,
+      "1920": -4.03,
+      "1930": 8.2,
+      "1940": 20.54,
+      "1950": 9.96,
+      "1960": -2.86,
+      "1970": -2.74,
+      "1980": 1.26,
+      "1990": 0.79,
+      "2000": -2.27,
+      "2010": -5.21
+    }
+  },
+  "exp3_cross_validation": {
+    "total_cross_refs": 0,
+    "confirmed": 0,
+    "confirmation_rate": 0.0,
+    "career_overlaps": 1,
+    "cross_references": []
+  }
+}

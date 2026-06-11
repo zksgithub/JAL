@@ -1,0 +1,521 @@
+{
+  "person": {
+    "name_cn": "涂铭旌",
+    "name_pinyin": "Tu Mingjing",
+    "birth": {
+      "year": 1928,
+      "month": 11,
+      "day": 15,
+      "location": "四川省巴县（今重庆市九龙坡区）圆明乡"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "未提及",
+      "aka": null
+    },
+    "mother": {
+      "name": "未提及"
+    },
+    "spouse": {
+      "name": "唐昭莼",
+      "married": 1956
+    },
+    "children": [
+      {
+        "name": "涂红",
+        "birth": "1958-03-15",
+        "relation": "大女儿"
+      },
+      {
+        "name": "涂波",
+        "birth": "1960-07-10",
+        "relation": "二儿子"
+      },
+      {
+        "name": "涂强",
+        "birth": "1963-07-27",
+        "relation": "小女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "未提及",
+        "relation": "哥哥",
+        "aka": null
+      },
+      {
+        "name": "未提及",
+        "relation": "两个弟弟",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1935-1938",
+      "institution": "四川省巴县圆明乡初级小学",
+      "dept": null,
+      "degree": null,
+      "location": "四川省巴县",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1940",
+      "institution": "四川省巴县圆明乡高级小学",
+      "dept": null,
+      "degree": null,
+      "location": "四川省巴县",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1940",
+      "institution": "巴县圆明乡高级小学",
+      "dept": null,
+      "degree": null,
+      "location": "四川省巴县",
+      "status": "attended"
+    },
+    {
+      "period": "1941-1944",
+      "institution": "四川省江津县旅宜四川中学",
+      "dept": "初中部",
+      "degree": "初中毕业",
+      "location": "四川省江津县",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1946",
+      "institution": "同济大学附属中学",
+      "dept": null,
+      "degree": null,
+      "location": "四川省宜宾市翠屏区李庄镇",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1947",
+      "institution": "同济大学附属中学",
+      "dept": null,
+      "degree": "高中毕业",
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1947-1951",
+      "institution": "同济大学",
+      "dept": "机械系",
+      "degree": "本科毕业",
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1952-1955",
+      "institution": "哈尔滨工业大学",
+      "dept": "机械系",
+      "degree": "研究生",
+      "location": "哈尔滨",
+      "status": "attended"
+    },
+    {
+      "period": "1955-1955",
+      "institution": "北京钢铁工业学院",
+      "dept": "工艺系金属学及钢铁热处理专业",
+      "degree": "研究生毕业",
+      "location": "北京",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1944-1944",
+      "organization": "四川省巴县圆明乡第十保保国民学校",
+      "role": "代课教师",
+      "note": null
+    },
+    {
+      "period": "1946-1946",
+      "organization": "四川省巴县圆明乡第十保国民小学",
+      "role": "高级小学代理教员",
+      "note": null
+    },
+    {
+      "period": "1947-1947",
+      "organization": "上海伪空军供应司令部",
+      "role": "临时雇员",
+      "note": null
+    },
+    {
+      "period": "1951-1952",
+      "organization": "同济大学机械系",
+      "role": "助教",
+      "note": "李国华教授、吴之凤教授助教，孙珍宝教授助教"
+    },
+    {
+      "period": "1952-1955",
+      "organization": "交通大学机械系",
+      "role": "助教",
+      "note": "周志宏、周惠久教授助教"
+    },
+    {
+      "period": "1955-1956",
+      "organization": "交通大学机械系金相热处理教研室",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1956-1962",
+      "organization": "交通大学（西安部分）",
+      "role": "讲师",
+      "note": "1958年起任反应堆材料及金属物理教研室主任"
+    },
+    {
+      "period": "1962-1964",
+      "organization": "西安交通大学金属学及热处理教研室",
+      "role": "讲师",
+      "note": null
+    },
+    {
+      "period": "1965-1973",
+      "organization": "西安交通大学金属材料及强度研究室",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1974-1977",
+      "organization": "西安交通大学金属学及热处理专业",
+      "role": "副主任",
+      "note": "分管教学工作"
+    },
+    {
+      "period": "1977-1979",
+      "organization": "西安交通大学金属学及热处理专业",
+      "role": "副主任",
+      "note": "分管科研工作"
+    },
+    {
+      "period": "1979-1984",
+      "organization": "西安交通大学金属材料及强度研究所",
+      "role": "副所长",
+      "note": "1979年晋升副教授"
+    },
+    {
+      "period": "1982-1988",
+      "organization": "西安交通大学",
+      "role": "教授",
+      "note": "1982年晋升教授"
+    },
+    {
+      "period": "1984-1988",
+      "organization": "西安交通大学金属材料及强度研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1987-1988",
+      "organization": "西安交通大学材料工程系",
+      "role": "主任",
+      "note": "兼任金属材料及强度研究所所长"
+    },
+    {
+      "period": "1988-1998",
+      "organization": "成都科技大学",
+      "role": "教授",
+      "note": "1988年调任，任高新技术研究院院长"
+    },
+    {
+      "period": "1998-2009",
+      "organization": "四川大学",
+      "role": "教授",
+      "note": "成都科技大学合并后"
+    },
+    {
+      "period": "2009-2019",
+      "organization": "重庆文理学院",
+      "role": "教授、名誉院长",
+      "note": "2009年创建材料交叉学科研究中心，2011年任名誉院长"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "周惠久",
+      "relationship": "合作者",
+      "period": "1952-1988",
+      "context": "助教、合作科研项目"
+    },
+    {
+      "name": "李国华",
+      "relationship": "导师",
+      "period": "1951",
+      "context": "毕业论文指导"
+    },
+    {
+      "name": "吴之凤",
+      "relationship": "导师",
+      "period": "1951-1952",
+      "context": "助教"
+    },
+    {
+      "name": "孙珍宝",
+      "relationship": "导师",
+      "period": "1951-1952",
+      "context": "助教"
+    },
+    {
+      "name": "周志宏",
+      "relationship": "导师",
+      "period": "1952",
+      "context": "助教"
+    },
+    {
+      "name": "邓增杰",
+      "relationship": "合作者",
+      "period": "1979-1980",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "朱维斗",
+      "relationship": "合作者",
+      "period": "1979-1980",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "鄢文彬",
+      "relationship": "合作者",
+      "period": "1981-1993",
+      "context": "合作发表论文、合著书籍"
+    },
+    {
+      "name": "张平生",
+      "relationship": "合作者",
+      "period": "1982-1987",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "胡志忠",
+      "relationship": "合作者",
+      "period": "1982-1983",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "郭大展",
+      "relationship": "合作者",
+      "period": "1983-1987",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "张良运",
+      "relationship": "合作者",
+      "period": "1983-1988",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "唐定骧",
+      "relationship": "合作者",
+      "period": "1998-2000",
+      "context": "共同提出建议"
+    },
+    {
+      "name": "陈云贵",
+      "relationship": "合作者",
+      "period": "1998-2000",
+      "context": "共同提出建议"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "李国华",
+      "field": "金属材料",
+      "institution": "同济大学"
+    },
+    {
+      "name": "周惠久",
+      "field": "金属材料强度",
+      "institution": "交通大学"
+    },
+    {
+      "name": "周志宏",
+      "field": "金属学",
+      "institution": "交通大学"
+    }
+  ],
+  "students": [
+    {
+      "name": "黄婉霞",
+      "field": "材料科学",
+      "institution": "成都科技大学"
+    },
+    {
+      "name": "陈荐",
+      "field": "材料科学",
+      "institution": "成都科技大学"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1928,
+      "event": "出生于四川省巴县圆明乡",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1949,
+      "event": "放弃参干，决心从事学术研究",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1951,
+      "event": "同济大学毕业，毕业论文获96分",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1952,
+      "event": "出版第一部学术著作《钢的热处理》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1954,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1956,
+      "event": "与唐昭莼结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1978,
+      "event": "参加全国科学大会并作报告",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1979,
+      "event": "晋升副教授，任研究所副所长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1982,
+      "event": "晋升教授",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1984,
+      "event": "被评为国家有突出贡献的中青年专家",
+      "type": "HONOR"
+    },
+    {
+      "year": 1987,
+      "event": "获国家级科技进步一等奖（低碳马氏体应用）",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1988,
+      "event": "调任成都科技大学",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1995,
+      "event": "当选中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1996,
+      "event": "获孺子牛金球奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2007,
+      "event": "获国家科技进步二等奖（微特电机用纳米晶复合永磁材料）",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2009,
+      "event": "创建重庆文理学院材料交叉学科研究中心",
+      "type": "CAREER_MILESTONE"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1979,
+      "name": "陕西省1978年科技成果一等奖（协助周惠久）"
+    },
+    {
+      "year": 1984,
+      "name": "国家有突出贡献的中青年专家"
+    },
+    {
+      "year": 1987,
+      "name": "国家级科技进步一等奖（低碳马氏体应用基础开发技术）"
+    },
+    {
+      "year": 1988,
+      "name": "国家教委科技进步一等奖（发挥金属材料强度潜力的理论研究）"
+    },
+    {
+      "year": 1988,
+      "name": "国家教委科技进步二等奖（低合金高强度结构钢新钢种15MnMoVNRe）"
+    },
+    {
+      "year": 1990,
+      "name": "全国高等学校先进科技工作者"
+    },
+    {
+      "year": 1991,
+      "name": "国务院特殊津贴"
+    },
+    {
+      "year": 1992,
+      "name": "四川省科技进步三等奖（提高水泥窑耐热钢篦子板使用寿命）"
+    },
+    {
+      "year": 1992,
+      "name": "陕西科技精英"
+    },
+    {
+      "year": 1993,
+      "name": "国家教委科技进步二等奖（可焊接高强度钢低温脆断安全评价）"
+    },
+    {
+      "year": 1996,
+      "name": "孺子牛金球奖"
+    },
+    {
+      "year": 1997,
+      "name": "陕西省科技进步三等奖（三轴应力场中材料的弹塑性断裂）"
+    },
+    {
+      "year": 1997,
+      "name": "国家教委科技进步二等奖（Jc值的裂断场约束依赖性与材料新型弹塑性断裂准则）"
+    },
+    {
+      "year": 2000,
+      "name": "四川省科技进步二等奖（低钕纳米晶钕铁硼永磁合金粉末）"
+    },
+    {
+      "year": 2001,
+      "name": "总装备部科技进步二等奖（无钕贮氢合金及镍氢动力电池）"
+    },
+    {
+      "year": 2002,
+      "name": "新疆自治区科技进步二等奖（多元纳米压敏陶瓷材料及片式器件研制）"
+    },
+    {
+      "year": 2002,
+      "name": "总装备部军队科技进步二等奖（杂质气体对储氢合金性能影响）"
+    },
+    {
+      "year": 2004,
+      "name": "四川省科技进步一等奖（纳米晶稀土钕铁硼磁粉及粘结磁体）"
+    },
+    {
+      "year": 2007,
+      "name": "国家科技进步二等奖（微特电机用纳米晶复合永磁材料及其元器件）"
+    }
+  ],
+  "_meta": {
+    "file": "涂铭旌.txt",
+    "chars": 14726,
+    "tokens": 12773,
+    "time": "2026-06-10 21:05:54"
+  }
+}

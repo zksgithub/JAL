@@ -1,0 +1,423 @@
+{
+  "person": {
+    "name_cn": "陈志恺",
+    "name_pinyin": "Chen Zhikai",
+    "birth": {
+      "year": 1926,
+      "month": 11,
+      "day": 28,
+      "location": "上海市闸北区虬江路410号"
+    },
+    "death": {
+      "year": 2013,
+      "month": 10,
+      "day": 19
+    },
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "陈欣伯",
+      "aka": null
+    },
+    "mother": {
+      "name": "奚雪英"
+    },
+    "spouse": {
+      "name": "滕炜芬",
+      "married": 1955
+    },
+    "children": [
+      {
+        "name": "大儿子",
+        "birth": "1956-11-20",
+        "relation": "长子"
+      },
+      {
+        "name": "女儿",
+        "birth": "1972",
+        "relation": "女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "陈志慷",
+        "relation": "兄长",
+        "aka": null
+      },
+      {
+        "name": "姐姐",
+        "relation": "姐姐",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1933-1937",
+      "institution": "北区小学校",
+      "dept": null,
+      "degree": null,
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1939",
+      "institution": "上海市私立育才小学校",
+      "dept": null,
+      "degree": null,
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1942",
+      "institution": "上海省立苏州中学（苏中沪校）",
+      "dept": null,
+      "degree": "初中",
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1942-1943",
+      "institution": "沪江中学",
+      "dept": null,
+      "degree": "高中",
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1943-1945",
+      "institution": "沪新中学（上海中学）",
+      "dept": "理科",
+      "degree": "高中",
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1946",
+      "institution": "私立大同大学",
+      "dept": "电机系",
+      "degree": null,
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1950",
+      "institution": "国立交通大学",
+      "dept": "水利系",
+      "degree": "本科",
+      "location": "上海",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1950-1950",
+      "organization": "上海工商职业专科学校",
+      "role": "助教",
+      "note": "临时"
+    },
+    {
+      "period": "1950-1953",
+      "organization": "华东军政委员会水利部本部测验处",
+      "role": "实习员、工程员"
+    },
+    {
+      "period": "1953-1954",
+      "organization": "中央水利部设计局二室",
+      "role": "工作人员"
+    },
+    {
+      "period": "1954-1955",
+      "organization": "水利部勘测设计局审核科",
+      "role": "工作人员"
+    },
+    {
+      "period": "1955-1970",
+      "organization": "水利科学研究院水文所",
+      "role": "研究人员"
+    },
+    {
+      "period": "1970-1972",
+      "organization": "水利部第六工程局一大队",
+      "role": "劳动"
+    },
+    {
+      "period": "1972-1973",
+      "organization": "水利部第六工程局设计队",
+      "role": "工作人员"
+    },
+    {
+      "period": "1973-1978",
+      "organization": "水电部四川勘测设计处",
+      "role": "工作人员"
+    },
+    {
+      "period": "1978-1983",
+      "organization": "水利水电科学研究院",
+      "role": "研究人员"
+    },
+    {
+      "period": "1983-1989",
+      "organization": "水利水电科学研究院水资源所",
+      "role": "所长"
+    },
+    {
+      "period": "1989-2013",
+      "organization": "中国水利水电科学研究院",
+      "role": "院士、顾问"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "钱振华",
+      "relationship": "同学、入团介绍人",
+      "period": "1946-1950",
+      "context": "交通大学同级"
+    },
+    {
+      "name": "郭旭升",
+      "relationship": "同学",
+      "period": "1946-1950",
+      "context": "交通大学同级"
+    },
+    {
+      "name": "陈惠泉",
+      "relationship": "同学、同事",
+      "period": "1946-",
+      "context": "交通大学同级，后水科院同事"
+    },
+    {
+      "name": "林平一",
+      "relationship": "领导",
+      "period": "1955",
+      "context": "协助筹建水文所"
+    },
+    {
+      "name": "陈家琦",
+      "relationship": "入党介绍人",
+      "period": "1956"
+    },
+    {
+      "name": "李叔明",
+      "relationship": "入党介绍人",
+      "period": "1956"
+    },
+    {
+      "name": "刘城鉴",
+      "relationship": "同事",
+      "period": "1966",
+      "context": "四清活动同住"
+    },
+    {
+      "name": "张光斗",
+      "relationship": "合作者",
+      "period": "1989-1991",
+      "context": "合著论文"
+    },
+    {
+      "name": "谢家泽",
+      "relationship": "合作者",
+      "period": "1990",
+      "context": "合著论文"
+    },
+    {
+      "name": "刘昌明",
+      "relationship": "合作者",
+      "period": "2001",
+      "context": "合编书籍"
+    },
+    {
+      "name": "王浩",
+      "relationship": "合作者",
+      "period": "2004",
+      "context": "合编书籍"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "陈鹤琴",
+      "field": "教育",
+      "institution": "北区小学创办人"
+    },
+    {
+      "name": "胡敦复",
+      "field": "教育",
+      "institution": "大同大学创办人"
+    }
+  ],
+  "students": [
+    {
+      "name": "陈根发",
+      "field": "水资源",
+      "institution": "中国水利水电科学研究院"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1931,
+      "event": "九一八事变",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1932,
+      "event": "一二八事变，家宅被毁",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1937,
+      "event": "七七事变和八一三事变，家宅再次被毁",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1947,
+      "event": "参加交通大学护校运动赴南京请愿",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1949,
+      "event": "父亲去世",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1950,
+      "event": "加入新民主主义青年团",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "提前毕业参加治淮",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1955,
+      "event": "调入水利科学研究院水文所",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1956,
+      "event": "成为中共预备党员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1957,
+      "event": "《暴雨及洪水频率计算方法的研究》油印本刊印",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1958,
+      "event": "被定为中右分子，取消预备党员资格",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1963,
+      "event": "海河流域63.8特大洪水",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1966,
+      "event": "文化大革命开始",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1970,
+      "event": "下放四川",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1975,
+      "event": "淮河75.8特大洪水，参加调查",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1978,
+      "event": "调回北京",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1978,
+      "event": "中国水文图集获全国科技大会自然科学奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1979,
+      "event": "恢复预备党员资格",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1980,
+      "event": "转为正式党员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1981,
+      "event": "中国水资源初步评价完成",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1985,
+      "event": "中国水资源评价获国家科技进步二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1989,
+      "event": "与张光斗合著论文获江泽民批示",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1991,
+      "event": "获国家科委等突出贡献荣誉证书",
+      "type": "HONOR"
+    },
+    {
+      "year": 2001,
+      "event": "当选中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 2013,
+      "event": "逝世",
+      "type": "POLITICAL"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国科技大会自然科学奖（中国水文图集）"
+    },
+    {
+      "year": 1985,
+      "name": "国家科技进步二等奖（中国水资源评价）"
+    },
+    {
+      "year": 1988,
+      "name": "国家科技进步应用二等奖（中国粮食和经济作物发展综合研究）"
+    },
+    {
+      "year": 1990,
+      "name": "水利部科技进步应用二等奖（华北地区地表水、地下水资源数量、质量及可利用量研究）"
+    },
+    {
+      "year": 1991,
+      "name": "国家科技进步应用三等奖（华北地区地表水、地下水资源数量、质量及可利用量研究）"
+    },
+    {
+      "year": 1991,
+      "name": "国家科委、计委、财政部联合颁发的突出贡献荣誉证书"
+    },
+    {
+      "year": 1994,
+      "name": "水利部科技进步二等奖（北疆地区水资源综合规划）"
+    },
+    {
+      "year": 2001,
+      "name": "中国工程院院士"
+    }
+  ],
+  "_meta": {
+    "file": "陈志恺.txt",
+    "chars": 8045,
+    "tokens": 8040,
+    "time": "2026-06-10 21:10:23"
+  }
+}

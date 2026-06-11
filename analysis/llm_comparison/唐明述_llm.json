@@ -1,0 +1,324 @@
+{
+  "person": {
+    "name_cn": "唐明述",
+    "name_pinyin": "Tang Mingshu",
+    "birth": {
+      "year": 1929,
+      "month": 3,
+      "day": 31,
+      "location": "四川省岳安市镇子乡乡间"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "唐文逵",
+      "aka": null
+    },
+    "mother": {
+      "name": "贺道贞"
+    },
+    "spouse": {
+      "name": "崔雪华",
+      "married": "1957-10-17"
+    },
+    "children": [
+      {
+        "name": "唐宁",
+        "birth": "1958-07-29",
+        "relation": "长子"
+      },
+      {
+        "name": "唐洁",
+        "birth": "1962-01-25",
+        "relation": "次女"
+      }
+    ],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1936-1940",
+      "institution": "岳安市镇子乡小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1941-1941",
+      "institution": "四川资中蔡家场龙江中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1942-1943",
+      "institution": "安岳县中",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1944-1944",
+      "institution": "四川内江私立沱江中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1945-1948",
+      "institution": "四川成都县中",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1948-1948",
+      "institution": "唐山工学院",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "declined"
+    },
+    {
+      "period": "1948-1949",
+      "institution": "四川省立教育学院",
+      "dept": "数学系",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1949-1950",
+      "institution": "四川华西协合大学",
+      "dept": "医科",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1950-1952",
+      "institution": "北京大学",
+      "dept": "工学院化工系",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1952-1952",
+      "institution": "燕京大学",
+      "dept": "化工系",
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1952-1953",
+      "institution": "天津大学",
+      "dept": "化工系",
+      "degree": "本科",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1953-1954",
+      "institution": "北京工业学院",
+      "dept": "化工系",
+      "degree": "研究生",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1954-1956",
+      "institution": "南京工学院",
+      "dept": "化工系水泥专业",
+      "degree": "研究生",
+      "location": null,
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1956-1958",
+      "organization": "南京工学院",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1958-1960",
+      "organization": "南京化工学院",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1960-1978",
+      "organization": "南京化工学院",
+      "role": "讲师",
+      "note": null
+    },
+    {
+      "period": "1978-1983",
+      "organization": "南京化工学院",
+      "role": "副教授",
+      "note": "1978-1983年任水泥教研组主任"
+    },
+    {
+      "period": "1983-1995",
+      "organization": "南京化工学院",
+      "role": "教授、博士生导师",
+      "note": "1983-1995年任硅酸盐教研室主任、无机非金属研究所所长"
+    },
+    {
+      "period": "1999-?",
+      "organization": "钟山学院",
+      "role": "院长",
+      "note": "兼任"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "李振夏",
+      "relationship": "合作翻译",
+      "period": "1959",
+      "context": "合作翻译《水泥化学》"
+    },
+    {
+      "name": "胡道和",
+      "relationship": "合作翻译",
+      "period": "1966-1978",
+      "context": "合作翻译《水泥与混凝土化学》第二版、第三版"
+    },
+    {
+      "name": "王国宾",
+      "relationship": "协助指导研究生",
+      "period": "1962-1965",
+      "context": "协助指导4名研究生"
+    },
+    {
+      "name": "许仲梓",
+      "relationship": "博士生",
+      "period": "1986",
+      "context": "第一个博士研究生"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "A.M库兹涅佐夫",
+      "field": "水泥专业",
+      "institution": "南京工学院"
+    }
+  ],
+  "students": [
+    {
+      "name": "郑诗华",
+      "field": null,
+      "institution": null
+    },
+    {
+      "name": "许仲梓",
+      "field": null,
+      "institution": null
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1950,
+      "event": "加入中国新民主主义青年团",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1956,
+      "event": "加入中国共产党（候补党员）",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1960,
+      "event": "转为正式党员",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1978,
+      "event": "获得全国科技大会奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1980,
+      "event": "赴法国巴黎参加第七届国际水泥化学会议，提出碱度平衡理论",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1986,
+      "event": "赴加拿大渥太华参加第七届国际碱集料反应学术会议，担任执行主席",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1988,
+      "event": "碱—集料反应项目获得国家自然科学奖二等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1995,
+      "event": "当选为中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 2012,
+      "event": "获国家科学技术进步奖",
+      "type": "ACHIEVEMENT"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国科技大会奖"
+    },
+    {
+      "year": 1985,
+      "name": "江苏省劳动模范"
+    },
+    {
+      "year": 1986,
+      "name": "中青年有突出贡献专家"
+    },
+    {
+      "year": 1988,
+      "name": "国家自然科学奖二等奖"
+    },
+    {
+      "year": 1991,
+      "name": "政府特殊津贴"
+    },
+    {
+      "year": 1991,
+      "name": "江苏省科技进步奖二等奖"
+    },
+    {
+      "year": 1993,
+      "name": "国家教委科技进步奖（甲类）一等奖"
+    },
+    {
+      "year": 1996,
+      "name": "江苏省优秀学科带头人"
+    },
+    {
+      "year": 2000,
+      "name": "江苏省科学技术进步奖二等奖"
+    },
+    {
+      "year": 2012,
+      "name": "国家科学技术进步奖"
+    }
+  ],
+  "_meta": {
+    "file": "唐明述.txt",
+    "chars": 11740,
+    "tokens": 9328,
+    "time": "2026-06-10 21:03:18"
+  }
+}

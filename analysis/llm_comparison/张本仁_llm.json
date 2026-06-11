@@ -1,0 +1,500 @@
+{
+  "person": {
+    "name_cn": "张本仁",
+    "name_pinyin": "Zhang Benren",
+    "birth": {
+      "year": 1929,
+      "month": 5,
+      "day": 28,
+      "location": "安徽怀远县城关区南门外街74号"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "张发寅",
+      "aka": null
+    },
+    "mother": {
+      "name": "胡秀芳"
+    },
+    "spouse": {
+      "name": "汪雪芳",
+      "married": 1955
+    },
+    "children": [
+      {
+        "name": "张弛",
+        "birth": {
+          "year": 1956,
+          "month": 3,
+          "day": 28
+        },
+        "relation": "长子"
+      },
+      {
+        "name": "张跃",
+        "birth": {
+          "year": 1959,
+          "month": 11,
+          "day": 16
+        },
+        "relation": "次子"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "张本义",
+        "relation": "二弟",
+        "aka": null
+      },
+      {
+        "name": "张本道",
+        "relation": "三弟",
+        "aka": null
+      },
+      {
+        "name": "张本蕴",
+        "relation": "妹妹",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1933-1934",
+      "institution": "安徽怀远县培英幼稚园（私立）",
+      "dept": null,
+      "degree": null,
+      "location": "安徽怀远",
+      "status": "attended"
+    },
+    {
+      "period": "1935-1936",
+      "institution": "安徽怀远县培英小学（私立）",
+      "dept": null,
+      "degree": null,
+      "location": "安徽怀远",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1942",
+      "institution": "安徽怀远县淮西小学（私立教会学校）",
+      "dept": null,
+      "degree": null,
+      "location": "安徽怀远",
+      "status": "attended"
+    },
+    {
+      "period": "1943-1944",
+      "institution": "私立淮西中学",
+      "dept": null,
+      "degree": null,
+      "location": "安徽霍邱县临水集",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1948",
+      "institution": "淮西中学（安徽省立怀远中学）",
+      "dept": null,
+      "degree": "高中毕业",
+      "location": "安徽怀远",
+      "status": "attended"
+    },
+    {
+      "period": "1948-1952",
+      "institution": "国立中央大学（南京大学）",
+      "dept": "地质系",
+      "degree": "本科毕业",
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1952-1956",
+      "institution": "北京地质学院",
+      "dept": "地质系",
+      "degree": "硕士",
+      "location": "北京",
+      "status": "attended"
+    },
+    {
+      "period": "1948",
+      "institution": "齐鲁大学医学院",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "declined"
+    }
+  ],
+  "career": [
+    {
+      "period": "1952-1954",
+      "organization": "北京地质学院",
+      "role": "助教（研究生兼）",
+      "note": "苏联专家未到，实际担任助教工作"
+    },
+    {
+      "period": "1956-1957",
+      "organization": "北京地质学院矿物教研室",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1960-1966",
+      "organization": "北京地质学院地球化学教研室",
+      "role": "讲师",
+      "note": "参与筹建地球化学教研室和创办地球化学专业"
+    },
+    {
+      "period": "1971-1972",
+      "organization": "江西瑞金909地质队培训班",
+      "role": "教员兼党支部书记",
+      "note": null
+    },
+    {
+      "period": "1971-1974",
+      "organization": "湖北地质学院岩矿组",
+      "role": "讲师",
+      "note": null
+    },
+    {
+      "period": "1973-1975",
+      "organization": "北京地质学院留守处地球化学教研室",
+      "role": "讲师兼教研室主任",
+      "note": null
+    },
+    {
+      "period": "1975-1981",
+      "organization": "武汉地质学院地球化学教研室",
+      "role": "主任兼讲师",
+      "note": null
+    },
+    {
+      "period": "1978-1983",
+      "organization": "武汉地质学院",
+      "role": "副教授",
+      "note": null
+    },
+    {
+      "period": "1981-1984",
+      "organization": "武汉地质学院",
+      "role": "地质系副主任",
+      "note": null
+    },
+    {
+      "period": "1983-1988",
+      "organization": "武汉地质学院（中国地质大学）",
+      "role": "教授",
+      "note": null
+    },
+    {
+      "period": "1985-1994",
+      "organization": "武汉地质学院（中国地质大学）地球化学研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1991-1994",
+      "organization": "中国地质大学（武汉）秦巴地质矿产研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1994-1998",
+      "organization": "地质矿产部壳幔体系组成、物质交换及动力学开放教研实验室",
+      "role": "主任",
+      "note": null
+    },
+    {
+      "period": "1998-1999",
+      "organization": "中国地质大学（武汉）",
+      "role": "学术委员会副主任",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "曹添",
+      "relationship": "同事",
+      "period": "1960-1980s",
+      "context": "共同创建地球化学学科，合编教材"
+    },
+    {
+      "name": "於崇文",
+      "relationship": "同事",
+      "period": "1960-1980s",
+      "context": "共同创建地球化学学科，合编教材"
+    },
+    {
+      "name": "赵伦山",
+      "relationship": "同事",
+      "period": "1960-1980s",
+      "context": "合编《地球化学》教材，共同指导研究生"
+    },
+    {
+      "name": "李泽九",
+      "relationship": "同事",
+      "period": "1964-1989",
+      "context": "合作研究项目"
+    },
+    {
+      "name": "骆庭川",
+      "relationship": "同事",
+      "period": "1987-1994",
+      "context": "合著专著"
+    },
+    {
+      "name": "高山",
+      "relationship": "学生/同事",
+      "period": "1988-2002",
+      "context": "指导博士，后合作研究"
+    },
+    {
+      "name": "张宏飞",
+      "relationship": "学生/同事",
+      "period": "2002-2003",
+      "context": "合作编写专著"
+    },
+    {
+      "name": "韩吟文",
+      "relationship": "学生/同事",
+      "period": "1978-2003",
+      "context": "指导硕士，后合作编写教材"
+    },
+    {
+      "name": "马振东",
+      "relationship": "学生/同事",
+      "period": "1978-2003",
+      "context": "指导硕士，后合作编写教材"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "А.В.Токарев",
+      "field": "矿物学",
+      "institution": "北京地质学院"
+    },
+    {
+      "name": "徐克勤",
+      "field": "地质学",
+      "institution": "国立中央大学"
+    },
+    {
+      "name": "刘毓华",
+      "field": "英语",
+      "institution": null
+    }
+  ],
+  "students": [
+    {
+      "name": "高长林",
+      "field": "地球化学",
+      "institution": "武汉地质学院"
+    },
+    {
+      "name": "韩吟文",
+      "field": "地球化学",
+      "institution": "武汉地质学院"
+    },
+    {
+      "name": "马振东",
+      "field": "地球化学",
+      "institution": "武汉地质学院"
+    },
+    {
+      "name": "林兵",
+      "field": "地球化学",
+      "institution": "中国地质大学"
+    },
+    {
+      "name": "高山",
+      "field": "地球化学",
+      "institution": "中国地质大学"
+    },
+    {
+      "name": "汪东波",
+      "field": "地球化学",
+      "institution": "中国地质大学"
+    },
+    {
+      "name": "欧阳建平",
+      "field": "地球化学",
+      "institution": "中国地质大学"
+    },
+    {
+      "name": "仇定茂",
+      "field": "地球化学",
+      "institution": "北京地质学院"
+    },
+    {
+      "name": "冯锦江",
+      "field": "地球化学",
+      "institution": "北京地质学院"
+    },
+    {
+      "name": "黄兢先",
+      "field": "地球化学",
+      "institution": "北京地质学院"
+    },
+    {
+      "name": "卢纪仁",
+      "field": "地球化学",
+      "institution": "北京地质学院"
+    },
+    {
+      "name": "李福田",
+      "field": "地球化学",
+      "institution": "北京地质学院"
+    },
+    {
+      "name": "高玉岩",
+      "field": "地球化学",
+      "institution": "中国地质大学（北京）"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1929,
+      "event": "出生于安徽怀远",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1937,
+      "event": "父亲去世",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1948,
+      "event": "考入国立中央大学地质系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1952,
+      "event": "南京大学毕业，被选派到北京地质学院读研究生",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1955,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1956,
+      "event": "获得硕士学位，留校任教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1960,
+      "event": "参与创建北京地质学院地球化学教研室和地球化学专业",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1962,
+      "event": "合编《地球化学》教材出版",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1972,
+      "event": "抵制取消地球化学专业，使其得以保留",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1983,
+      "event": "被批准为地球化学学科博士研究生导师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1985,
+      "event": "获地矿部科技成果二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1989,
+      "event": "获全国教育系统劳动模范、人民教师奖章、全国优秀教师",
+      "type": "HONOR"
+    },
+    {
+      "year": 1989,
+      "event": "获第一届李四光地质科学奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "获国务院首批政府特殊津贴",
+      "type": "HONOR"
+    },
+    {
+      "year": 1995,
+      "event": "《秦巴岩石圈、构造及成矿规律地球化学研究》获国家自然科学三等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1999,
+      "event": "当选中国科学院地学部院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1999,
+      "event": "“秦岭造山带岩石圈结构与演化”获国家自然科学二等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2009,
+      "event": "80华诞庆祝会",
+      "type": "CAREER_MILESTONE"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1985,
+      "name": "地矿部科技成果二等奖"
+    },
+    {
+      "year": 1989,
+      "name": "全国教育系统劳动模范"
+    },
+    {
+      "year": 1989,
+      "name": "人民教师奖章"
+    },
+    {
+      "year": 1989,
+      "name": "全国优秀教师"
+    },
+    {
+      "year": 1989,
+      "name": "第一届李四光地质科学奖"
+    },
+    {
+      "year": 1991,
+      "name": "国务院首批政府特殊津贴"
+    },
+    {
+      "year": 1992,
+      "name": "地矿部科技成果二等奖"
+    },
+    {
+      "year": 1995,
+      "name": "国家自然科学三等奖"
+    },
+    {
+      "year": 1999,
+      "name": "国家自然科学二等奖"
+    },
+    {
+      "year": 1999,
+      "name": "教育部科技进步二等奖"
+    },
+    {
+      "year": 2000,
+      "name": "湖北第四届梁亮胜侨界科技奖励基金二等奖"
+    }
+  ],
+  "_meta": {
+    "file": "张本仁.txt",
+    "chars": 10150,
+    "tokens": 10059,
+    "time": "2026-06-10 21:03:40"
+  }
+}

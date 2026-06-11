@@ -1,0 +1,379 @@
+{
+  "person": {
+    "name_cn": "陆钟武",
+    "name_pinyin": "Lu Zhongwu",
+    "birth": {
+      "year": 1929,
+      "month": 10,
+      "day": 2,
+      "location": "天津市"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "陆绍云",
+      "aka": null
+    },
+    "mother": {},
+    "spouse": {},
+    "children": [],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1935-1936",
+      "institution": "常州琢初桥小学",
+      "dept": null,
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1937",
+      "institution": "巴蜀小学",
+      "dept": null,
+      "degree": null,
+      "location": "重庆",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1946",
+      "institution": "重庆南开中学",
+      "dept": null,
+      "degree": null,
+      "location": "重庆",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1949",
+      "institution": "国立中央大学",
+      "dept": "化工系",
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1949-1950",
+      "institution": "上海同济大学",
+      "dept": "化工系",
+      "degree": "学士",
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1950-1953",
+      "institution": "哈尔滨工业大学",
+      "dept": null,
+      "degree": "研究生",
+      "location": "哈尔滨",
+      "status": "attended"
+    },
+    {
+      "period": "1952-1953",
+      "institution": "东北工学院",
+      "dept": "冶金炉专业",
+      "degree": "研究生",
+      "location": "沈阳",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1952-1953",
+      "organization": "东北工学院",
+      "role": "冶金炉教研室副主任",
+      "note": null
+    },
+    {
+      "period": "1953-1956",
+      "organization": "东北工学院",
+      "role": "冶金炉教研室主任",
+      "note": null
+    },
+    {
+      "period": "1955-?",
+      "organization": "东北工学院",
+      "role": "钢铁冶金系副主任",
+      "note": null
+    },
+    {
+      "period": "1957-?",
+      "organization": "东北工学院",
+      "role": "冶金炉教研室主任",
+      "note": "重新担任"
+    },
+    {
+      "period": "1962-?",
+      "organization": "东北工学院",
+      "role": "副教授",
+      "note": null
+    },
+    {
+      "period": "1965-?",
+      "organization": "全国青年联合会",
+      "role": "副主席",
+      "note": null
+    },
+    {
+      "period": "1982-?",
+      "organization": "东北工学院",
+      "role": "钢铁冶金系主任",
+      "note": null
+    },
+    {
+      "period": "1983-?",
+      "organization": "东北工学院",
+      "role": "热能系主任",
+      "note": null
+    },
+    {
+      "period": "1984-?",
+      "organization": "东北工学院",
+      "role": "院长",
+      "note": null
+    },
+    {
+      "period": "1985-?",
+      "organization": "中国冶金能源学会",
+      "role": "首届理事长",
+      "note": null
+    },
+    {
+      "period": "1986-?",
+      "organization": "东北工学院",
+      "role": "博士生导师",
+      "note": null
+    },
+    {
+      "period": "1991-?",
+      "organization": "中国金属学会",
+      "role": "第五届理事会副理事长",
+      "note": null
+    },
+    {
+      "period": "1996-?",
+      "organization": "中国金属学会",
+      "role": "第六届理事会副理事长",
+      "note": null
+    },
+    {
+      "period": "1997-?",
+      "organization": "中国工程院",
+      "role": "院士",
+      "note": null
+    },
+    {
+      "period": "2001-?",
+      "organization": "中国工业生态学经济与技术专业委员会",
+      "role": "副理事长",
+      "note": null
+    },
+    {
+      "period": "2003-?",
+      "organization": "中国金属学会",
+      "role": "第七届理事会学术工作委员会主任委员",
+      "note": null
+    },
+    {
+      "period": "2006-?",
+      "organization": "中国生态经济学会工业生态经济与技术专业委员会",
+      "role": "副理事长",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "周大刚",
+      "relationship": "合作研究",
+      "period": "1979",
+      "context": "与鞍钢工程师周大刚一起研究钢铁系统节能"
+    },
+    {
+      "name": "古宾斯基",
+      "relationship": "合作著书",
+      "period": "1991-1995",
+      "context": "与乌克兰教授古宾斯基合著《火焰炉理论》"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "那扎洛夫",
+      "field": "冶金炉",
+      "institution": "东北工学院"
+    }
+  ],
+  "students": [],
+  "key_events": [
+    {
+      "year": 1929,
+      "event": "出生于天津市",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1946,
+      "event": "考入国立中央大学化工系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "毕业于同济大学，获学士学位",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "进入哈尔滨工业大学攻读研究生",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1952,
+      "event": "调至东北工学院，参与创建中国第一个冶金炉专业",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1959,
+      "event": "主编《冶金炉理论基础》出版",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1962,
+      "event": "晋升为副教授",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1965,
+      "event": "当选全国青年联合会副主席",
+      "type": "HONOR"
+    },
+    {
+      "year": 1978,
+      "event": "决定加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1979,
+      "event": "与周大刚合作研究系统节能理论",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1982,
+      "event": "晋升为东北大学教授",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1984,
+      "event": "被任命为东北工学院院长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1985,
+      "event": "《压下炉头式板坯加热炉》获国家科技进步二等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1986,
+      "event": "获日本关西大学名誉博士学位",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "获国务院政府特殊津贴",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "当选中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1999,
+      "event": "获乌克兰雅洛斯拉夫智慧奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2001,
+      "event": "获全国模范教师称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "获光华工程科技奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2008,
+      "event": "从教五十六周年暨八十寿辰庆典",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2012,
+      "event": "获沈阳五一劳动奖章",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1983,
+      "name": "沈阳市劳动模范"
+    },
+    {
+      "year": 1985,
+      "name": "冶金部节能先进工作者"
+    },
+    {
+      "year": 1985,
+      "name": "国家科技进步二等奖（压下炉头式板坯加热炉）"
+    },
+    {
+      "year": 1986,
+      "name": "日本关西大学名誉博士学位"
+    },
+    {
+      "year": 1986,
+      "name": "李薰优秀论文三等奖"
+    },
+    {
+      "year": 1987,
+      "name": "辽宁省科技进步三等奖"
+    },
+    {
+      "year": 1991,
+      "name": "国务院政府特殊津贴"
+    },
+    {
+      "year": 1997,
+      "name": "中国工程院院士"
+    },
+    {
+      "year": 1999,
+      "name": "乌克兰雅洛斯拉夫智慧奖"
+    },
+    {
+      "year": 2001,
+      "name": "全国模范教师"
+    },
+    {
+      "year": 2002,
+      "name": "河北省院士特殊贡献奖二等奖"
+    },
+    {
+      "year": 2003,
+      "name": "宝钢教育奖优秀教师"
+    },
+    {
+      "year": 2004,
+      "name": "光华工程科技奖"
+    },
+    {
+      "year": 2012,
+      "name": "沈阳五一劳动奖章"
+    }
+  ],
+  "_meta": {
+    "file": "陆钟武.txt",
+    "chars": 18948,
+    "tokens": 14236,
+    "time": "2026-06-10 21:10:04"
+  }
+}

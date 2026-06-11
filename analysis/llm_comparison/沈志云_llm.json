@@ -1,0 +1,445 @@
+{
+  "person": {
+    "name_cn": "沈志云",
+    "name_pinyin": "Shen Zhiyun",
+    "birth": {
+      "year": 1929,
+      "month": 5,
+      "day": 28,
+      "location": "湖南省长沙县黄花市杨家山"
+    },
+    "death": null,
+    "aliases": [
+      "沈志芸"
+    ]
+  },
+  "family": {
+    "father": {
+      "name": "沈璜",
+      "aka": "沈觐生"
+    },
+    "mother": {
+      "name": "陈顺勤"
+    },
+    "spouse": {
+      "name": "姜耋荣",
+      "married": 1956
+    },
+    "children": [
+      {
+        "name": "沈永红",
+        "birth": 1958,
+        "relation": "长女"
+      },
+      {
+        "name": "沈利人",
+        "birth": 1965,
+        "relation": "次子"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "沈立芸",
+        "relation": "兄长",
+        "aka": null
+      },
+      {
+        "name": "沈键纯",
+        "relation": "姐姐",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1935-1938",
+      "institution": "杨家山柳家公屋复合班小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1938-1938",
+      "institution": "清凉寺小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1938-1940",
+      "institution": "新冲子小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1941-1942",
+      "institution": "杨家滩中心小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1942-1943",
+      "institution": "国立师范学院附属中学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "declined"
+    },
+    {
+      "period": "1943-1946",
+      "institution": "国立师范学院附属中学",
+      "dept": null,
+      "degree": "初中",
+      "location": "湖南安化蓝田六亩塘",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1949",
+      "institution": "国立师范学院附属中学",
+      "dept": null,
+      "degree": "高中",
+      "location": "湖南衡山县南岳大庙",
+      "status": "attended"
+    },
+    {
+      "period": "1949-1952",
+      "institution": "唐山工学院",
+      "dept": "机械系",
+      "degree": "本科",
+      "location": "河北唐山",
+      "status": "attended"
+    },
+    {
+      "period": "1957-1961",
+      "institution": "列宁格勒铁道学院",
+      "dept": "机械系",
+      "degree": "副博士",
+      "location": "苏联列宁格勒",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1952-1954",
+      "organization": "唐山铁道学院理论力学教研组",
+      "role": "助教兼教研组秘书",
+      "note": null
+    },
+    {
+      "period": "1954-1955",
+      "organization": "唐山铁道学院教务处",
+      "role": "教学方法科主任干事",
+      "note": "兼任电气运输系俄语翻译"
+    },
+    {
+      "period": "1955-1961",
+      "organization": "唐山铁道学院机械系机车车辆教研室",
+      "role": "助教、教研室副主任",
+      "note": "辅导车辆修理工艺与车辆修理工厂课程"
+    },
+    {
+      "period": "1961-1964",
+      "organization": "唐山铁道学院车辆教研室",
+      "role": "讲师、教研室副主任",
+      "note": null
+    },
+    {
+      "period": "1964-1965",
+      "organization": "唐山铁道学院",
+      "role": "半工半读试点筹备",
+      "note": null
+    },
+    {
+      "period": "1965-1966",
+      "organization": "唐山铁道学院半工半读教研室",
+      "role": "主任",
+      "note": null
+    },
+    {
+      "period": "1966-1970",
+      "organization": "唐山铁道学院",
+      "role": "劳动改造",
+      "note": "文革期间被批斗"
+    },
+    {
+      "period": "1970-1974",
+      "organization": "唐山铁道学院车辆教研室",
+      "role": "教师",
+      "note": null
+    },
+    {
+      "period": "1974-1978",
+      "organization": "西南交通大学教务处",
+      "role": "教学方法科",
+      "note": "带领学生教学实践"
+    },
+    {
+      "period": "1978-1983",
+      "organization": "西南交通大学基础课部",
+      "role": "副主任、党总支副书记",
+      "note": null
+    },
+    {
+      "period": "1983-1986",
+      "organization": "西南交通大学应用力学研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1986-1987",
+      "organization": "西南交通大学机械工程二系",
+      "role": "教师",
+      "note": null
+    },
+    {
+      "period": "1987-1988",
+      "organization": "西南交通大学机械工程二系",
+      "role": "副系主任",
+      "note": null
+    },
+    {
+      "period": "1988-1996",
+      "organization": "西南交通大学机车车辆研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1988-1996",
+      "organization": "牵引动力国家重点实验室筹备组",
+      "role": "组长",
+      "note": null
+    },
+    {
+      "period": "1993-1996",
+      "organization": "牵引动力国家重点实验室",
+      "role": "主任",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "董平",
+      "relationship": "邀请讲学",
+      "period": "1980",
+      "context": "美国交通运输部波士顿研究中心结构与动力学研究所所长"
+    },
+    {
+      "name": "卡尔·赫追克",
+      "relationship": "合作研究",
+      "period": "1982-1984",
+      "context": "麻省理工学院教授，合作提出沈-赫-叶氏理论"
+    },
+    {
+      "name": "艾根思",
+      "relationship": "合作研究",
+      "period": "1983",
+      "context": "联合发表蠕滑力模型论文"
+    },
+    {
+      "name": "地帕特",
+      "relationship": "学术交流",
+      "period": "1985-1986",
+      "context": "荷兰戴尔夫特大学教授，建议迫导向转向架研究"
+    },
+    {
+      "name": "西蒙·伊夫尼斯基",
+      "relationship": "指导",
+      "period": "1986-1988",
+      "context": "英国博士研究生"
+    },
+    {
+      "name": "孙翔",
+      "relationship": "同事",
+      "period": "1987-1988",
+      "context": "共同参加IAVSD会议，筹备实验室"
+    },
+    {
+      "name": "钱清泉",
+      "relationship": "同事",
+      "period": "1988-1996",
+      "context": "共同申报国家重点实验室，后接任实验室主任"
+    },
+    {
+      "name": "刘东明",
+      "relationship": "合作",
+      "period": "1988",
+      "context": "邀请担任振动台总设计师"
+    },
+    {
+      "name": "张卫华",
+      "relationship": "合作",
+      "period": "1988-2012",
+      "context": "负责实验室总设计，后任实验室主任"
+    },
+    {
+      "name": "布瑞克",
+      "relationship": "学术交流",
+      "period": "1989",
+      "context": "英国教授，邀请讲学并考察迫导向转向架"
+    },
+    {
+      "name": "卡尔克",
+      "relationship": "学术交流",
+      "period": "1996",
+      "context": "荷兰学者，来校讲学"
+    },
+    {
+      "name": "李自力",
+      "relationship": "师生",
+      "period": "1996",
+      "context": "曾是沈志云硕士生，后随卡尔克来访"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "契尔诺可夫",
+      "field": "车辆修理",
+      "institution": "列宁格勒铁道学院"
+    },
+    {
+      "name": "康斯坦丁·伊万诺维奇·尼可拉耶夫",
+      "field": "车辆修理",
+      "institution": "列宁格勒铁道学院"
+    },
+    {
+      "name": "卡尔·赫追克",
+      "field": "系统动力学",
+      "institution": "麻省理工学院"
+    }
+  ],
+  "students": [
+    {
+      "name": "曾京",
+      "field": "车辆动力学",
+      "institution": "西南交通大学"
+    },
+    {
+      "name": "张卫华",
+      "field": "车辆动力学",
+      "institution": "西南交通大学"
+    },
+    {
+      "name": "张立民",
+      "field": "车辆动力学",
+      "institution": "西南交通大学"
+    },
+    {
+      "name": "金学松",
+      "field": "轮轨接触",
+      "institution": "西南交通大学"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1957,
+      "event": "在莫斯科大学受到毛泽东主席接见",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1961,
+      "event": "获列宁格勒铁道学院副博士学位",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1983,
+      "event": "提出沈-赫-叶氏理论",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1988,
+      "event": "牵引动力国家重点实验室申报通过",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1991,
+      "event": "当选中国科学院学部委员",
+      "type": "HONOR"
+    },
+    {
+      "year": 1994,
+      "event": "当选中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1996,
+      "event": "发表《论修建京沪高铁势在必行》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1999,
+      "event": "主持完成磁悬浮与高铁技术比较咨询报告",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1999,
+      "event": "机车车辆滚动振动试验台获国家科技进步一等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2002,
+      "event": "获四川省第二届科技杰出贡献奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "建议申报轨道交通国家实验室",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2008,
+      "event": "参与京津高铁通车前系统测试",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 2011,
+      "event": "参与京沪高铁验收，任移动设备组组长",
+      "type": "PARTICIPATION"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1989,
+      "name": "国家科技进步一等奖（韶山Ⅳ型机车）"
+    },
+    {
+      "year": 1991,
+      "name": "中国科学院学部委员"
+    },
+    {
+      "year": 1992,
+      "name": "首届政府特殊津贴"
+    },
+    {
+      "year": 1993,
+      "name": "铁道部科技进步三等奖（货车迫导向转向架）"
+    },
+    {
+      "year": 1994,
+      "name": "中国工程院院士"
+    },
+    {
+      "year": 1999,
+      "name": "国家科技进步一等奖（机车车辆滚动振动试验台）"
+    },
+    {
+      "year": 2002,
+      "name": "四川省第二届科技杰出贡献奖"
+    },
+    {
+      "year": 2002,
+      "name": "国务院学位委员会最佳博士生导师奖"
+    }
+  ],
+  "_meta": {
+    "file": "沈志云.txt",
+    "chars": 14235,
+    "tokens": 11986,
+    "time": "2026-06-10 21:05:29"
+  }
+}

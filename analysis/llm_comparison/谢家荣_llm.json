@@ -1,0 +1,456 @@
+{
+  "person": {
+    "name_cn": "谢家荣",
+    "name_pinyin": "Xie Jiarong",
+    "birth": {
+      "year": 1898,
+      "month": 9,
+      "day": 7,
+      "location": "上海市"
+    },
+    "death": {
+      "year": 1966,
+      "month": 8,
+      "day": 14
+    },
+    "aliases": [
+      "谢季骅"
+    ]
+  },
+  "family": {
+    "father": {
+      "name": "未提及",
+      "aka": null
+    },
+    "mother": {
+      "name": "孙太夫人"
+    },
+    "spouse": {
+      "name": "吴镜侬",
+      "married": 1922
+    },
+    "children": [
+      {
+        "name": "谢学锦",
+        "birth": "1923-05-21",
+        "relation": "长子"
+      },
+      {
+        "name": "谢学锳",
+        "birth": "1926-09-09",
+        "relation": "女儿"
+      },
+      {
+        "name": "谢学铨",
+        "birth": "1927-12-27",
+        "relation": "次子"
+      },
+      {
+        "name": "谢学钫",
+        "birth": "1932-10",
+        "relation": "三子"
+      },
+      {
+        "name": "谢学铮",
+        "birth": "1934-08-14",
+        "relation": "四子"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "未提及",
+        "relation": "兄弟姐妹8人，排行第八",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1904-1909",
+      "institution": "上海西城小学",
+      "dept": null,
+      "degree": null,
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1910-1913",
+      "institution": "上海制造局兵工学堂附属中学",
+      "dept": null,
+      "degree": null,
+      "location": "上海",
+      "status": "attended"
+    },
+    {
+      "period": "1913-1916",
+      "institution": "地质研究所",
+      "dept": null,
+      "degree": null,
+      "location": "北京",
+      "status": "attended"
+    },
+    {
+      "period": "1917-1918",
+      "institution": "斯坦福大学",
+      "dept": null,
+      "degree": null,
+      "location": "美国",
+      "status": "attended"
+    },
+    {
+      "period": "1918-1920",
+      "institution": "威斯康辛大学",
+      "dept": null,
+      "degree": "硕士",
+      "location": "美国",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1916-1916",
+      "organization": "农商部地质调查局",
+      "role": "学习员",
+      "note": null
+    },
+    {
+      "period": "1916-1917",
+      "organization": "农商部地质调查所",
+      "role": "调查员",
+      "note": null
+    },
+    {
+      "period": "1920-1921",
+      "organization": "地质调查所",
+      "role": "调查员",
+      "note": "重入"
+    },
+    {
+      "period": "1921-1922",
+      "organization": "东南大学",
+      "role": "教授",
+      "note": "讲授普通地质学"
+    },
+    {
+      "period": "1927-1928",
+      "organization": "两广地质调查所",
+      "role": "技正",
+      "note": null
+    },
+    {
+      "period": "1930-1932",
+      "organization": "清华大学",
+      "role": "教授兼代理系主任",
+      "note": "主持建立地质系"
+    },
+    {
+      "period": "1930-1932",
+      "organization": "北京师范大学",
+      "role": "教授",
+      "note": "地理系"
+    },
+    {
+      "period": "1932-1934",
+      "organization": "北京师范大学",
+      "role": "地理系主任",
+      "note": null
+    },
+    {
+      "period": "1933-1934",
+      "organization": "北京大学",
+      "role": "研究教授",
+      "note": "地质系"
+    },
+    {
+      "period": "1934-1935",
+      "organization": "地质调查所北平分所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1936-1937",
+      "organization": "北京大学",
+      "role": "地质系主任",
+      "note": null
+    },
+    {
+      "period": "1937-1940",
+      "organization": "资源委员会江华矿务局",
+      "role": "经理",
+      "note": "筹备委员"
+    },
+    {
+      "period": "1940-1942",
+      "organization": "资源委员会西南矿产测勘处",
+      "role": "处长",
+      "note": null
+    },
+    {
+      "period": "1942-1949",
+      "organization": "资源委员会矿产测勘处",
+      "role": "处长",
+      "note": "全国性机构"
+    },
+    {
+      "period": "1949-1950",
+      "organization": "华东工业部矿产测勘处",
+      "role": "处长",
+      "note": "保管处"
+    },
+    {
+      "period": "1950-1950",
+      "organization": "政务院财政经济委员会矿产测勘处",
+      "role": "处长",
+      "note": null
+    },
+    {
+      "period": "1950-1952",
+      "organization": "中国地质工作计划指导委员会",
+      "role": "副主任委员兼计划处处长",
+      "note": null
+    },
+    {
+      "period": "1952-1956",
+      "organization": "地质部",
+      "role": "总工程师",
+      "note": null
+    },
+    {
+      "period": "1956-1966",
+      "organization": "地质部地质研究所",
+      "role": "副所长",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "叶良辅",
+      "relationship": "合作者",
+      "period": "1915-1925",
+      "context": "合著多篇报告"
+    },
+    {
+      "name": "刘季辰",
+      "relationship": "合作者",
+      "period": "1923-1925",
+      "context": "湖北地质调查"
+    },
+    {
+      "name": "赵亚曾",
+      "relationship": "合作者",
+      "period": "1924-1925",
+      "context": "湖北地质调查"
+    },
+    {
+      "name": "王植",
+      "relationship": "合作者",
+      "period": "1937-1948",
+      "context": "广西锡矿、矿产测勘处"
+    },
+    {
+      "name": "程裕淇",
+      "relationship": "合作者",
+      "period": "1933-1936",
+      "context": "福建、湖南地质调查"
+    },
+    {
+      "name": "黄汲清",
+      "relationship": "合作者",
+      "period": "1950-1956",
+      "context": "石油普查、地质计划"
+    },
+    {
+      "name": "翁文灏",
+      "relationship": "合作者",
+      "period": "1915-1948",
+      "context": "地质调查所、资源委员会"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "章鸿钊",
+      "field": "地质学",
+      "institution": "地质研究所"
+    },
+    {
+      "name": "丁文江",
+      "field": "地质学",
+      "institution": "地质调查所"
+    },
+    {
+      "name": "翁文灏",
+      "field": "地质学",
+      "institution": "地质调查所"
+    },
+    {
+      "name": "A. N. Winchell",
+      "field": "地质学",
+      "institution": "威斯康辛大学"
+    }
+  ],
+  "students": [
+    {
+      "name": "张更",
+      "field": "地质学",
+      "institution": "两广地质调查所"
+    },
+    {
+      "name": "蒋溶",
+      "field": "地质学",
+      "institution": "两广地质调查所"
+    },
+    {
+      "name": "徐瑞麟",
+      "field": "地质学",
+      "institution": "两广地质调查所"
+    },
+    {
+      "name": "程裕淇",
+      "field": "地质学",
+      "institution": "清华大学"
+    },
+    {
+      "name": "陈恺",
+      "field": "地质学",
+      "institution": "清华大学"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1898,
+      "event": "出生于上海",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1913,
+      "event": "考入地质研究所",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1916,
+      "event": "从地质研究所毕业，任地质调查所调查员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1917,
+      "event": "父亲去世",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1920,
+      "event": "获威斯康辛大学硕士学位，回国",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1921,
+      "event": "赴甘肃地震灾区调查，首次调查玉门石油",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1922,
+      "event": "参与创立中国地质学会，任书记",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1922,
+      "event": "与吴镜侬结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1927,
+      "event": "参与筹备两广地质调查所",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1928,
+      "event": "赴德国访问研究",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1930,
+      "event": "主持建立清华大学地质系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1935,
+      "event": "任地质调查所北平分所所长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1937,
+      "event": "抗日战争爆发，拒绝日伪任职",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1940,
+      "event": "任资源委员会西南矿产测勘处处长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1946,
+      "event": "发现淮南八公山新煤田",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1947,
+      "event": "发现安徽凤台磷矿",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1948,
+      "event": "当选中央研究院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1949,
+      "event": "拒绝去台湾，留在南京迎接解放",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1950,
+      "event": "任中国地质工作计划指导委员会副主任委员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1952,
+      "event": "任地质部总工程师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1955,
+      "event": "当选中国科学院学部委员",
+      "type": "HONOR"
+    },
+    {
+      "year": 1957,
+      "event": "被错划为右派",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1959,
+      "event": "摘掉右派帽子",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1966,
+      "event": "文革中受迫害，自杀身亡",
+      "type": "POLITICAL"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1948,
+      "name": "中央研究院院士"
+    },
+    {
+      "year": 1955,
+      "name": "中国科学院学部委员"
+    }
+  ],
+  "_meta": {
+    "file": "谢家荣.txt",
+    "chars": 55904,
+    "tokens": 40988,
+    "time": "2026-06-10 21:09:10"
+  }
+}

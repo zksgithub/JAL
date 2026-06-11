@@ -1,0 +1,453 @@
+{
+  "person": {
+    "name_cn": "钟香崇",
+    "name_pinyin": "Zhong Xiangchong",
+    "birth": {
+      "year": 1921,
+      "month": 11,
+      "day": 21,
+      "location": "广东省汕头市"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "钟子言",
+      "aka": null
+    },
+    "mother": {
+      "name": "刘浣雪"
+    },
+    "spouse": {
+      "name": "张韵清",
+      "married": "1943-06-19"
+    },
+    "children": [
+      {
+        "name": "钟蕴香",
+        "birth": null,
+        "relation": "大姐"
+      },
+      {
+        "name": "钟香驹",
+        "birth": "1923-02",
+        "relation": "二弟"
+      },
+      {
+        "name": "钟香嶷",
+        "birth": "1924",
+        "relation": "三弟"
+      },
+      {
+        "name": "大女儿",
+        "birth": "1944-10-06",
+        "relation": "长女"
+      },
+      {
+        "name": "钟焰",
+        "birth": "1955-12",
+        "relation": "小女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "钟蕴香",
+        "relation": "大姐",
+        "aka": null
+      },
+      {
+        "name": "钟香驹",
+        "relation": "二弟",
+        "aka": null
+      },
+      {
+        "name": "钟香嶷",
+        "relation": "三弟",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1926-1931",
+      "institution": "香港育才书院",
+      "dept": "小学",
+      "degree": null,
+      "location": "香港",
+      "status": "attended"
+    },
+    {
+      "period": "1931-1934",
+      "institution": "香港育才书院",
+      "dept": "初中部",
+      "degree": null,
+      "location": "香港",
+      "status": "attended"
+    },
+    {
+      "period": "1934-1937",
+      "institution": "香港英皇中学",
+      "dept": "高中部",
+      "degree": null,
+      "location": "香港",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1941",
+      "institution": "香港大学",
+      "dept": "理化系",
+      "degree": "学士",
+      "location": "香港",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1949",
+      "institution": "英国利兹大学",
+      "dept": "燃料冶金系",
+      "degree": "博士",
+      "location": "英国",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1941-1942",
+      "organization": "育才书院分校",
+      "role": "教师",
+      "note": "按合约任教"
+    },
+    {
+      "period": "1942-1946",
+      "organization": "资源委员会重庆耐火材料厂",
+      "role": "技术人员",
+      "note": "经郁国城介绍进入"
+    },
+    {
+      "period": "1946-1947",
+      "organization": "谢菲尔德联合钢铁公司研究所",
+      "role": "研究人员",
+      "note": "师从切斯特斯博士"
+    },
+    {
+      "period": "1949-1955",
+      "organization": "重工业部钢铁局",
+      "role": "技术处副处长",
+      "note": "后改为冶金部"
+    },
+    {
+      "period": "1949-1950",
+      "organization": "唐山钢厂耐火材料车间",
+      "role": "技术支援",
+      "note": "解决硅砖质量问题"
+    },
+    {
+      "period": "1956-1963",
+      "organization": "冶金部",
+      "role": "技术处副处长",
+      "note": "负责全国耐火材料生产技术和建设"
+    },
+    {
+      "period": "1963-1984",
+      "organization": "洛阳耐火材料研究所",
+      "role": "所长兼总工程师",
+      "note": "1963年兼任所长，1978年任所长，1984年退居二线任技术顾问兼总工程师"
+    },
+    {
+      "period": "1969-1970",
+      "organization": "冶金工业部干校",
+      "role": "劳动",
+      "note": "在云南草坝喂猪"
+    },
+    {
+      "period": "1970-1973",
+      "organization": "昆明钢铁厂",
+      "role": "工程师、生产技术组副组长",
+      "note": "后任生产技术组大组负责人"
+    },
+    {
+      "period": "1973-1984",
+      "organization": "洛阳耐火材料研究所",
+      "role": "革委会副主任、所长、总工程师",
+      "note": "1973年任革委会副主任，1978年任所长，1978年任总工程师"
+    },
+    {
+      "period": "2000-2010",
+      "organization": "郑州大学高温材料研究所",
+      "role": "首席教授、名誉所长",
+      "note": "创建研究所"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "郁国城",
+      "relationship": "启蒙老师、上级",
+      "period": "1942-1946",
+      "context": "介绍进入重庆耐火材料厂，主婚人"
+    },
+    {
+      "name": "切斯特斯博士",
+      "relationship": "导师",
+      "period": "1946-1949",
+      "context": "英国皇家学会会员，指导研究"
+    },
+    {
+      "name": "黄兴宗",
+      "relationship": "同学、朋友",
+      "period": "1946-1949",
+      "context": "香港大学同学，曾邀请赴美"
+    },
+    {
+      "name": "严东升",
+      "relationship": "同事",
+      "period": "1951",
+      "context": "共同起草耐火材料技术标准"
+    },
+    {
+      "name": "雷天壮",
+      "relationship": "同事",
+      "period": "1951-1952",
+      "context": "共同起草标准、审查鞍钢设计"
+    },
+    {
+      "name": "王应悟",
+      "relationship": "同事",
+      "period": "1951",
+      "context": "共同起草标准"
+    },
+    {
+      "name": "李广平",
+      "relationship": "合作者",
+      "period": "1964-1981",
+      "context": "共同发表高铝矾土研究论文"
+    },
+    {
+      "name": "孙庚辰",
+      "relationship": "合作者",
+      "period": "1984-1997",
+      "context": "共同发表高铝耐火材料高温性能论文"
+    },
+    {
+      "name": "王泽田",
+      "relationship": "合作者",
+      "period": "1990-2000",
+      "context": "共同推动国家八五耐火材料科技攻关"
+    },
+    {
+      "name": "叶方保",
+      "relationship": "合作者、下属",
+      "period": "2000-2010",
+      "context": "郑州大学高温材料研究所所长"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "郁国城",
+      "field": "耐火材料",
+      "institution": "重庆耐火材料厂"
+    },
+    {
+      "name": "切斯特斯博士",
+      "field": "耐火材料",
+      "institution": "谢菲尔德联合钢铁公司研究所"
+    }
+  ],
+  "students": [
+    {
+      "name": "王克运",
+      "field": "耐火材料",
+      "institution": "北京钢铁学院"
+    },
+    {
+      "name": "蒋明学",
+      "field": "耐火材料",
+      "institution": "北京钢铁学院"
+    },
+    {
+      "name": "李庭寿",
+      "field": "耐火材料",
+      "institution": "北京科技大学"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1921,
+      "event": "出生于广东省汕头市",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1937,
+      "event": "香港英皇中学高中毕业，会考第二名，免费入香港大学",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1941,
+      "event": "香港大学毕业，获学士学位",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1942,
+      "event": "逃离香港，回到国内，进入重庆耐火材料厂",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1944,
+      "event": "通过留英考试，因肺结核延期",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1946,
+      "event": "赴英留学，在谢菲尔德联合钢铁公司研究所工作",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1949,
+      "event": "获英国利兹大学博士学位，回国",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1949,
+      "event": "支援唐山钢厂，解决硅砖质量问题，获特等劳模",
+      "type": "HONOR"
+    },
+    {
+      "year": 1951,
+      "event": "参与起草我国第一套耐火材料技术标准",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1953,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1956,
+      "event": "被评为全国先进工作者",
+      "type": "HONOR"
+    },
+    {
+      "year": 1956,
+      "event": "组织筹建洛阳耐火材料厂",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1963,
+      "event": "洛阳耐火材料研究所成立，兼任所长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1978,
+      "event": "参加全国科学大会",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1988,
+      "event": "在杭州首次举办国际耐火材料学术会议，任大会主席",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1991,
+      "event": "当选为中国科学院学部委员（院士）",
+      "type": "HONOR"
+    },
+    {
+      "year": 1993,
+      "event": "被评选为国际联合耐火材料学会终生杰出会员",
+      "type": "HONOR"
+    },
+    {
+      "year": 1998,
+      "event": "获河南省科技功臣荣誉称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 2000,
+      "event": "获何梁何利基金科学与技术进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2000,
+      "event": "创建郑州大学高温材料研究所",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2011,
+      "event": "获中国金属协会冶金科技终身成就奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2011,
+      "event": "获联合国耐火材料学术会议资深贡献者奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2014,
+      "event": "捐赠100万元设立钟香崇研究生奖学基金",
+      "type": "ACHIEVEMENT"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1949,
+      "name": "唐山钢厂特等劳模"
+    },
+    {
+      "year": 1956,
+      "name": "全国先进工作者"
+    },
+    {
+      "year": 1977,
+      "name": "冶金部先进科技工作者"
+    },
+    {
+      "year": 1978,
+      "name": "冶金工业部和河南省先进科技工作者"
+    },
+    {
+      "year": 1991,
+      "name": "国家政府特殊津贴"
+    },
+    {
+      "year": 1993,
+      "name": "冶金部科学进步奖二等奖（1250-1550℃低温蠕变高铝质热风炉砖）"
+    },
+    {
+      "year": 1998,
+      "name": "河南省科技功臣荣誉称号"
+    },
+    {
+      "year": 1999,
+      "name": "美国硅酸盐学会荣誉会士"
+    },
+    {
+      "year": 2000,
+      "name": "何梁何利基金科学与技术进步奖"
+    },
+    {
+      "year": 2004,
+      "name": "河南省科学进步二等奖（钟香崇耐火材料研究）"
+    },
+    {
+      "year": 2004,
+      "name": "河南省科学进步奖二等奖（矾土基β-Sialon制备方法）"
+    },
+    {
+      "year": 2010,
+      "name": "中国耐火材料行业协会杰出耐火人"
+    },
+    {
+      "year": 2011,
+      "name": "中国金属协会冶金科技终身成就奖"
+    },
+    {
+      "year": 2011,
+      "name": "联合国耐火材料学术会议资深贡献者奖"
+    }
+  ],
+  "_meta": {
+    "file": "钟香崇.txt",
+    "chars": 24963,
+    "tokens": 17912,
+    "time": "2026-06-10 21:09:47"
+  }
+}
