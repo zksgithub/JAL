@@ -1,0 +1,462 @@
+{
+  "person": {
+    "name_cn": "张炳炎",
+    "name_pinyin": "Zhang Bingyan",
+    "birth": {
+      "year": 1934,
+      "month": 10,
+      "day": 14,
+      "location": "河北省（现为山东省）庆云县板营镇西孟家村"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "张清源",
+      "aka": null
+    },
+    "mother": {
+      "name": "袁香斋"
+    },
+    "spouse": {
+      "name": "程蕴雪",
+      "married": 1961
+    },
+    "children": [],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1943-1943",
+      "institution": "山东抗日根据地地方小学",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1947-1947",
+      "institution": "山东惠民渤海行署干部子弟学校",
+      "dept": null,
+      "degree": "初中",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1949-1949",
+      "institution": "河南巩县第二野战军女子大学附属子弟学校",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1950-1950",
+      "institution": "重庆市第二中学（初中）",
+      "dept": null,
+      "degree": "初中",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1952-1954",
+      "institution": "重庆市第一中学（高中）",
+      "dept": null,
+      "degree": "高中",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1954-1955",
+      "institution": "北京俄语专科学校（后改为北京俄语学院）留苏预备班",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1955-1960",
+      "institution": "苏联列宁格勒造船学院",
+      "dept": "船舶设计与制造系",
+      "degree": "毕业",
+      "location": null,
+      "status": "attended"
+    },
+    {
+      "period": "1964-1965",
+      "institution": "上海交通大学国防科委英语干部训练班",
+      "dept": null,
+      "degree": null,
+      "location": null,
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1960-1960",
+      "organization": "三机部九局上海船舶产品设计院（七○八所前身）一室",
+      "role": "见习技术员",
+      "note": null
+    },
+    {
+      "period": "1961-1961",
+      "organization": "国防部第七研究院八所一室",
+      "role": "技术员、总体组长",
+      "note": null
+    },
+    {
+      "period": "1965-1967",
+      "organization": "交通部中国远洋运输总公司驻法国监造组",
+      "role": "监造师",
+      "note": "监造'耀华'号远洋客货船"
+    },
+    {
+      "period": "1967-1967",
+      "organization": "第七研究院'六四'工作组",
+      "role": "组员",
+      "note": null
+    },
+    {
+      "period": "1970-1970",
+      "organization": "广州船厂",
+      "role": "'三结合'设计组组长",
+      "note": "改装'长宁'号为'向阳红5'号"
+    },
+    {
+      "period": "1971-1974",
+      "organization": "七○八所",
+      "role": "总设计师、'三结合'设计组组长",
+      "note": "主持'向阳红10'号船设计"
+    },
+    {
+      "period": "1976-1976",
+      "organization": "八所二室一科",
+      "role": "技术员",
+      "note": null
+    },
+    {
+      "period": "1977-1977",
+      "organization": "八所二室一科",
+      "role": "工程师",
+      "note": null
+    },
+    {
+      "period": "1979-1979",
+      "organization": "八所二室一科",
+      "role": "主要负责人",
+      "note": null
+    },
+    {
+      "period": "1979-1979",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'向阳红21'号设计"
+    },
+    {
+      "period": "1981-1981",
+      "organization": "八所二室",
+      "role": "副科长",
+      "note": null
+    },
+    {
+      "period": "1981-1981",
+      "organization": "八所二室",
+      "role": "副主任工程师",
+      "note": null
+    },
+    {
+      "period": "1982-1982",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持700箱全集装箱船设计"
+    },
+    {
+      "period": "1984-1984",
+      "organization": "八所二室",
+      "role": "主任工程师、高级工程师",
+      "note": null
+    },
+    {
+      "period": "1985-1985",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持131箱沿海邮政集装箱船设计"
+    },
+    {
+      "period": "1989-1989",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'世昌'号（0891）设计"
+    },
+    {
+      "period": "1991-1991",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'东方红2'号设计"
+    },
+    {
+      "period": "1993-1993",
+      "organization": "国家极地委员会",
+      "role": "购船首席专家",
+      "note": null
+    },
+    {
+      "period": "1994-1994",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'雪龙'号改装"
+    },
+    {
+      "period": "1998-1999",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'向阳红10'号改装为'远望4'号"
+    },
+    {
+      "period": "2000-2000",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'中国海监83'设计"
+    },
+    {
+      "period": "2003-2003",
+      "organization": "七○八所",
+      "role": "总设计师",
+      "note": "主持'海洋六号'设计"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "马炳才",
+      "relationship": "同事",
+      "period": "1968-1968",
+      "context": "共同设绘'七一八'主测量船方案设计线型图、总体说明书"
+    },
+    {
+      "name": "曹国樑",
+      "relationship": "同事",
+      "period": "1971-1971",
+      "context": "共同设绘'向阳红10'号船方案设计总布置图"
+    },
+    {
+      "name": "方之震",
+      "relationship": "同事",
+      "period": "1971-1971",
+      "context": "共同设绘'向阳红10'号船线型图"
+    },
+    {
+      "name": "曹惠君",
+      "relationship": "同事",
+      "period": "1974-1974",
+      "context": "共同设绘'向阳红10'号船方案设计总布置图"
+    },
+    {
+      "name": "白巨源",
+      "relationship": "入党介绍人",
+      "period": "1961-1961",
+      "context": null
+    },
+    {
+      "name": "马锦华",
+      "relationship": "入党介绍人",
+      "period": "1961-1961",
+      "context": null
+    }
+  ],
+  "mentors": [],
+  "students": [
+    {
+      "name": "张国雄",
+      "field": "船舶设计",
+      "institution": "七○八所"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1953,
+      "event": "在武汉等船时因我国不会造船而决心学造船",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1954,
+      "event": "加入中国共产主义青年团",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1961,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1962,
+      "event": "被评为先进工作者",
+      "type": "HONOR"
+    },
+    {
+      "year": 1970,
+      "event": "主持改装'长宁'号为'向阳红5'号",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1971,
+      "event": "任'向阳红10'号船总设计师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1976,
+      "event": "'向阳红10'号远洋调查船研究设计获上海市重大科技成果奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1977,
+      "event": "远洋调查船（643甲）研究设计获上海市重大科技成果奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1979,
+      "event": "'643'远洋调查船总体设计获国防科委重大科技成果一等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1979,
+      "event": "'向阳红5'号改装设计获国防科委重大科技成果三等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1980,
+      "event": "随'向阳红10'号船参加我国首次洲际导弹全程飞行试验任务，荣立集体二等功",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1985,
+      "event": "'向阳红'远洋调查船获国家科技进步特等奖（名列第二）",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1985,
+      "event": "700箱全集装箱船获国家金质奖和国家科技进步奖三等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1987,
+      "event": "获'上海市优秀科技工作者'称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "获国务院政府特殊津贴",
+      "type": "HONOR"
+    },
+    {
+      "year": 1995,
+      "event": "当选为中国工程院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "获'全国优秀科技工作者'称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1998,
+      "event": "获'中国工程科学技术奖'",
+      "type": "HONOR"
+    },
+    {
+      "year": 2005,
+      "event": "'中国海监83'建成交船",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2007,
+      "event": "'新型海监船研发'获上海市科技进步奖三等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 2012,
+      "event": "获'航海文化贡献奖'",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1976,
+      "name": "上海市重大科技成果奖（'向阳红10'号远洋调查船研究设计）"
+    },
+    {
+      "year": 1977,
+      "name": "上海市重大科技成果奖（远洋调查船643甲研究设计）"
+    },
+    {
+      "year": 1979,
+      "name": "国防科委重大科技成果一等奖（'643'远洋调查船总体设计）"
+    },
+    {
+      "year": 1979,
+      "name": "国防科委重大科技成果三等奖（'向阳红5'号改装设计）"
+    },
+    {
+      "year": 1985,
+      "name": "国家科技进步特等奖（'向阳红'远洋调查船）"
+    },
+    {
+      "year": 1985,
+      "name": "国家金质奖（700箱全集装箱船）"
+    },
+    {
+      "year": 1985,
+      "name": "国家科技进步奖三等奖（700箱全集装箱船）"
+    },
+    {
+      "year": 1985,
+      "name": "中船总公司重大科技成果二等奖（'813'远洋电子技术侦察船）"
+    },
+    {
+      "year": 1985,
+      "name": "国防专用国家级科技进步三等奖（'813'远洋电子技术侦察船）"
+    },
+    {
+      "year": 1987,
+      "name": "上海市优秀科技工作者"
+    },
+    {
+      "year": 1987,
+      "name": "中船总公司科技进步三等奖（主编'船舶设计常用文字符号GB4954—85'）"
+    },
+    {
+      "year": 1991,
+      "name": "国务院政府特殊津贴"
+    },
+    {
+      "year": 1992,
+      "name": "七院科技进步三等奖（800吨海监船）"
+    },
+    {
+      "year": 1994,
+      "name": "光华科技基金奖三等奖"
+    },
+    {
+      "year": 1997,
+      "name": "全国优秀科技工作者"
+    },
+    {
+      "year": 1998,
+      "name": "中国工程科学技术奖"
+    },
+    {
+      "year": 2007,
+      "name": "上海市科技进步奖三等奖（新型海监船研发）"
+    },
+    {
+      "year": 2012,
+      "name": "航海文化贡献奖"
+    }
+  ],
+  "_meta": {
+    "file": "张炳炎.txt",
+    "chars": 24701,
+    "tokens": 18973,
+    "time": "2026-06-10 21:04:04"
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "person": {
+    "name_cn": "高守一",
+    "name_pinyin": "Gao Shouyi",
+    "birth": {
+      "year": 1927,
+      "month": 4,
+      "day": 29,
+      "location": "辽宁省新民市安福屯村"
+    },
+    "death": {
+      "year": 2011,
+      "month": 5,
+      "day": 21
+    },
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "高殿志",
+      "aka": null
+    },
+    "mother": {
+      "name": "喻凤茹"
+    },
+    "spouse": {
+      "name": "陈宗芳",
+      "married": 1953
+    },
+    "children": [
+      {
+        "name": "高克柔",
+        "birth": {
+          "year": 1954,
+          "month": 2,
+          "day": 21
+        },
+        "relation": "儿子"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "高守平",
+        "relation": "弟弟"
+      },
+      {
+        "name": "高守安",
+        "relation": "弟弟"
+      },
+      {
+        "name": "高守兰",
+        "relation": "妹妹"
+      },
+      {
+        "name": "高守菊",
+        "relation": "妹妹"
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1933-1938",
+      "institution": "沈阳市大南小学",
+      "dept": null,
+      "degree": null,
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1942",
+      "institution": "沈阳第六国民高等学校",
+      "dept": null,
+      "degree": null,
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1945",
+      "institution": "沈阳留（日）学生预备校",
+      "dept": "理科",
+      "degree": null,
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1945",
+      "institution": "满洲医科大学预备科",
+      "dept": null,
+      "degree": null,
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1948",
+      "institution": "国立沈阳医学院",
+      "dept": null,
+      "degree": null,
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1948-1949",
+      "institution": "国立沈阳医科大学北京办事处",
+      "dept": null,
+      "degree": null,
+      "location": "北京",
+      "status": "attended"
+    },
+    {
+      "period": "1949-1950",
+      "institution": "中国医科大学",
+      "dept": "医疗系",
+      "degree": "医学学士",
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1950-1952",
+      "institution": "中国医科大学细菌系",
+      "dept": null,
+      "degree": "研究生",
+      "location": "沈阳",
+      "status": "attended"
+    },
+    {
+      "period": "1954-1955",
+      "institution": "中央卫生研究院",
+      "dept": null,
+      "degree": "进修",
+      "location": "北京",
+      "status": "attended"
+    },
+    {
+      "period": "1959-1960",
+      "institution": "印度加尔各答公共卫生学院、生化与实验医学研究所等",
+      "dept": null,
+      "degree": "进修",
+      "location": "印度",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1943-1943",
+      "organization": "沈阳豆油组合联合会",
+      "role": "雇员",
+      "note": null
+    },
+    {
+      "period": "1950-1954",
+      "organization": "中国医科大学微生物教研室",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1954-1966",
+      "organization": "中央流行病学研究所、中国医学科学院流行病学微生物学研究所",
+      "role": "助理研究员",
+      "note": null
+    },
+    {
+      "period": "1964-1966",
+      "organization": "中国医学科学院流行病学微生物学研究所肠道传染病研究室",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1966-1979",
+      "organization": "中国医学科学院流行病防治研究所",
+      "role": "副研究员、研究室主任",
+      "note": null
+    },
+    {
+      "period": "1979-1983",
+      "organization": "中国医学科学院流行病学微生物学研究所",
+      "role": "副所长、02研究室主任",
+      "note": null
+    },
+    {
+      "period": "1983-1986",
+      "organization": "中国医学科学流行病学微生物学研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1986-?",
+      "organization": "中国预防医学科学院流行病学微生物学研究所",
+      "role": "细菌性腹泻病研究室主任",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "刘秉阳",
+      "relationship": "协助",
+      "period": "1955",
+      "context": "协助进行流研所技术干部基本功培训"
+    },
+    {
+      "name": "杨永江",
+      "relationship": "介绍人",
+      "period": "1949",
+      "context": "介绍加入中国新民主义青年团"
+    },
+    {
+      "name": "高正光",
+      "relationship": "介绍人",
+      "period": "1956",
+      "context": "介绍加入中国共产党"
+    },
+    {
+      "name": "阎世德",
+      "relationship": "介绍人",
+      "period": "1956",
+      "context": "介绍加入中国共产党"
+    },
+    {
+      "name": "S.Faine",
+      "relationship": "学术交流",
+      "period": "1980",
+      "context": "与澳大利亚Monash大学医学院微生物系主任S.Faine教授进行学术交流"
+    },
+    {
+      "name": "E.S.Anderson",
+      "relationship": "学术交流",
+      "period": "1980",
+      "context": "与英国著名微生物学家E.S.Anderson教授进行学术交流"
+    },
+    {
+      "name": "H.Smith",
+      "relationship": "学术交流",
+      "period": "1983",
+      "context": "与英国伯明翰大学微生物系H.Smith教授进行学术交流"
+    },
+    {
+      "name": "MM Levine",
+      "relationship": "学术交流",
+      "period": "1990",
+      "context": "与美国马里兰大学MM Levine教授进行学术交流"
+    },
+    {
+      "name": "JB Kaper",
+      "relationship": "学术交流",
+      "period": "1990",
+      "context": "与美国马里兰大学JB Kaper教授进行学术交流"
+    },
+    {
+      "name": "K.Richardson",
+      "relationship": "学术交流",
+      "period": "1992",
+      "context": "与美国Oregan健康科学大学K.Richardson教授进行学术交流"
+    },
+    {
+      "name": "Hall",
+      "relationship": "学术交流",
+      "period": "1994",
+      "context": "与美国疫苗发展中心Hall博士进行学术交流"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "刘秉阳",
+      "field": "微生物学",
+      "institution": "中国医学科学院流行病学微生物学研究所"
+    }
+  ],
+  "students": [
+    {
+      "name": "祁国明",
+      "field": "霍乱弧菌",
+      "institution": "中国医学科学院流行病学微生物学研究所"
+    },
+    {
+      "name": "童道玉",
+      "field": "霍乱弧菌",
+      "institution": "中国医学科学院流行病学微生物学研究所"
+    },
+    {
+      "name": "杨永民",
+      "field": "霍乱分子流行病学",
+      "institution": "中国预防医学科学院流行病学微生物学研究所"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1949,
+      "event": "参加中国新民主义青年团",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1956,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1959,
+      "event": "发现第Ⅳ组噬菌体能鉴别霍乱弧菌和埃尔托霍乱弧菌",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1961,
+      "event": "确诊我国首次副霍乱",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1964,
+      "event": "出席第一届亚洲医学会议",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1964,
+      "event": "出席首届亚非医学会议",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1971,
+      "event": "提出埃尔托霍乱弧菌存在流行株和非流行株两类菌株的观点",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1978,
+      "event": "全国科学大会授予先进工作者荣誉称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1978,
+      "event": "获全国科学大会奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1981,
+      "event": "成为国务院学位委员会首批博士生指导教师",
+      "type": "HONOR"
+    },
+    {
+      "year": 1989,
+      "event": "《埃尔托型霍乱弧菌两类菌株的研究及其在霍乱防病中的应用》获卫生部科技进步一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "《埃尔托型霍乱弧菌两类菌株的研究及其在霍乱防病中的应用》获国家科学技术进步一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1993,
+      "event": "当选为第八届全国政协委员",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1993,
+      "event": "确认我国首次O139霍乱",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1994,
+      "event": "当选为中国工程院医药与卫生工程学首批院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "获何梁何利基金科学与技术进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2000,
+      "event": "获北京市科学技术进步二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2008,
+      "event": "获中华预防医学会公共卫生与预防医学发展贡献奖",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国科学大会奖"
+    },
+    {
+      "year": 1978,
+      "name": "中国医学科学院三等奖"
+    },
+    {
+      "year": 1989,
+      "name": "卫生部科技进步一等奖"
+    },
+    {
+      "year": 1990,
+      "name": "卫生部科技进步三等奖"
+    },
+    {
+      "year": 1991,
+      "name": "国家科学技术进步一等奖"
+    },
+    {
+      "year": 1997,
+      "name": "何梁何利基金科学与技术进步奖"
+    },
+    {
+      "year": 2000,
+      "name": "北京市科学技术进步二等奖"
+    },
+    {
+      "year": 2004,
+      "name": "广东省科学技术奖励二等奖"
+    },
+    {
+      "year": 2008,
+      "name": "中华预防医学会公共卫生与预防医学发展贡献奖"
+    }
+  ],
+  "_meta": {
+    "file": "高守一.txt",
+    "chars": 11451,
+    "tokens": 9761,
+    "time": "2026-06-10 21:10:42"
+  }
+}

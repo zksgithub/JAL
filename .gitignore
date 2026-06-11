@@ -1,0 +1,33 @@
+# Build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Large data downloads
+*.json.gz
+*.gz
+*.bz2
+wikidata_latest-all.*
+
+# Analysis scripts (not needed for paper source)
+*.py
+!analysis/filter_wikidata_dump.py
+
+# Intermediate analysis outputs
+analysis/*.json
+analysis/*.html
+analysis/*.md
+!analysis/llm_comparison/all_scientists_llm.json
+
+# Derived PNG copies in root
+knowledge_graph*.png
+
+# OS junk
+__MACOSX/
+__pycache__/
+*.pyc
+.DS_Store

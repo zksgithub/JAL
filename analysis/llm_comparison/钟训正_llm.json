@@ -1,0 +1,297 @@
+{
+  "person": {
+    "name_cn": "钟训正",
+    "name_pinyin": "Zhong Xunzheng",
+    "birth": {
+      "year": 1928,
+      "month": 7,
+      "day": 9,
+      "location": "湖南武冈"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {},
+    "mother": {},
+    "spouse": {
+      "name": "江三林",
+      "married": 1956
+    },
+    "children": [],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1935-1939",
+      "institution": "湖南武冈云山小学",
+      "dept": null,
+      "degree": null,
+      "location": "湖南武冈",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1941",
+      "institution": "湖南武冈和平小学",
+      "dept": null,
+      "degree": null,
+      "location": "湖南武冈",
+      "status": "attended"
+    },
+    {
+      "period": "1941-1944",
+      "institution": "湖南武冈云山中学",
+      "dept": null,
+      "degree": null,
+      "location": "湖南武冈",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1945",
+      "institution": "湖南武冈蓼湄中学",
+      "dept": null,
+      "degree": null,
+      "location": "湖南武冈",
+      "status": "attended"
+    },
+    {
+      "period": "1945-1946",
+      "institution": "湖南武冈蓼湄中学",
+      "dept": null,
+      "degree": null,
+      "location": "湖南武冈",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1948",
+      "institution": "湖南南岳岳云中学",
+      "dept": null,
+      "degree": null,
+      "location": "湖南南岳",
+      "status": "attended"
+    },
+    {
+      "period": "1948-1949",
+      "institution": "国立中央大学",
+      "dept": "建筑系",
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1949-1952",
+      "institution": "国立南京大学",
+      "dept": "建筑系",
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1952-1954",
+      "organization": "湖南大学",
+      "role": "助教",
+      "note": "教授建筑设计初步"
+    },
+    {
+      "period": "1954-1955",
+      "organization": "武汉大学水利学院",
+      "role": "教师",
+      "note": "教授房屋建筑学"
+    },
+    {
+      "period": "1955-1997",
+      "organization": "南京工学院（后为东南大学）",
+      "role": "教师",
+      "note": "教授建筑设计等课程"
+    },
+    {
+      "period": "1957-1997",
+      "organization": "南京工学院建筑系",
+      "role": "讲师",
+      "note": "1957年升为讲师"
+    },
+    {
+      "period": "1984-1986",
+      "organization": "美国保尔州立大学",
+      "role": "进修",
+      "note": "参与BDMD事务所工程设计"
+    },
+    {
+      "period": "1999-?",
+      "organization": "东南大学环境与建筑研究中心",
+      "role": "主任",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "杨廷宝",
+      "relationship": "导师、合作者",
+      "period": "1955-1982",
+      "context": "参与南京雨花台烈士陵园总体规划等"
+    },
+    {
+      "name": "孙钟阳",
+      "relationship": "合作者",
+      "period": "1972-1996",
+      "context": "合作编写教材、设计项目"
+    },
+    {
+      "name": "王文卿",
+      "relationship": "合作者",
+      "period": "1972-1996",
+      "context": "合作编写教材、设计项目"
+    },
+    {
+      "name": "赖聚奎",
+      "relationship": "合作者",
+      "period": "1963-1969",
+      "context": "合作设计古巴吉隆滩纪念碑竞赛、编写教材"
+    },
+    {
+      "name": "崔豫章",
+      "relationship": "合作者",
+      "period": "1969",
+      "context": "合作编写教材《建筑绘画》"
+    },
+    {
+      "name": "奚树祥",
+      "relationship": "合作者",
+      "period": "1980",
+      "context": "合作发表论文"
+    },
+    {
+      "name": "陈家堡",
+      "relationship": "合作者",
+      "period": "1978",
+      "context": "合作设计南京雨花台烈士陵园北大门"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "杨廷宝",
+      "field": "建筑学",
+      "institution": "南京工学院"
+    }
+  ],
+  "students": [],
+  "key_events": [
+    {
+      "year": 1928,
+      "event": "出生于湖南武冈",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1948,
+      "event": "考入国立中央大学建筑系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1952,
+      "event": "毕业于国立南京大学建筑系，分配至湖南大学任教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1956,
+      "event": "与江三林结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1959,
+      "event": "北京火车站综合方案被周恩来总理选定为实施方案",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1960,
+      "event": "南京长江大桥桥头堡红旗方案被周恩来总理选定为实施方案",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1989,
+      "event": "作品“南京夫子庙、文庙、学宫、东西市场建筑群”获省级优秀工程设计一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1989,
+      "event": "作品“无锡太湖饭店”获建设部优秀设计二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1992,
+      "event": "享受国务院政府特殊津贴",
+      "type": "HONOR"
+    },
+    {
+      "year": 1999,
+      "event": "作品“太湖饭店”获国际建协第20届世界建筑师大会当代中国建筑艺术创作成就奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2010,
+      "event": "获得第四届中国建筑学会建筑教育特别奖",
+      "type": "HONOR"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1989,
+      "name": "省级优秀工程设计一等奖（南京夫子庙建筑群）"
+    },
+    {
+      "year": 1989,
+      "name": "建设部优秀设计二等奖（无锡太湖饭店）"
+    },
+    {
+      "year": 1989,
+      "name": "国家教育委员会优秀设计一等奖（无锡太湖饭店）"
+    },
+    {
+      "year": 1992,
+      "name": "国家教育委员会优秀工程设计二等奖（海南三亚金陵度假村）"
+    },
+    {
+      "year": 1992,
+      "name": "国家教育委员会优秀工程设计二等奖（甘肃画院）"
+    },
+    {
+      "year": 1992,
+      "name": "国务院政府特殊津贴"
+    },
+    {
+      "year": 1995,
+      "name": "国家教育委员会优秀工程设计三等奖（南京中山陵太阳广场）"
+    },
+    {
+      "year": 1996,
+      "name": "第三届全国普通高等学校建设部优秀教材评选一等奖（《建筑制图》）"
+    },
+    {
+      "year": 1999,
+      "name": "国际建协第20届世界建筑师大会当代中国建筑艺术创作成就奖（太湖饭店）"
+    },
+    {
+      "year": 2002,
+      "name": "江苏省优秀设计二等奖（洪泽文化馆）"
+    },
+    {
+      "year": 2003,
+      "name": "国家教委优秀设计一等奖（武夷山九曲花街）"
+    },
+    {
+      "year": 2003,
+      "name": "中国勘测协会优秀设计三等奖（武夷山九曲花街）"
+    },
+    {
+      "year": 2010,
+      "name": "第四届中国建筑学会建筑教育特别奖"
+    }
+  ],
+  "_meta": {
+    "file": "钟训正.txt",
+    "chars": 6552,
+    "tokens": 6308,
+    "time": "2026-06-10 21:09:25"
+  }
+}

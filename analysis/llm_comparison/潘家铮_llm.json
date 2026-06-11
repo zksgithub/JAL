@@ -1,0 +1,481 @@
+{
+  "person": {
+    "name_cn": "潘家铮",
+    "name_pinyin": "Pan Jiazheng",
+    "birth": {
+      "year": 1927,
+      "month": 10,
+      "day": 19,
+      "location": "浙江绍兴"
+    },
+    "death": {
+      "year": 2012,
+      "month": 7,
+      "day": 13
+    },
+    "aliases": []
+  },
+  "family": {
+    "father": null,
+    "mother": null,
+    "spouse": {
+      "name": "许以民",
+      "married": 1953
+    },
+    "children": [],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1932-1937",
+      "institution": "天长小学",
+      "dept": null,
+      "degree": null,
+      "location": "杭州",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1939",
+      "institution": "绍兴小学",
+      "dept": null,
+      "degree": null,
+      "location": "绍兴",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1942",
+      "institution": "嵊县临时中学",
+      "dept": null,
+      "degree": null,
+      "location": "绍兴嵊县",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1950",
+      "institution": "浙江大学",
+      "dept": "航空系（后转土木系）",
+      "degree": "学士",
+      "location": null,
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1944-1946",
+      "organization": "绍兴县立舜阳中学、汤浦镇中心小学、漓渚镇中心小学、双山乡中心小学",
+      "role": "教师",
+      "note": null
+    },
+    {
+      "period": "1950-1953",
+      "organization": "燃料工业部钱塘江水电勘测处（后更名为浙江水力发电工程处和华东水力发电工程局）",
+      "role": "技术员",
+      "note": null
+    },
+    {
+      "period": "1954-1955",
+      "organization": "北京水力发电建设总局设计处",
+      "role": "技术员",
+      "note": null
+    },
+    {
+      "period": "1955-1965",
+      "organization": "上海水力发电设计院",
+      "role": "技术员、工程师、组长工程师、设计副总工程师",
+      "note": null
+    },
+    {
+      "period": "1965-1966",
+      "organization": "锦屏水电指挥部勘测设计办公室",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1966-1967",
+      "organization": "水电总局工作组",
+      "role": "成员",
+      "note": "在四川大渡河龚嘴水电站工地"
+    },
+    {
+      "period": "1970-1972",
+      "organization": "四川锦屏磨房沟水电站",
+      "role": "设计、施工",
+      "note": null
+    },
+    {
+      "period": "1973-1975",
+      "organization": "水利电力部对外司",
+      "role": "工程师",
+      "note": "借调"
+    },
+    {
+      "period": "1978-1980",
+      "organization": "水利电力部规划设计总院",
+      "role": "副总工程师、总工程师",
+      "note": null
+    },
+    {
+      "period": "1982-1984",
+      "organization": "水利水电规划设计总院",
+      "role": "总工",
+      "note": null
+    },
+    {
+      "period": "1984-1985",
+      "organization": "上海院",
+      "role": "顾问",
+      "note": null
+    },
+    {
+      "period": "1984-1985",
+      "organization": "水利水电建设总公司",
+      "role": "总工程师",
+      "note": null
+    },
+    {
+      "period": "1985-1988",
+      "organization": "水利电力部",
+      "role": "总工程师",
+      "note": null
+    },
+    {
+      "period": "1988-1993",
+      "organization": "能源部",
+      "role": "总工程师",
+      "note": "分管水电"
+    },
+    {
+      "period": "1993-1994",
+      "organization": "电力工业部",
+      "role": "技术顾问",
+      "note": null
+    },
+    {
+      "period": "1993-1994",
+      "organization": "电力工业部科技委",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1993-1994",
+      "organization": "三峡总公司",
+      "role": "技委会主任",
+      "note": null
+    },
+    {
+      "period": "1994-2012",
+      "organization": "中国工程院",
+      "role": "副院长、院士",
+      "note": null
+    },
+    {
+      "period": "1996-2012",
+      "organization": "清华大学",
+      "role": "教授",
+      "note": null
+    },
+    {
+      "period": "2004-2012",
+      "organization": "国务院南水北调建设委员会",
+      "role": "专家委员会主任",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "李鹏",
+      "relationship": "同事",
+      "period": "1981",
+      "context": "随李鹏同志赴青海龙羊峡参加抗洪斗争"
+    },
+    {
+      "name": "钱正英",
+      "relationship": "同事",
+      "period": "1983",
+      "context": "随钱正英同志赴美国、巴西考察水电工程"
+    },
+    {
+      "name": "邹家华",
+      "relationship": "同事",
+      "period": "1991",
+      "context": "随同邹家华副总理访法"
+    },
+    {
+      "name": "陈慕华",
+      "relationship": "同事",
+      "period": "1991",
+      "context": "向人大陈慕华副委员长汇报三峡工程"
+    },
+    {
+      "name": "史大帧",
+      "relationship": "入党介绍人",
+      "period": "1987",
+      "context": "入党介绍人"
+    },
+    {
+      "name": "娄溥礼",
+      "relationship": "入党介绍人",
+      "period": "1987",
+      "context": "入党介绍人"
+    }
+  ],
+  "mentors": [],
+  "students": [
+    {
+      "name": "沈凤生",
+      "field": null,
+      "institution": "河海大学"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1946,
+      "event": "考取浙江大学航空系，后转土木系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "任燃料工业部钱塘江水电勘测处技术员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1951,
+      "event": "发表第一篇论文《桁架变位的几何数解法》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1953,
+      "event": "与许以民结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1955,
+      "event": "被评为水电总局先进工作者",
+      "type": "HONOR"
+    },
+    {
+      "year": 1958,
+      "event": "被授予上海市先进工作者称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1965,
+      "event": "参加大三线建设，任锦屏水电指挥部勘测设计办公室副主任",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1966,
+      "event": "文化大革命开始，回上海接受批判",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1978,
+      "event": "任水利电力部规划设计总院副总工程师，后升任总工程师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1981,
+      "event": "当选为中国科学院院士（学部委员）",
+      "type": "HONOR"
+    },
+    {
+      "year": 1981,
+      "event": "专著《水工结构分析文集》出版",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1984,
+      "event": "被授予国家级有突出贡献专家称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1985,
+      "event": "任水利电力部总工程师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1985,
+      "event": "担任河海大学博士生导师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1987,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1988,
+      "event": "任能源部总工程师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1989,
+      "event": "荣获国家设计大师称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1990,
+      "event": "被授予国家设计大师称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1993,
+      "event": "任电力工业部技术顾问",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1994,
+      "event": "中国工程院成立，被任命为中国工程院副院长、当选为首批院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1995,
+      "event": "获何梁何利科技进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1996,
+      "event": "任清华大学教授",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1996,
+      "event": "获电力工业部“全国先进科普工作者”称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "获中国老教授协会“科教兴国贡献奖”",
+      "type": "HONOR"
+    },
+    {
+      "year": 2001,
+      "event": "《千秋功罪话水坝》获首届《Newton——科学世界》杯“十大科普好书奖”",
+      "type": "HONOR"
+    },
+    {
+      "year": 2001,
+      "event": "《偷脑的贼》获第四届“全国优秀科普作品奖”一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "获“国际大坝委员会荣誉奖”",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "获2004年度光华技术进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "获电网公司杰出贡献奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2006,
+      "event": "参加“潘家铮从事水电事业55周年座谈会”",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2008,
+      "event": "确诊结肠癌并接受手术",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2012,
+      "event": "获第九届光华工程科技奖“成就奖”",
+      "type": "HONOR"
+    },
+    {
+      "year": 2012,
+      "event": "在北京医院逝世",
+      "type": "CAREER_MILESTONE"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1955,
+      "name": "水电总局先进工作者"
+    },
+    {
+      "year": 1958,
+      "name": "上海市先进工作者"
+    },
+    {
+      "year": 1978,
+      "name": "部科技先进工作者"
+    },
+    {
+      "year": 1981,
+      "name": "中国科学院院士（学部委员）"
+    },
+    {
+      "year": 1984,
+      "name": "国家级有突出贡献专家"
+    },
+    {
+      "year": 1987,
+      "name": "中国科学院荣誉奖"
+    },
+    {
+      "year": 1989,
+      "name": "国家设计大师"
+    },
+    {
+      "year": 1990,
+      "name": "国家设计大师"
+    },
+    {
+      "year": 1994,
+      "name": "香港中文大学杰出访问学者奖"
+    },
+    {
+      "year": 1995,
+      "name": "何梁何利科技进步奖"
+    },
+    {
+      "year": 1996,
+      "name": "全国先进科普工作者"
+    },
+    {
+      "year": 1997,
+      "name": "科教兴国贡献奖"
+    },
+    {
+      "year": 2001,
+      "name": "首届《Newton——科学世界》杯“十大科普好书奖”"
+    },
+    {
+      "year": 2001,
+      "name": "第四届全国优秀科普作品奖一等奖"
+    },
+    {
+      "year": 2004,
+      "name": "国际大坝委员会荣誉奖"
+    },
+    {
+      "year": 2004,
+      "name": "光华技术进步奖"
+    },
+    {
+      "year": 2004,
+      "name": "电网公司杰出贡献奖"
+    },
+    {
+      "year": 2010,
+      "name": "全国科普先进工作者"
+    },
+    {
+      "year": 2012,
+      "name": "第九届光华工程科技奖成就奖"
+    }
+  ],
+  "_meta": {
+    "file": "潘家铮.txt",
+    "chars": 23229,
+    "tokens": 18154,
+    "time": "2026-06-10 21:06:15"
+  }
+}

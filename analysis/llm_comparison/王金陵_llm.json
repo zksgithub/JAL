@@ -1,0 +1,619 @@
+{
+  "person": {
+    "name_cn": "王金陵",
+    "name_pinyin": "Wang Jinling",
+    "birth": {
+      "year": 1917,
+      "month": 3,
+      "day": 15,
+      "location": "江苏省徐州市铜山县黄集乡"
+    },
+    "death": {
+      "year": 2013,
+      "month": 9,
+      "day": 4
+    },
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "王金陵之父",
+      "aka": null
+    },
+    "mother": null,
+    "spouse": {
+      "name": "生启新",
+      "married": 1947
+    },
+    "children": [
+      {
+        "name": "王乐忠",
+        "birth": "1947-10-10",
+        "relation": "长子"
+      },
+      {
+        "name": "王乐恩",
+        "birth": "1949-10-10",
+        "relation": "女儿"
+      },
+      {
+        "name": "王乐光",
+        "birth": "1951-06",
+        "relation": "次子"
+      },
+      {
+        "name": "王乐凯",
+        "birth": "1955-03",
+        "relation": "三儿子"
+      }
+    ],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1922-1923",
+      "institution": "徐州正心女中幼儿园",
+      "dept": null,
+      "degree": null,
+      "location": "徐州",
+      "status": "attended"
+    },
+    {
+      "period": "1923-1928",
+      "institution": "徐州西关保罗小学",
+      "dept": null,
+      "degree": null,
+      "location": "徐州",
+      "status": "attended"
+    },
+    {
+      "period": "1928-1929",
+      "institution": "徐州亚园正心女中附属小学",
+      "dept": null,
+      "degree": null,
+      "location": "徐州",
+      "status": "attended"
+    },
+    {
+      "period": "1929-1932",
+      "institution": "徐州私立培心初级中学",
+      "dept": null,
+      "degree": null,
+      "location": "徐州",
+      "status": "attended"
+    },
+    {
+      "period": "1932-1936",
+      "institution": "南京金陵大学附属中学",
+      "dept": null,
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1936-1936",
+      "institution": "金陵大学理学院",
+      "dept": "工业化学专业",
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1936-1940",
+      "institution": "金陵大学农学院",
+      "dept": "农艺系",
+      "degree": "学士",
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1939",
+      "institution": "武汉大学农学院",
+      "dept": null,
+      "degree": null,
+      "location": "武汉",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1937",
+      "organization": "徐州培正中学",
+      "role": "理化老师",
+      "note": null
+    },
+    {
+      "period": "1938",
+      "organization": "第五战区青年军团",
+      "role": "随军",
+      "note": "台儿庄战役后随军到河南潢川"
+    },
+    {
+      "period": "1941-1943",
+      "organization": "金陵大学农学院",
+      "role": "助教",
+      "note": "王绶教授助教"
+    },
+    {
+      "period": "1943-1946",
+      "organization": "农林部省推广繁殖站",
+      "role": "技术督导员",
+      "location": "陕西武功（杨陵）"
+    },
+    {
+      "period": "1946-1948",
+      "organization": "农林部东北农事试验场",
+      "role": "场长",
+      "note": "接收专员，公主岭"
+    },
+    {
+      "period": "1948-1949",
+      "organization": "公主岭农事试验场",
+      "role": "技术员",
+      "note": "解放区"
+    },
+    {
+      "period": "1948-1980",
+      "organization": "东北农学院",
+      "role": "教师、教授、系主任、副院长",
+      "note": "1948年首批教师，1949年副教授兼农学系主任，1953年教授兼系主任，1979年副院长"
+    },
+    {
+      "period": "1979-1983",
+      "organization": "黑龙江省人民政府",
+      "role": "副省长",
+      "note": null
+    },
+    {
+      "period": "1983-1988",
+      "organization": "黑龙江省人大",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1988-1993",
+      "organization": "黑龙江省人大常委会",
+      "role": "常委",
+      "note": "第七届"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "王绶",
+      "relationship": "导师、合作者",
+      "period": "1940-1943",
+      "context": "本科论文指导，助教期间合作"
+    },
+    {
+      "name": "马可",
+      "relationship": "同学、朋友",
+      "period": "1922-1928",
+      "context": "幼儿园和小学同学"
+    },
+    {
+      "name": "韩有恩",
+      "relationship": "朋友",
+      "period": "1923-1928",
+      "context": "小学朋友"
+    },
+    {
+      "name": "刘文彩",
+      "relationship": "朋友",
+      "period": "1923-1928",
+      "context": "小学朋友"
+    },
+    {
+      "name": "王士成",
+      "relationship": "朋友",
+      "period": "1923-1928",
+      "context": "小学朋友"
+    },
+    {
+      "name": "沈宗瀚",
+      "relationship": "上级",
+      "period": "1943-1946",
+      "context": "中央农业实验所所长"
+    },
+    {
+      "name": "武鏮祥",
+      "relationship": "合作者",
+      "period": "1956",
+      "context": "共同完成《中国南北地区大豆光照生态类型的分析》"
+    },
+    {
+      "name": "孙善澄",
+      "relationship": "合作者",
+      "period": "1956",
+      "context": "共同完成《中国南北地区大豆光照生态类型的分析》"
+    },
+    {
+      "name": "吴和礼",
+      "relationship": "合作者",
+      "period": "1957-1964",
+      "context": "共同发表多篇论文"
+    },
+    {
+      "name": "祝其昌",
+      "relationship": "合作者",
+      "period": "1957-1973",
+      "context": "共同发表多篇论文"
+    },
+    {
+      "name": "孟庆禧",
+      "relationship": "合作者",
+      "period": "1960-1986",
+      "context": "共同发表多篇论文"
+    },
+    {
+      "name": "吴宗璞",
+      "relationship": "合作者",
+      "period": "1979-1999",
+      "context": "共同发表论文、合编《中国东北大豆》"
+    },
+    {
+      "name": "高凤兰",
+      "relationship": "合作者",
+      "period": "1979-1984",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "武天龙",
+      "relationship": "合作者",
+      "period": "1984-1986",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "赵淑文",
+      "relationship": "合作者",
+      "period": "1984-1986",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "马占峰",
+      "relationship": "合作者",
+      "period": "1984",
+      "context": "共同发表论文"
+    },
+    {
+      "name": "许忠仁",
+      "relationship": "合作者",
+      "period": "1994",
+      "context": "合编《东北大豆种质资源拓宽与改良》"
+    },
+    {
+      "name": "杨庆凯",
+      "relationship": "学生、合作者",
+      "period": "1962-1999",
+      "context": "研究生、合作研究、合编《中国东北大豆》"
+    },
+    {
+      "name": "常汝镇",
+      "relationship": "学生",
+      "period": "1962-1965",
+      "context": "首批研究生"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "王绶",
+      "field": "作物育种、大豆",
+      "institution": "金陵大学"
+    }
+  ],
+  "students": [
+    {
+      "name": "常汝镇",
+      "field": "大豆资源研究",
+      "institution": "中国农业科学院"
+    },
+    {
+      "name": "杨庆凯",
+      "field": "大豆灰斑病及遗传育种",
+      "institution": "东北农业大学"
+    },
+    {
+      "name": "何志鸿",
+      "field": "大豆遗传育种",
+      "institution": null
+    },
+    {
+      "name": "尹田夫",
+      "field": "大豆冠层透光性",
+      "institution": null
+    },
+    {
+      "name": "李文滨",
+      "field": "大豆遗传育种",
+      "institution": "东北农业大学"
+    },
+    {
+      "name": "邱丽娟",
+      "field": "大豆种质资源",
+      "institution": "中国农业科学院"
+    },
+    {
+      "name": "罗振峰",
+      "field": "大豆遗传育种",
+      "institution": "吉林农科院"
+    },
+    {
+      "name": "韩天富",
+      "field": "大豆光周期反应",
+      "institution": "国家大豆产业技术体系"
+    },
+    {
+      "name": "年海",
+      "field": "大豆育种",
+      "institution": "华南农业大学"
+    },
+    {
+      "name": "秦智伟",
+      "field": "大豆种间杂交",
+      "institution": "黑龙江八一农垦大学"
+    },
+    {
+      "name": "陈绍江",
+      "field": "大豆灰斑病",
+      "institution": "中国农业大学"
+    },
+    {
+      "name": "李新海",
+      "field": "大豆育种",
+      "institution": "中国农业科学院"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1917,
+      "event": "出生于江苏省徐州市铜山县黄集乡",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1936,
+      "event": "转入金陵大学农学院农艺系，从此与大豆结缘",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1940,
+      "event": "本科毕业论文《大豆的分类》完成，获学士学位",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1942,
+      "event": "发表《大豆之光期性》，为中国大豆光周期研究第一篇文章",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1943,
+      "event": "发表《中国大豆栽培区域分划之初步研讨》，获中华农学会奖励",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1946,
+      "event": "接收公主岭农事试验场，保存大批东北大豆品种资源",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1946,
+      "event": "发表《中国大豆育种问题》，获中华农学会奖励",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1947,
+      "event": "与生启新结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1948,
+      "event": "协助组建东北农学院，为首批教师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "含冤入狱半年，后无罪释放",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1953,
+      "event": "晋升为教授兼系主任",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1956,
+      "event": "发表《中国南北地区大豆光照生态类型的分析》，堪称经典论文",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1958,
+      "event": "出版专著《大豆遗传与选种》，国内首部大豆育种权威著作",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1959,
+      "event": "东农4号育成推广，成为黑龙江省大豆育种里程碑",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1964,
+      "event": "当选第三届全国人大代表",
+      "type": "HONOR"
+    },
+    {
+      "year": 1978,
+      "event": "东农4号获全国科学大会奖，个人获全国科学大会奖先进个人",
+      "type": "HONOR"
+    },
+    {
+      "year": 1979,
+      "event": "被任命为黑龙江省副省长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1979,
+      "event": "获全国劳动模范称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1982,
+      "event": "《大豆科学》创刊，任主编",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1983,
+      "event": "东农36号育成，打破高纬度大豆栽培禁区",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1987,
+      "event": "东农36号获国家科技进步三等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "出版《大豆生态类型》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1997,
+      "event": "获何梁何利基金科学与技术进步奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2006,
+      "event": "获中国作物学会大豆专业委员会大豆科学最高荣誉奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2009,
+      "event": "获世界大豆研究大会奖，为首批五位学者中唯一中国科学家",
+      "type": "HONOR"
+    },
+    {
+      "year": 2011,
+      "event": "获黑龙江省农业科技功勋奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2012,
+      "event": "东北农业大学为其树立铜像",
+      "type": "HONOR"
+    },
+    {
+      "year": 2013,
+      "event": "病逝于哈尔滨",
+      "type": "CAREER_MILESTONE"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1943,
+      "name": "中华农学会奖励"
+    },
+    {
+      "year": 1946,
+      "name": "中华农学会奖励"
+    },
+    {
+      "year": 1978,
+      "name": "全国科学大会奖（东农4号）"
+    },
+    {
+      "year": 1978,
+      "name": "全国科学大会奖先进个人"
+    },
+    {
+      "year": 1978,
+      "name": "黑龙江省科学大会奖（东农4号）"
+    },
+    {
+      "year": 1978,
+      "name": "黑龙江省科学大会奖（大豆杂交后代选择处理方法与原理）"
+    },
+    {
+      "year": 1978,
+      "name": "黑龙江省科技战线先进工作者标兵"
+    },
+    {
+      "year": 1978,
+      "name": "黑龙江省模范教师"
+    },
+    {
+      "year": 1979,
+      "name": "全国劳动模范"
+    },
+    {
+      "year": 1979,
+      "name": "黑龙江省科技成果一等奖（大豆遗传育种基础理论的研究）"
+    },
+    {
+      "year": 1980,
+      "name": "黑龙江省科学研究成果一等奖（大豆杂交组合早代鉴定研究）"
+    },
+    {
+      "year": 1982,
+      "name": "全国优秀科技图书二等奖（《大豆》）"
+    },
+    {
+      "year": 1985,
+      "name": "农牧渔业部科技进步二等奖（东农34号）"
+    },
+    {
+      "year": 1986,
+      "name": "农牧渔业部科技进步二等奖（东农36号）"
+    },
+    {
+      "year": 1986,
+      "name": "农牧渔业部科技进步二等奖（回交克服大豆种间杂种蔓生倒伏性）"
+    },
+    {
+      "year": 1987,
+      "name": "国家科技进步三等奖（东农36号）"
+    },
+    {
+      "year": 1987,
+      "name": "农牧渔业部科技进步二等奖（中国野生和半野生大豆产量与蛋白质含量潜力的研究）"
+    },
+    {
+      "year": 1991,
+      "name": "国家教委二等奖（大豆soja亚属种间杂交种后代性状改良的资源创新）"
+    },
+    {
+      "year": 1995,
+      "name": "黑龙江省科技进步二等奖（大豆灰斑病遗传、抗性资源筛选与抗病育种）"
+    },
+    {
+      "year": 1995,
+      "name": "黑龙江省科技进步三等奖（大豆抗花叶病毒病种质创新抗性遗传与抗病育种研究）"
+    },
+    {
+      "year": 1996,
+      "name": "国家科技进步三等奖（大豆抗灰斑病遗传抗性资源筛选与抗病育种）"
+    },
+    {
+      "year": 1997,
+      "name": "何梁何利基金科学与技术进步奖"
+    },
+    {
+      "year": 2006,
+      "name": "中国作物学会大豆专业委员会大豆科学最高荣誉奖"
+    },
+    {
+      "year": 2009,
+      "name": "世界大豆研究大会奖"
+    },
+    {
+      "year": 2009,
+      "name": "黑龙江省改革开放三十周年十大科技人物"
+    },
+    {
+      "year": 2011,
+      "name": "黑龙江省农业科技功勋奖"
+    }
+  ],
+  "_meta": {
+    "file": "王金陵.txt",
+    "chars": 16655,
+    "tokens": 14545,
+    "time": "2026-06-10 21:08:05"
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "person": {
+    "name_cn": "沈克琦",
+    "name_pinyin": "Shen Keqi",
+    "birth": {
+      "year": 1921,
+      "month": 10,
+      "day": 17,
+      "location": "江苏省武进县（常州）"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "沈煦",
+      "aka": "育荪"
+    },
+    "mother": {
+      "name": "汪纫",
+      "aka": "娟贞"
+    },
+    "spouse": {
+      "name": "张星",
+      "married": 1948
+    },
+    "children": [
+      {
+        "name": "沈振平",
+        "birth": "1949-10-02",
+        "relation": "长女"
+      },
+      {
+        "name": "沈正华",
+        "birth": "1950-12-29",
+        "relation": "次女"
+      },
+      {
+        "name": "沈正康",
+        "birth": "1953-03-13",
+        "relation": "子"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "沈克琳",
+        "relation": "兄",
+        "aka": null
+      },
+      {
+        "name": "沈克全",
+        "relation": "二弟",
+        "aka": null
+      },
+      {
+        "name": "沈克琉",
+        "relation": "小弟",
+        "aka": null
+      },
+      {
+        "name": "沈允培",
+        "relation": "大妹",
+        "aka": null
+      },
+      {
+        "name": "沈克闰",
+        "relation": "大弟",
+        "aka": null
+      },
+      {
+        "name": "沈允坤",
+        "relation": "小妹",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1927-1933",
+      "institution": "武进县立新坊桥小学",
+      "dept": null,
+      "degree": null,
+      "location": "武进",
+      "status": "attended"
+    },
+    {
+      "period": "1933-1936",
+      "institution": "江苏省立常州中学",
+      "dept": "初中部",
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1936-1937",
+      "institution": "江苏省立常州中学",
+      "dept": "高中部",
+      "degree": null,
+      "location": "常州",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1939",
+      "institution": "江苏省立湖南桃园中学",
+      "dept": "高中三年级",
+      "degree": null,
+      "location": "湘西乾城县所里镇",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1943",
+      "institution": "西南联合大学",
+      "dept": "物理系",
+      "degree": "理学士",
+      "location": "昆明",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1943-1944",
+      "organization": "桂林国立汉民中学",
+      "role": "物理教师",
+      "note": null
+    },
+    {
+      "period": "1944-1945",
+      "organization": "汉民中学",
+      "role": "教师（随校疏散）",
+      "note": null
+    },
+    {
+      "period": "1945-1946",
+      "organization": "国立汉民中学",
+      "role": "教师",
+      "note": null
+    },
+    {
+      "period": "1946-1950",
+      "organization": "北京大学物理系",
+      "role": "助教",
+      "note": null
+    },
+    {
+      "period": "1950-1951",
+      "organization": "北京大学物理系",
+      "role": "讲员",
+      "note": null
+    },
+    {
+      "period": "1951-1960",
+      "organization": "北京大学物理系",
+      "role": "讲师",
+      "note": null
+    },
+    {
+      "period": "1952-1953",
+      "organization": "北京大学",
+      "role": "工会副主席、党组书记",
+      "note": null
+    },
+    {
+      "period": "1953-1955",
+      "organization": "北京大学物理系",
+      "role": "普通物理教研室副主任",
+      "note": null
+    },
+    {
+      "period": "1955-1958",
+      "organization": "北京大学物理系",
+      "role": "系主任助理",
+      "note": null
+    },
+    {
+      "period": "1958-1978",
+      "organization": "北京大学物理系",
+      "role": "副系主任",
+      "note": null
+    },
+    {
+      "period": "1959",
+      "organization": "北京大学物理系",
+      "role": "代任党总支书记",
+      "note": null
+    },
+    {
+      "period": "1960-1978",
+      "organization": "北京大学",
+      "role": "副教授",
+      "note": null
+    },
+    {
+      "period": "1963-?",
+      "organization": "中国物理学会",
+      "role": "副秘书长",
+      "note": null
+    },
+    {
+      "period": "1972-1978",
+      "organization": "北京大学物理系",
+      "role": "教改组副组长、革命委员会主任",
+      "note": null
+    },
+    {
+      "period": "1978-1984",
+      "organization": "北京大学",
+      "role": "副校长",
+      "note": "分管教学、招生、体育、图书馆、世行贷款、北大分校等"
+    },
+    {
+      "period": "1978-?",
+      "organization": "北京大学",
+      "role": "教授",
+      "note": null
+    },
+    {
+      "period": "1978-?",
+      "organization": "中国物理学会教学委员会",
+      "role": "主任委员",
+      "note": null
+    },
+    {
+      "period": "1980-?",
+      "organization": "北京市高等教育自学考试委员会",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1980-?",
+      "organization": "全国高等教育自学考试指导委员会",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1980-?",
+      "organization": "西南联大北京校友会",
+      "role": "副会长、常务副会长、会长",
+      "note": null
+    },
+    {
+      "period": "1980-?",
+      "organization": "北京市科协",
+      "role": "副主席",
+      "note": null
+    },
+    {
+      "period": "1983-1991",
+      "organization": "北京大学遥感技术应用研究所",
+      "role": "所长",
+      "note": null
+    },
+    {
+      "period": "1984-1991",
+      "organization": "北京大学",
+      "role": "校务委员会副主任",
+      "note": null
+    },
+    {
+      "period": "1985-1990",
+      "organization": "烟台大学",
+      "role": "校长",
+      "note": null
+    },
+    {
+      "period": "1985-?",
+      "organization": "全国博士后科研流动站管理协调委员会",
+      "role": "委员",
+      "note": null
+    },
+    {
+      "period": "1985-?",
+      "organization": "中国青少年科技辅导员协会",
+      "role": "副理事长",
+      "note": null
+    },
+    {
+      "period": "1985-?",
+      "organization": "高校联合遥感应用研究中心",
+      "role": "主任",
+      "note": null
+    },
+    {
+      "period": "1986-1999",
+      "organization": "国家教委全国中小学教材审定委员会",
+      "role": "副主任",
+      "note": null
+    },
+    {
+      "period": "1987-1991",
+      "organization": "中国物理学会",
+      "role": "副理事长",
+      "note": null
+    },
+    {
+      "period": "1990-1996",
+      "organization": "中国博士后科学基金会",
+      "role": "理事长",
+      "note": null
+    },
+    {
+      "period": "1991-1998",
+      "organization": "全国中学生物理竞赛委员会",
+      "role": "主任",
+      "note": null
+    },
+    {
+      "period": "1991-?",
+      "organization": "中国科学技术专家传略理学编",
+      "role": "物理学卷主编",
+      "note": null
+    },
+    {
+      "period": "2003-2012",
+      "organization": "西南联大北京校友会",
+      "role": "会长",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "赵凯华",
+      "relationship": "合作主编《北大物理九十年》",
+      "period": "2002-2003",
+      "context": null
+    },
+    {
+      "name": "吴大猷",
+      "relationship": "毕业论文指导老师",
+      "period": "1943",
+      "context": null
+    },
+    {
+      "name": "饶毓泰",
+      "relationship": "系主任，推荐留校",
+      "period": "1943",
+      "context": null
+    },
+    {
+      "name": "郑华炽",
+      "relationship": "代理系主任，联系报到",
+      "period": "1946",
+      "context": null
+    },
+    {
+      "name": "查良钊",
+      "relationship": "帮助恢复学籍",
+      "period": "1939",
+      "context": null
+    },
+    {
+      "name": "虞福春",
+      "relationship": "系秘书，提供兼职",
+      "period": "1941",
+      "context": null
+    },
+    {
+      "name": "赵广增",
+      "relationship": "研究生导师",
+      "period": "1947-1949",
+      "context": null
+    },
+    {
+      "name": "朱光亚",
+      "relationship": "工会小组长",
+      "period": "1950",
+      "context": null
+    },
+    {
+      "name": "胡祖炽",
+      "relationship": "分房负责人之一",
+      "period": "1952",
+      "context": null
+    },
+    {
+      "name": "于效谦",
+      "relationship": "分房负责人之一",
+      "period": "1952",
+      "context": null
+    },
+    {
+      "name": "张志超",
+      "relationship": "讨论物理系专业设置",
+      "period": "1952",
+      "context": null
+    },
+    {
+      "name": "孙佶",
+      "relationship": "讨论物理系专业设置",
+      "period": "1952",
+      "context": null
+    },
+    {
+      "name": "褚圣麟",
+      "relationship": "物理系主任",
+      "period": "1955",
+      "context": null
+    },
+    {
+      "name": "张群玉",
+      "relationship": "校党委副书记，同去二机部调查",
+      "period": "1958",
+      "context": null
+    },
+    {
+      "name": "周培源",
+      "relationship": "北大代表参加科教座谈会",
+      "period": "1977",
+      "context": null
+    },
+    {
+      "name": "查全性",
+      "relationship": "支持其恢复高考发言",
+      "period": "1977",
+      "context": null
+    },
+    {
+      "name": "吴塘",
+      "relationship": "共同负责CUSPEA国内组织",
+      "period": "1980",
+      "context": null
+    },
+    {
+      "name": "杜建寰",
+      "relationship": "同赴烟台大学筹建",
+      "period": "1984",
+      "context": null
+    },
+    {
+      "name": "李政道",
+      "relationship": "寄赠《西南联大启示录》光盘",
+      "period": "2003",
+      "context": null
+    }
+  ],
+  "mentors": [
+    {
+      "name": "吴大猷",
+      "field": "物理",
+      "institution": "西南联大"
+    },
+    {
+      "name": "赵广增",
+      "field": "物理",
+      "institution": "北京大学"
+    },
+    {
+      "name": "饶毓泰",
+      "field": "物理",
+      "institution": "西南联大/北京大学"
+    },
+    {
+      "name": "郑华炽",
+      "field": "物理",
+      "institution": "北京大学"
+    },
+    {
+      "name": "霍秉权",
+      "field": "普通物理",
+      "institution": "西南联大"
+    },
+    {
+      "name": "赵忠尧",
+      "field": "力学",
+      "institution": "西南联大"
+    },
+    {
+      "name": "周培源",
+      "field": "力学",
+      "institution": "西南联大"
+    },
+    {
+      "name": "王竹溪",
+      "field": "热学",
+      "institution": "西南联大"
+    },
+    {
+      "name": "朱物华",
+      "field": "应用电学、无线电学",
+      "institution": "西南联大"
+    },
+    {
+      "name": "戴文赛",
+      "field": "普通天文学",
+      "institution": "西南联大"
+    },
+    {
+      "name": "刘晋年",
+      "field": "微积分",
+      "institution": "西南联大"
+    },
+    {
+      "name": "华西列夫",
+      "field": "金属物理",
+      "institution": "北京大学"
+    }
+  ],
+  "students": [],
+  "key_events": [
+    {
+      "year": 1921,
+      "event": "出生于江苏省武进县（常州）",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1939,
+      "event": "考入西南联大航空工程系，后转入物理系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1943,
+      "event": "毕业于西南联大物理系，获理学士学位，评为优秀毕业生",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1946,
+      "event": "任北京大学物理系助教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1948,
+      "event": "与张星结婚",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1950,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1952,
+      "event": "参与院系调整，任北京大学工会副主席",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1955,
+      "event": "任北京大学物理系主任助理",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1958,
+      "event": "任北京大学物理系副系主任",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1960,
+      "event": "被评为北京大学副教授",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1966,
+      "event": "文化大革命中受迫害",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1972,
+      "event": "恢复工作，任物理系教改组副组长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1977,
+      "event": "参加邓小平主持的科教座谈会，支持恢复高考",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1977,
+      "event": "作为高等教育代表团秘书长访美",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1978,
+      "event": "任北京大学副校长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1978,
+      "event": "被评为北京大学教授",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1980,
+      "event": "参与创建西南联大北京校友会",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1984,
+      "event": "参与烟台大学筹建",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1985,
+      "event": "兼任烟台大学校长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1990,
+      "event": "卸任烟台大学校长，获山东省政府记大功奖励",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "获国务院政府特殊津贴",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "离休",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 2003,
+      "event": "任西南联大北京校友会会长",
+      "type": "CAREER_MILESTONE"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1941,
+      "name": "檀香侨胞奖学金"
+    },
+    {
+      "year": 1990,
+      "name": "山东省人民政府记大功奖励"
+    },
+    {
+      "year": 1991,
+      "name": "国务院政府特殊津贴"
+    }
+  ],
+  "_meta": {
+    "file": "沈克琦.txt",
+    "chars": 9996,
+    "tokens": 10617,
+    "time": "2026-06-10 21:05:09"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "person": {
+    "name_cn": "王德滋",
+    "name_pinyin": "Wang Dezi",
+    "birth": {
+      "year": 1927,
+      "month": 6,
+      "day": 27,
+      "location": "江苏泰兴"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "王心楼",
+      "aka": "宜耐"
+    },
+    "mother": {},
+    "spouse": {
+      "name": "洪奉青",
+      "married": null
+    },
+    "children": [],
+    "siblings": []
+  },
+  "education": [
+    {
+      "period": "1933-1938",
+      "institution": "泰兴襟江小学",
+      "dept": null,
+      "degree": null,
+      "location": "泰兴",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1939",
+      "institution": "泰兴私立上海沪光中学分校",
+      "dept": null,
+      "degree": null,
+      "location": "泰兴",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1940",
+      "institution": "泰兴县立初级中学",
+      "dept": null,
+      "degree": null,
+      "location": "泰兴",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1941",
+      "institution": "泰兴私立扬陋学塾",
+      "dept": null,
+      "degree": null,
+      "location": "泰兴",
+      "status": "attended"
+    },
+    {
+      "period": "1941-1944",
+      "institution": "泰兴私立延令中学",
+      "dept": null,
+      "degree": null,
+      "location": "泰兴",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1945",
+      "institution": "江苏教育学院",
+      "dept": "数学系",
+      "degree": null,
+      "location": "苏州",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1950",
+      "institution": "国立中央大学（南京大学）",
+      "dept": "地质系",
+      "degree": "学士",
+      "location": "南京",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1945-1945",
+      "organization": "泰兴城东小学",
+      "role": "教师兼教导主任",
+      "note": null
+    },
+    {
+      "period": "1950-1951",
+      "organization": "南京大学",
+      "role": "助教（李学清教授）",
+      "note": "负责岩石学实验，兼地质系图书室管理员和南京大学工会秘书"
+    },
+    {
+      "period": "1951-1952",
+      "organization": null,
+      "role": "病休",
+      "note": null
+    },
+    {
+      "period": "1952-1955",
+      "organization": "南京大学地质系",
+      "role": "党支部书记",
+      "note": null
+    },
+    {
+      "period": "1955-1956",
+      "organization": "南京大学党委宣传部",
+      "role": "工作人员",
+      "note": null
+    },
+    {
+      "period": "1955-1956",
+      "organization": "南京大学",
+      "role": "讲师",
+      "note": "由助教晋升"
+    },
+    {
+      "period": "1957-1958",
+      "organization": "南京大学地质系",
+      "role": "党总支书记",
+      "note": null
+    },
+    {
+      "period": "1958-1961",
+      "organization": "南京大学地质系",
+      "role": "系主任助理",
+      "note": "协助徐克勤处理行政工作"
+    },
+    {
+      "period": "1959-1960",
+      "organization": "南京大学放射地质专业",
+      "role": "教研室主任兼党支部书记",
+      "note": null
+    },
+    {
+      "period": "1961-1984",
+      "organization": "南京大学地质系",
+      "role": "副系主任",
+      "note": "主管科研工作"
+    },
+    {
+      "period": "1963-1977",
+      "organization": "南京大学教务处",
+      "role": "副处长",
+      "note": null
+    },
+    {
+      "period": "1972-1977",
+      "organization": "南京大学革命委员会教育革命组",
+      "role": "副组长",
+      "note": null
+    },
+    {
+      "period": "1977-1978",
+      "organization": "南京大学教学科研处",
+      "role": "处长",
+      "note": null
+    },
+    {
+      "period": "1978-1984",
+      "organization": "南京大学",
+      "role": "副教务长兼科研处处长",
+      "note": null
+    },
+    {
+      "period": "1984-1988",
+      "organization": "南京大学",
+      "role": "副校长",
+      "note": "主管科学研究工作"
+    },
+    {
+      "period": "1988-1991",
+      "organization": "南京大学",
+      "role": "发展与政策研究委员会主任",
+      "note": null
+    },
+    {
+      "period": "1989-1991",
+      "organization": "内生金属矿床成矿机制国家重点实验室",
+      "role": "主任",
+      "note": null
+    },
+    {
+      "period": "1991-1993",
+      "organization": "南京大学地学院",
+      "role": "院长",
+      "note": null
+    },
+    {
+      "period": "1992-1994",
+      "organization": "南京大学地学院",
+      "role": "院长",
+      "note": null
+    },
+    {
+      "period": "1992-",
+      "organization": "南京大学校友总会",
+      "role": "副会长",
+      "note": null
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "孙鼐",
+      "relationship": "合作者",
+      "period": "1954-1960",
+      "context": "合译《晶体薄片研究法》，合著《济南辉长岩及伟晶岩的研究》"
+    },
+    {
+      "name": "李学清",
+      "relationship": "导师/合作者",
+      "period": "1950-1960",
+      "context": "担任助教，合译《火成岩及地球的厚度》"
+    },
+    {
+      "name": "季寿元",
+      "relationship": "合作者",
+      "period": "1958-1963",
+      "context": "合编《晶体光学》，合著论文"
+    },
+    {
+      "name": "胡受奚",
+      "relationship": "合作者",
+      "period": "1958-1963",
+      "context": "共同考察江西花岗岩，合著论文"
+    },
+    {
+      "name": "涂绍雄",
+      "relationship": "合作者",
+      "period": "1962-1973",
+      "context": "研究宁芜盆地火山岩"
+    },
+    {
+      "name": "周新民",
+      "relationship": "合作者",
+      "period": "1963-1990",
+      "context": "合著论文，合著《火山岩岩石学》，修订《光性矿物学》"
+    },
+    {
+      "name": "徐克勤",
+      "relationship": "导师/合作者",
+      "period": "1958-1963",
+      "context": "参与华南花岗岩研究，合著论文"
+    },
+    {
+      "name": "刘昌实",
+      "relationship": "合作者",
+      "period": "1962-1988",
+      "context": "考察九华山、桐庐、相山等"
+    },
+    {
+      "name": "陈克荣",
+      "relationship": "合作者",
+      "period": "1979",
+      "context": "考察浙江莫干山次火山花岗岩"
+    },
+    {
+      "name": "周金城",
+      "relationship": "合作者",
+      "period": "1979-1993",
+      "context": "考察桐庐、浙江双峰式火山岩"
+    },
+    {
+      "name": "杜杨松",
+      "relationship": "合作者",
+      "period": "1986",
+      "context": "考察北雁荡山"
+    },
+    {
+      "name": "沈渭洲",
+      "relationship": "合作者",
+      "period": "1988",
+      "context": "考察江西相山S型火山岩"
+    },
+    {
+      "name": "陈繁荣",
+      "relationship": "合作者",
+      "period": "1988",
+      "context": "考察江西相山"
+    },
+    {
+      "name": "徐夕生",
+      "relationship": "合作者",
+      "period": "1988",
+      "context": "考察安徽歙县蛇绿岩套"
+    },
+    {
+      "name": "任启江",
+      "relationship": "合作者",
+      "period": "1989-1996",
+      "context": "考察山东沂沭断裂带，合著英文专著"
+    },
+    {
+      "name": "邱检生",
+      "relationship": "合作者",
+      "period": "1989-1997",
+      "context": "考察山东、浙江、福建等地"
+    },
+    {
+      "name": "赵广涛",
+      "relationship": "合作者",
+      "period": "1994",
+      "context": "考察山东崂山花岗岩"
+    },
+    {
+      "name": "彭亚鸣",
+      "relationship": "合作者",
+      "period": "1994",
+      "context": "考察浙江普陀山A型花岗岩"
+    },
+    {
+      "name": "舒良树",
+      "relationship": "合作者",
+      "period": "2001",
+      "context": "考察江西武功山变质核杂岩"
+    },
+    {
+      "name": "于津海",
+      "relationship": "合作者",
+      "period": "2001",
+      "context": "考察江西武功山"
+    },
+    {
+      "name": "楼法生",
+      "relationship": "合作者",
+      "period": "2001",
+      "context": "考察江西武功山"
+    },
+    {
+      "name": "谢磊",
+      "relationship": "合作者",
+      "period": "2008",
+      "context": "协助修订《光性矿物学》第三版"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "丁文江",
+      "field": "地质学",
+      "institution": null
+    },
+    {
+      "name": "谢家荣",
+      "field": "地质学",
+      "institution": null
+    },
+    {
+      "name": "李学清",
+      "field": "岩石学",
+      "institution": "南京大学"
+    },
+    {
+      "name": "徐克勤",
+      "field": "花岗岩地质",
+      "institution": "南京大学"
+    },
+    {
+      "name": "陈毅人",
+      "field": null,
+      "institution": "南京大学"
+    }
+  ],
+  "students": [],
+  "key_events": [
+    {
+      "year": 1947,
+      "event": "参与‘五二〇’爱国民主运动",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1948,
+      "event": "参加应变护校斗争，反对迁校台湾",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1949,
+      "event": "加入中国共产党",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1949,
+      "event": "参加‘四一’爱国学生运动",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1949,
+      "event": "参加农村工作队",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1950,
+      "event": "毕业于南京大学地质系，留校任教",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1957,
+      "event": "发表第一篇学术论文《江苏高资下蜀煌斑岩的研究》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1958,
+      "event": "参与创建放射性矿产地质专业",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1959,
+      "event": "被作为‘白专典型’受到批判",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1966,
+      "event": "文化大革命中被关进‘牛棚’批斗",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1978,
+      "event": "‘华南不同时代花岗岩类与成矿关系’获全国科学大会奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1982,
+      "event": "‘华南不同时代花岗岩类与成矿关系’获国家自然科学二等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1982,
+      "event": "访问美国霍普金斯等14所大学",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1982,
+      "event": "主办‘花岗岩地质与成矿关系’国际学术讨论会",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1983,
+      "event": "在国内首次提出‘自碎次火山岩’理念",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1984,
+      "event": "任南京大学副校长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1984,
+      "event": "批准为博士研究生导师",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1986,
+      "event": "赴日本名古屋大学讲学",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1987,
+      "event": "率中国大学校长代表团访问澳大利亚",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1990,
+      "event": "‘中国东南部酸性、中酸性火山岩、次火山岩与成矿关系’获国家教委科技进步一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "任中国地质学会副理事长",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1991,
+      "event": "获江苏省优秀研究生导师奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1991,
+      "event": "获南京大学首届研究生导师教书育人奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "当选为中国科学院院士",
+      "type": "HONOR"
+    },
+    {
+      "year": 1997,
+      "event": "访问台湾中央大学",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 2003,
+      "event": "‘中国东南部晚中生代花岗质火山—侵入杂岩成因与地壳演化’获教育部自然科学一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2004,
+      "event": "‘中国东南部晚中生代花岗质火山-侵入杂岩成因与地壳演化’获教育部科技进步一等奖",
+      "type": "HONOR"
+    },
+    {
+      "year": 2007,
+      "event": "联合在宁8位院士建议保护江苏山体及地质遗迹，获采纳",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 2014,
+      "event": "联合在宁6位院士建议将栖霞山建设为国家地质公园，获采纳",
+      "type": "PARTICIPATION"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1978,
+      "name": "全国科学大会奖（华南不同时代花岗岩类与成矿关系）"
+    },
+    {
+      "year": 1982,
+      "name": "国家自然科学二等奖（华南不同时代花岗岩类与成矿关系）"
+    },
+    {
+      "year": 1990,
+      "name": "国家教委科技进步一等奖（中国东南部酸性、中酸性火山岩、次火山岩与成矿关系）"
+    },
+    {
+      "year": 1991,
+      "name": "江苏省优秀研究生导师奖"
+    },
+    {
+      "year": 1991,
+      "name": "南京大学首届研究生导师教书育人奖"
+    },
+    {
+      "year": 1995,
+      "name": "国家教委科技进步二等奖（中国东部与中生代陆相火山作用有关金矿床的研究）"
+    },
+    {
+      "year": 1995,
+      "name": "国家教委科技进步三等奖（华南S型火山杂岩与成矿）"
+    },
+    {
+      "year": 2003,
+      "name": "教育部科技进步二等奖（中国东部金矿成矿机制及成矿规律的研究）"
+    },
+    {
+      "year": 2003,
+      "name": "教育部自然科学一等奖（中国东南部晚中生代花岗质火山—侵入杂岩成因与地壳演化）"
+    },
+    {
+      "year": 2004,
+      "name": "教育部科技进步一等奖（中国东南部晚中生代花岗质火山-侵入杂岩成因与地壳演化）"
+    }
+  ],
+  "_meta": {
+    "file": "王德滋.txt",
+    "chars": 11579,
+    "tokens": 11243,
+    "time": "2026-06-10 21:06:45"
+  }
+}

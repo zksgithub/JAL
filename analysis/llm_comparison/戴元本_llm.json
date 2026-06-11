@@ -1,0 +1,418 @@
+{
+  "person": {
+    "name_cn": "戴元本",
+    "name_pinyin": "Dai Yuanben",
+    "birth": {
+      "year": 1928,
+      "month": 7,
+      "day": 31,
+      "location": "江苏省南京市"
+    },
+    "death": null,
+    "aliases": []
+  },
+  "family": {
+    "father": {
+      "name": "戴修骏",
+      "aka": null
+    },
+    "mother": {
+      "name": "许度"
+    },
+    "spouse": {
+      "name": "陈厚静",
+      "married": 1963
+    },
+    "children": [
+      {
+        "name": "戴瑾",
+        "birth": "1965-06-09",
+        "relation": "儿子"
+      },
+      {
+        "name": "戴新",
+        "birth": "1968-03-09",
+        "relation": "女儿"
+      }
+    ],
+    "siblings": [
+      {
+        "name": "戴实之",
+        "relation": "妹妹",
+        "aka": null
+      },
+      {
+        "name": "戴玉本",
+        "relation": "弟弟",
+        "aka": null
+      },
+      {
+        "name": "戴平之",
+        "relation": "弟弟",
+        "aka": null
+      },
+      {
+        "name": "戴撝",
+        "relation": "大姐",
+        "aka": null
+      }
+    ]
+  },
+  "education": [
+    {
+      "period": "1934-1934",
+      "institution": "长沙修业农校附小",
+      "dept": null,
+      "degree": null,
+      "location": "长沙",
+      "status": "attended"
+    },
+    {
+      "period": "1935-1937",
+      "institution": "南京五台山小学",
+      "dept": null,
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1937-1937",
+      "institution": "修业农校附属小学",
+      "dept": null,
+      "degree": null,
+      "location": "长沙",
+      "status": "attended"
+    },
+    {
+      "period": "1938-1938",
+      "institution": "昆明圆通小学",
+      "dept": null,
+      "degree": null,
+      "location": "昆明",
+      "status": "attended"
+    },
+    {
+      "period": "1939-1939",
+      "institution": "路南县鹿阜高小",
+      "dept": null,
+      "degree": null,
+      "location": "路南县",
+      "status": "attended"
+    },
+    {
+      "period": "1940-1940",
+      "institution": "昆明南英中学",
+      "dept": null,
+      "degree": null,
+      "location": "昆明",
+      "status": "attended"
+    },
+    {
+      "period": "1942-1942",
+      "institution": "战区来渝学生进修班",
+      "dept": null,
+      "degree": null,
+      "location": "重庆",
+      "status": "attended"
+    },
+    {
+      "period": "1943-1943",
+      "institution": "重庆国立二中",
+      "dept": null,
+      "degree": null,
+      "location": "重庆",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1944",
+      "institution": "国立二中",
+      "dept": null,
+      "degree": null,
+      "location": "重庆",
+      "status": "attended"
+    },
+    {
+      "period": "1944-1945",
+      "institution": "中央大学附属中学",
+      "dept": null,
+      "degree": null,
+      "location": "青木关",
+      "status": "attended"
+    },
+    {
+      "period": "1946-1947",
+      "institution": "南京中央大学附属中学",
+      "dept": null,
+      "degree": null,
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1947-1952",
+      "institution": "中央大学（后改南京大学）",
+      "dept": "物理系",
+      "degree": "学士",
+      "location": "南京",
+      "status": "attended"
+    },
+    {
+      "period": "1958-1961",
+      "institution": "中国科学院数学研究所",
+      "dept": null,
+      "degree": "副博士",
+      "location": "北京",
+      "status": "attended"
+    }
+  ],
+  "career": [
+    {
+      "period": "1952-1958",
+      "organization": "南京工学院物理教研组",
+      "role": "教师",
+      "note": "教授普通物理，后任俄文助教"
+    },
+    {
+      "period": "1961-1978",
+      "organization": "中国科学院数学研究所",
+      "role": "助理研究员、副研究员、研究员",
+      "note": "1961年留所，1963年升副研究员，1978年升研究员"
+    },
+    {
+      "period": "1978-",
+      "organization": "中国科学院理论物理研究所",
+      "role": "研究员",
+      "note": "1978年理论物理所成立后转入"
+    },
+    {
+      "period": "1985-1994",
+      "organization": "中国科学院理论物理研究所",
+      "role": "学术委员会主任",
+      "note": "连任三届"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "朱洪元",
+      "relationship": "合作者",
+      "period": "1958-1965",
+      "context": "层子模型、量子场论"
+    },
+    {
+      "name": "冼鼎昌",
+      "relationship": "合作者",
+      "period": "1959-1997",
+      "context": "弱相互作用、互赠小诗"
+    },
+    {
+      "name": "何祚庥",
+      "relationship": "合作者",
+      "period": "1959",
+      "context": "μ介子俘获"
+    },
+    {
+      "name": "周光召",
+      "relationship": "合作者",
+      "period": "1960",
+      "context": "μ介子散射、色散关系"
+    },
+    {
+      "name": "陈时",
+      "relationship": "合作者",
+      "period": "1962-1963",
+      "context": "核子散射"
+    },
+    {
+      "name": "吴咏时",
+      "relationship": "合作者",
+      "period": "1976",
+      "context": "非Abel规范场论"
+    },
+    {
+      "name": "安瑛",
+      "relationship": "合作者",
+      "period": "1962-1976",
+      "context": "复合模型、形状因子"
+    },
+    {
+      "name": "张厉宁",
+      "relationship": "合作者",
+      "period": "1962",
+      "context": "复合模型"
+    },
+    {
+      "name": "陈庭金",
+      "relationship": "合作者",
+      "period": "1962",
+      "context": "复合模型"
+    },
+    {
+      "name": "郭汉英",
+      "relationship": "同事",
+      "period": "1978-1981",
+      "context": "理论物理所室主任选举、通信"
+    },
+    {
+      "name": "刘纯",
+      "relationship": "合作者",
+      "period": "2003",
+      "context": "HQET求和规则"
+    },
+    {
+      "name": "杨炳麟",
+      "relationship": "合作者",
+      "period": "1999",
+      "context": "中微子振荡"
+    },
+    {
+      "name": "Whisnant",
+      "relationship": "合作者",
+      "period": "1999",
+      "context": "中微子振荡"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "张宗燧",
+      "field": "理论物理",
+      "institution": "中国科学院数学研究所"
+    },
+    {
+      "name": "朱洪元",
+      "field": "粒子物理",
+      "institution": "中国科学院原子能研究所"
+    }
+  ],
+  "students": [
+    {
+      "name": "黄朝商",
+      "field": "理论物理",
+      "institution": "中国科学院理论物理研究所"
+    },
+    {
+      "name": "金洪英",
+      "field": "理论物理",
+      "institution": "中国科学院理论物理研究所"
+    },
+    {
+      "name": "黄明球",
+      "field": "理论物理",
+      "institution": "中国科学院理论物理研究所"
+    },
+    {
+      "name": "刘纯",
+      "field": "理论物理",
+      "institution": "中国科学院理论物理研究所"
+    }
+  ],
+  "key_events": [
+    {
+      "year": 1928,
+      "event": "生于江苏省南京市",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1947,
+      "event": "被保送至中央大学物理系",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1952,
+      "event": "毕业于南京大学物理系，分配到南京工学院",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1957,
+      "event": "发表第一篇学术论文《S状态介子——核子散射的重正化效应》",
+      "type": "PUBLICATION"
+    },
+    {
+      "year": 1958,
+      "event": "到中国科学院数学所攻读副博士研究生，师从张宗燧",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1961,
+      "event": "通过研究生论文答辩，留数学所工作",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1963,
+      "event": "升为中国科学院数学研究所副研究员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1965,
+      "event": "参与北京基本粒子理论组，研究层子模型",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1966,
+      "event": "在北京物理讨论会上就层子模型做专题发言",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1978,
+      "event": "升为中国科学院数学研究所研究员",
+      "type": "CAREER_MILESTONE"
+    },
+    {
+      "year": 1978,
+      "event": "参加第19届国际高能物理大会（东京）",
+      "type": "PARTICIPATION"
+    },
+    {
+      "year": 1980,
+      "event": "当选中国科学院数学物理学部学部委员（院士）",
+      "type": "HONOR"
+    },
+    {
+      "year": 1982,
+      "event": "层子模型获国家自然科学二等奖",
+      "type": "ACHIEVEMENT"
+    },
+    {
+      "year": 1984,
+      "event": "获国家级有突出贡献的中青年专家称号",
+      "type": "HONOR"
+    },
+    {
+      "year": 1988,
+      "event": "当选第七届全国政协委员",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1993,
+      "event": "当选第八届全国政协委员",
+      "type": "POLITICAL"
+    },
+    {
+      "year": 1998,
+      "event": "当选第九届全国政协委员",
+      "type": "POLITICAL"
+    }
+  ],
+  "awards": [
+    {
+      "year": 1977,
+      "name": "中国科学院先进工作者"
+    },
+    {
+      "year": 1982,
+      "name": "国家自然科学二等奖（层子模型）"
+    },
+    {
+      "year": 1984,
+      "name": "国家级有突出贡献的中青年专家"
+    },
+    {
+      "year": 1990,
+      "name": "政府特殊津贴"
+    }
+  ],
+  "_meta": {
+    "file": "戴元本.txt",
+    "chars": 9295,
+    "tokens": 8684,
+    "time": "2026-06-10 21:04:23"
+  }
+}
