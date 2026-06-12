@@ -10,6 +10,7 @@
 \usepackage[scaled=.90]{helvet}
 \usepackage{courier}
 \usepackage{graphicx}
+\usepackage{amsmath}
 \usepackage{booktabs}
 \usepackage{multirow}
 \usepackage{enumitem}
@@ -439,15 +440,64 @@ This transformation from narrative to metric is not merely academic. For a libra
 
 \subsection{A Quantitative Indicator System for Oral History Special Collections}
 
-The narrative arc is one of five computable indicators—four from the oral history experiments (Section~\ref{sec:oral}) plus one from the Wikidata comparison (Section~\ref{sec:wikidata})—that together constitute a dashboard for data-informed collection assessment. We propose the following five metrics, designated MI1 through MI5:
+The narrative arc is one of five computable indicators---four from the oral history experiments (Section~\ref{sec:oral}) plus one from the Wikidata comparison (Section~\ref{sec:wikidata})---that together constitute a dashboard for data-informed collection assessment. We propose the following five metrics, designated MI1 through MI5. Table~\ref{tab:indicators} provides a summary.
 
-\begin{enumerate}[label=\textbf{MI\arabic*:},leftmargin=*]
-    \item \textbf{Uncertainty Density (UD):} markers per 1,000 characters, capturing hedging, approximation, and inferential language. Range 1.12--5.96 ($5.3\times$). \textbf{Curatorial action:} high-UD collections flagged for fact-checking or supplementary source verification. A \texttt{certainty} field (CERTAIN / PROBABLE / UNCERTAIN) can be auto-populated from LLM extraction with marker context.
-    \item \textbf{Memory Bias Index (MBI):} the $\chi^2$ $z$-score per decade, identifying systematic over- or under-representation. Our corpus: $\chi^2 = 842.2$, $df = 12$, $p < 10^{-172}$, with 1960s--1970s under-representation ($z < -2.7$) constituting a ``historical silence'' coincident with the Cultural Revolution. \textbf{Curatorial action:} flag temporal gaps in metadata; prioritize acquisition of contemporaneous institutional records to fill documented silences.
-    \item \textbf{Cross-Reference Connectivity (CRC):} the proportion of internal fact claims reciprocally confirmed by another collection. Our CRC = 0.0\% across 26 chronologies---complete narrative isolation. \textbf{Curatorial action:} low-CRC collections identified for cross-referencing projects; high-CRC clusters indicate well-triangulated factual cores.
-    \item \textbf{Narrative Arc Type (NAT):} classification of life trajectory (TRIUMPH, RESILIENCE, STEADY, ASCETIC) with affective tone scores. \textbf{Curatorial action:} facet-based browsing, collection gap analysis (e.g., all TRIUMPH, no ASCETIC → genre bias), researcher filtering by narrative type.
-    \item \textbf{Wikidata Enrichment Ratio (WER):} the ratio of LLM-extracted facts to Wikidata facts for the same entity. Our mean WER = 36.8$\times$, with mentorship, collaboration, and biographical events entirely absent from Wikidata. \textbf{Curatorial action:} high-WER collections prioritized for Wikidata publication; WER quantifies the unique contribution of each special collection to the global linked data ecosystem.
-\end{enumerate}
+\begin{table}[ht]
+\centering
+\caption{Five computable quality indicators for oral history special collections.}
+\label{tab:indicators}
+\begin{tabular}{lcll}
+\toprule
+Indicator & Formula & Provenance & Curatorial Action \\
+\midrule
+MI1: UD & $\text{UD} = \frac{N_{\text{markers}}}{N_{\text{chars}} / 1000}$ & This study & Flag for fact-checking \\
+MI2: MBI & $z_d = \frac{O_d - E}{\sqrt{E}}$ & $\chi^2$ framework \cite{rubin1986autobiographical}; operationalization ours & Acquire supplementary records \\
+MI3: CRC & $\text{CRC} = \frac{C_{\text{confirmed}}}{C_{\text{total}}} \times 100\%$ & Adapted from SNAC \cite{larson2015connecting} & Cross-reference project targeting \\
+MI4: NAT & $\text{NA} = \underset{a \in \mathcal{A}}{\arg\max}\, P(a \mid \text{events})$  & Archetypes from Reagan et al.\ \cite{reagan2016emotional} & Faceted browsing, gap analysis \\
+MI5: WER & $\text{WER} = \frac{F_{\text{LLM}}}{F_{\text{WD}}}$ & This study & Wikidata publication prioritization \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\textbf{MI1: Uncertainty Density (UD).} UD quantifies the frequency of linguistic uncertainty markers in oral testimony, capturing the degree to which a narrative relies on hedging, approximation, and inferential language rather than declarative factual statements. It is computed as:
+
+\begin{equation}
+\text{UD} = \frac{N_{\text{markers}}}{N_{\text{chars}} / 1000}
+\end{equation}
+
+where $N_{\text{markers}}$ is the total count of markers across six categories (approximation, hedging, memory uncertainty, vagueness, inference, contradiction) identified via regex patterns described in Section~\ref{sec:oral}, and $N_{\text{chars}}$ is the total character count of the source text. Our corpus yields UD values ranging from 1.12 to 5.96 markers per 1,000 characters ($5.3\times$ range). UD is proposed here as a novel curatorial metric; while uncertainty detection in text has precedent in sentiment analysis and factuality evaluation \cite{griffin2014text}, its operationalization as a collection-level quality indicator is, to our knowledge, original. \textbf{Curatorial action:} high-UD collections are flagged for fact-checking or supplementary source verification. A \texttt{certainty} field (CERTAIN / PROBABLE / UNCERTAIN) can be auto-populated from LLM extraction with marker context.
+
+\textbf{MI2: Memory Bias Index (MBI).} MBI identifies decades in which event density deviates systematically from expectation, revealing under-documented periods that constitute ``historical silences.'' It is computed as the standardized residual ($z$-score) in a $\chi^2$ goodness-of-fit test comparing observed event counts per decade ($O_d$) against the uniform-distribution expectation ($E = \sum O_d / D$, where $D$ is the number of decades):
+
+\begin{equation}
+z_d = \frac{O_d - E}{\sqrt{E}}
+\end{equation}
+
+with overall significance assessed via $\chi^2 = \sum_d z_d^2$, $df = D - 1$. The $\chi^2$ framework is standard inferential statistics; the reminiscence bump concept originates in autobiographical memory research \cite{rubin1986autobiographical}. Our contribution is the operationalization of per-decade $z_d$ as a named, actionable curation metric (MBI) that maps statistical significance to specific archival interventions. Our corpus: $\chi^2 = 842.2$, $df = 12$, $p < 10^{-172}$, with 1960s--1970s under-representation ($z < -2.7$) coincident with the Cultural Revolution. \textbf{Curatorial action:} flag temporal gaps in metadata; prioritize acquisition of contemporaneous institutional records to fill documented silences.
+
+\textbf{MI3: Cross-Reference Connectivity (CRC).} CRC measures the degree to which fact claims in one oral history collection are reciprocally confirmed by at least one other collection in the same corpus. It is computed as:
+
+\begin{equation}
+\text{CRC} = \frac{C_{\text{confirmed}}}{C_{\text{total}}} \times 100\%
+\end{equation}
+
+where $C_{\text{total}}$ is the total number of verifiable fact claims (career organizations, educational institutions, named collaborators) and $C_{\text{confirmed}}$ is the subset confirmed by $\geq 1$ other collection. CRC is conceptually inspired by the Social Networks and Archival Context (SNAC) project's vision of interconnected archival description \cite{larson2015connecting}, adapted here into a quantitative collection-level metric. Our corpus: CRC = 0.0\% across 26 chronologies---complete narrative isolation, confirming that these chronologies were compiled independently without cross-referencing. \textbf{Curatorial action:} low-CRC collections identified for cross-referencing projects; high-CRC clusters indicate well-triangulated factual cores suitable as linked data anchors.
+
+\textbf{MI4: Narrative Arc Type (NAT).} NAT classifies each scientist's life trajectory into one of four archetypes, operationalizing the computational narratology framework of Reagan et al.\ \cite{reagan2016emotional}, who demonstrated that emotional arcs follow six quantifiable shapes. For the specific genre constraints of Chinese nianbiao---honorific commemoration emphasizing institutional milestones---we adapt these to four archetypes: TRIUMPH (steady rise to recognition), RESILIENCE (interruption followed by recovery), STEADY (consistent scholarship without dramatic arcs), and ASCETIC (research-focused, minimal personal content). Classification is performed via LLM with temperature = 0:
+
+\begin{equation}
+\text{NA} = \underset{a \in \{\text{TRIUMPH, RESILIENCE, STEADY, ASCETIC}\}}{\arg\max}\, P(a \mid \text{events})
+\end{equation}
+
+accompanied by a three-dimensional affective tone score (positive, negative, neutral) summing to 1.0, extracted simultaneously. The four-type simplification of Reagan et al.'s six-shape taxonomy is our adaptation; the LLM-based classification methodology is described in Section~\ref{sec:oral}. \textbf{Curatorial action:} faceted browsing by narrative type, collection gap analysis (e.g., all TRIUMPH, no ASCETIC $\rightarrow$ genre bias), researcher filtering by narrative trajectory.
+
+\textbf{MI5: Wikidata Enrichment Ratio (WER).} WER quantifies the unique contribution of a special collection to the global linked data ecosystem by measuring the ratio of LLM-extracted facts to facts already present in Wikidata for the same entities:
+
+\begin{equation}
+\text{WER} = \frac{F_{\text{LLM}}}{F_{\text{WD}}}
+\end{equation}
+
+where $F_{\text{LLM}}$ is the total number of structured facts extracted by our LLM pipeline from the nianbiao, and $F_{\text{WD}}$ is the total number of comparable facts in Wikidata for the matching scientist Q-items (measured via a 142~GB full Wikidata dump; see Section~\ref{sec:wikidata}). WER is proposed here as a novel metric; while Wikidata coverage analysis exists \cite{allisoncassin2018wikidata}, a quantitative per-collection enrichment ratio has not, to our knowledge, been formalized. Our corpus: mean WER = 36.8$\times$, with mentorship, collaboration, and biographical events entirely absent from Wikidata. \textbf{Curatorial action:} high-WER collections prioritized for Wikidata publication; WER quantifies the unique contribution of each collection and supports evidence-based digitization grant applications.
 
 These five metrics are interdependent rather than independent. A high-UD collection (MI1) with low CRC (MI3) signals uncertain, unverified testimony---a candidate for archival curation. A collection with high WER (MI5) and a RESILIENCE NAT (MI4) identifies a personal history of scientific achievement under adversity that is invisible in Wikidata---a candidate for linked data publication. A collection with extreme negative MBI (MI2) values for a specific decade signals a silence that no amount of computational processing can fill---a candidate for supplementary archival acquisition. The indicator system thus provides not just description but \textit{prescription}: it tells the curator where to act.
 
