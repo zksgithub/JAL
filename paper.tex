@@ -23,10 +23,9 @@
 
 \begin{frontmatter}
 
-\title{Uncertainty, Silence, and Isolation:\\
-       Computational Analysis of Oral History Features\\
-       in Chinese Scientist Chronologies\\
-       for Library Special Collections}
+\title{From Individual Chronologies to Institutional Memory:\\\\
+       Computational Curation of Scientist Oral History\\\\
+       through Knowledge Graphs and Five Quality Metrics}
 
 \begin{abstract}
 Oral history constitutes a vital but methodologically under-examined component of library special collections. Unlike institutional records, oral testimonies carry intrinsic uncertainty, memory bias, and narrative isolation that challenge traditional cataloging and quality assessment. This study applies large language model (LLM)-based semantic extraction and multi-relational knowledge graph analysis to 26 chronological biographies (nianbiao) of Chinese senior scientists (born 1898--1935), comprising 2,582 discrete life events, to address three questions: (1) Can oral history collection quality be computationally quantified? (2) What gaps exist between special collections and public knowledge graphs? (3) Does enrichment with public data improve quality metrics? We develop a three-tier hybrid extraction architecture combining deterministic regex with LLM deep extraction (97.5\% education precision, 88.7\% award precision) and propose five computable quality indicators: Uncertainty Density (UD, range 1.12--5.96 markers/1K chars), Memory Bias Index (MBI, $\chi^2 = 842.2$, $p < 10^{-172}$), Cross-Reference Connectivity (CRC = 0.0\%), Narrative Arc Type (NAT, 57.7\% TRIUMPH), and Wikidata Enrichment Ratio (WER = 36.8$\times$). Comparison with Wikidata—measured against a full 142~GB Wikidata JSON dump—reveals that mentorship, collaboration, and biographical events—three relationship types critical to scientific biography—are entirely absent from the public knowledge graph for this cohort, while LLM extraction recovers 74 mentors, 268 collaborators, and 523 key life events. Projecting post-enrichment alignment, publishing these data would contribute approximately 1,717 net-new linked data statements at \$0.0007 per fact. We argue that the MI1--MI5 indicator system forms a closed-loop curatorial framework: libraries assess oral history quality (RQ1), identify Wikidata complementarity gaps (RQ2), publish enrichment data, then re-evaluate whether indicators improve or warrant further follow-up (RQ3). This transforms academic libraries from passive collection custodians into active linked data publishers with a quantifiable, iterative quality assurance process for oral history special collections.
@@ -69,6 +68,14 @@ Recent work has explored the intersection of large language models and knowledge
 \subsection{The Nianbiao Tradition and Linked Data}
 
 The Chinese nianbiao---chronological biography---originates in Song dynasty historiography and presents life events in strict temporal order with precise dates and institutional contexts \cite{twitchett1962chinese,wilkinson2018chinese}. This structured format maps intuitively to the event-centric data models of modern knowledge graphs. The nianbiao's origin as retrospectively compiled oral testimony connects it to the broader oral history tradition, whose methodological foundations were established by Thompson \cite{thompson2000voice} and whose narrative theory was developed by Portelli \cite{portelli1991death}. Initiatives like SNAC (Social Networks and Archival Context) and VIAF have demonstrated the feasibility of person-centric linked data \cite{larson2015connecting}, while the CIDOC-CRM ontology provides a conceptual framework for modeling biographical events and their institutional contexts \cite{doerr2003cidoc}.
+
+\subsection{Narrative Studies in Oral History and Computational Curation}
+
+The study of narrative structure in oral history has deep roots in both the humanistic and computational traditions. Portelli \cite{portelli1991death} established that oral testimonies are not merely factual records but constructed narratives shaped by memory, identity, and the interview context---a theoretical foundation that directly informs our treatment of nianbiao as curated retrospective accounts rather than objective chronicles. Thompson \cite{thompson2000voice} further argued that the narrative form of oral history is itself a source of evidence, encoding social meaning in its selection, sequencing, and emphasis of events.
+
+In computational narrative studies, Reagan et al.\ \cite{reagan2016emotional} demonstrated that the emotional trajectories of stories follow six basic shapes (rags-to-riches, tragedy, man-in-a-hole, Icarus, Cinderella, Oedipus) through sentiment analysis of large text corpora, providing empirical evidence that narrative arcs are quantifiable and reproducible patterns rather than subjective interpretations. Jockers \cite{jockers2015syuzhet} developed computational tools for extracting sentiment trajectories from literary texts, showing that plot structures can be algorithmically detected and compared across works. These advances in computational narratology underpin our narrative arc classification (TRIUMPH, RESILIENCE, STEADY, ASCETIC) in Section~\ref{sec:oral}: the LLM-based classification is not an ad-hoc labeling but an operationalization of established narrative archetypes adapted to the specific genre constraints of Chinese scientific nianbiao.
+
+Within library and information science, the ``narrative turn'' has gained traction as scholars recognize that traditional metadata schemas (Dublin Core, MARC) are ill-suited to capturing the temporal, affective, and structural dimensions of life narratives \cite{sherratt2020biographical}. Trainin et al.\ \cite{trainin2026testimony} recently proposed a scalable computational framework for comparing oral history archives, demonstrating that structural patterns across testimonies---including narrative arc distributions---constitute a new dimension of archival metadata. Our work extends this line of inquiry by integrating narrative arc classification into a broader, multi-indicator quality assessment system (MI1--MI5) that links the narrative characteristics of oral history collections to concrete curatorial actions: collection browsing, gap analysis, researcher filtering, and Wikidata enrichment prioritization.
 
 % ============================================================
 \section{Methodology}
@@ -596,6 +603,12 @@ Thompson, P. (2000). \emph{The voice of the past: Oral history} (3rd ed.). Oxfor
 
 \bibitem{trainin2026testimony}
 Trainin, I., Keydar, R., \& Pinchevski, A. (2026). The shape of testimony: A scalable framework for oral history archive comparison. \emph{arXiv preprint}, 2605.21623.
+
+\bibitem{reagan2016emotional}
+Reagan, A.~J., Mitchell, L., Kiley, D., Danforth, C.~M., \& Dodds, P.~S. (2016). The emotional arcs of stories are dominated by six basic shapes. \emph{EPJ Data Science}, 5(1), 31.
+
+\bibitem{jockers2015syuzhet}
+Jockers, M.~L. (2015). \emph{Syuzhet: Extract sentiment and plot arcs from text}. R package version 1.0.4.
 
 \bibitem{allisoncassin2018wikidata}
 Allison-Cassin, S., \& Scott, D. (2018). Wikidata: A platform for your library's linked data. \emph{The Code4Lib Journal}, (40).
